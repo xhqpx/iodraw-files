@@ -8,7 +8,7 @@
           <mxGeometry x="660" y="120" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-104" value="博客评论管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="837" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="817" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-105" value="博客活动管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1020" y="270" width="120" height="60" as="geometry" />
@@ -17,10 +17,10 @@
           <mxGeometry x="1190" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-107" value="博客管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-108" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-109" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
