@@ -178,19 +178,19 @@
         <mxCell id="Cc249yWl1u7GYOQUU85u-32" value="返回用户数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1004" y="428" />
+              <mxPoint x="1004" y="360" />
             </Array>
-            <mxPoint x="694.5" y="428" as="sourcePoint" />
-            <mxPoint x="1294.5" y="428" as="targetPoint" />
+            <mxPoint x="694.5" y="360" as="sourcePoint" />
+            <mxPoint x="1294.5" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-33" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="907" y="482" />
+              <mxPoint x="907.5" y="380" />
             </Array>
-            <mxPoint x="1294.5" y="482" as="sourcePoint" />
-            <mxPoint x="494.5" y="482" as="targetPoint" />
+            <mxPoint x="1295" y="380" as="sourcePoint" />
+            <mxPoint x="495" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-34" value="检查活动名额" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Cc249yWl1u7GYOQUU85u-3" target="Cc249yWl1u7GYOQUU85u-4">
