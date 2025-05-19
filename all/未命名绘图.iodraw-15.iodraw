@@ -158,29 +158,29 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-29" value="表情转换" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="346" y="472" />
-              <mxPoint x="346" y="502" />
+              <mxPoint x="346" y="350" />
+              <mxPoint x="346" y="380" />
             </Array>
-            <mxPoint x="294.5" y="472" as="sourcePoint" />
-            <mxPoint x="294.5" y="502" as="targetPoint" />
+            <mxPoint x="294.5" y="350" as="sourcePoint" />
+            <mxPoint x="294.5" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-30" value="提交评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="556" />
+              <mxPoint x="204" y="390" />
             </Array>
-            <mxPoint x="94.5" y="556" as="sourcePoint" />
-            <mxPoint x="294.5" y="556" as="targetPoint" />
+            <mxPoint x="94.5" y="390" as="sourcePoint" />
+            <mxPoint x="294.5" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-31" value="发送评论请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404" y="610" />
+              <mxPoint x="404" y="400" />
             </Array>
-            <mxPoint x="294.5" y="610" as="sourcePoint" />
-            <mxPoint x="494.5" y="610" as="targetPoint" />
+            <mxPoint x="294.5" y="400" as="sourcePoint" />
+            <mxPoint x="494.5" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-32" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
