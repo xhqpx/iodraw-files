@@ -204,19 +204,19 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-34" value="保存评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="604" y="819" />
+              <mxPoint x="604" y="470" />
             </Array>
-            <mxPoint x="494.5" y="819" as="sourcePoint" />
-            <mxPoint x="694.5" y="819" as="targetPoint" />
+            <mxPoint x="494.5" y="470" as="sourcePoint" />
+            <mxPoint x="694.5" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-35" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="873" />
+              <mxPoint x="607" y="490" />
             </Array>
-            <mxPoint x="694.5" y="873" as="sourcePoint" />
-            <mxPoint x="494.5" y="873" as="targetPoint" />
+            <mxPoint x="694.5" y="490" as="sourcePoint" />
+            <mxPoint x="494.5" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-36" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
