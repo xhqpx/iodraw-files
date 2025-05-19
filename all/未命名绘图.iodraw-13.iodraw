@@ -194,19 +194,19 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-31" value="点击发布活动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204.5" y="570" />
+              <mxPoint x="204.5" y="360" />
             </Array>
-            <mxPoint x="95" y="570" as="sourcePoint" />
-            <mxPoint x="295" y="570" as="targetPoint" />
+            <mxPoint x="95" y="360" as="sourcePoint" />
+            <mxPoint x="295" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-32" value="提交活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404.5" y="624" />
+              <mxPoint x="404.5" y="370" />
             </Array>
-            <mxPoint x="295" y="624" as="sourcePoint" />
-            <mxPoint x="495" y="624" as="targetPoint" />
+            <mxPoint x="295" y="370" as="sourcePoint" />
+            <mxPoint x="495" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-33" value="数据验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
