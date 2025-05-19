@@ -23,7 +23,7 @@
           <mxGeometry x="1035" y="130" width="150" height="2682" as="geometry" />
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-62" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="84" y="1483" width="837" height="634" as="geometry" />
+          <mxGeometry x="110" y="680" width="837" height="634" as="geometry" />
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-63" value="[验证通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="iaYVX4Re5i9gffo3aood-62">
           <mxGeometry x="30" width="807" height="20" as="geometry" />
@@ -220,12 +220,14 @@
             <mxPoint x="509.3888888888889" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-86" value="内容格式验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-58" target="iaYVX4Re5i9gffo3aood-58">
+        <mxCell id="iaYVX4Re5i9gffo3aood-86" value="内容格式验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="561" y="1433" />
-              <mxPoint x="561" y="1463" />
+              <mxPoint x="561" y="650" />
+              <mxPoint x="561" y="680" />
             </Array>
+            <mxPoint x="509.3888888888889" y="650" as="sourcePoint" />
+            <mxPoint x="509.3888888888889" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-87" value="保存文章数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-58" target="iaYVX4Re5i9gffo3aood-59">
