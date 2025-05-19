@@ -17,7 +17,7 @@
           <mxGeometry x="220" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-5" value="博客文章点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-6" value="博客标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
@@ -307,10 +307,16 @@
             <mxPoint x="220" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-102" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-102" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="O8l1nYk0ELIrSpJ0aQ6Y-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-180" y="50" as="sourcePoint" />
-            <mxPoint x="-20" y="50" as="targetPoint" />
+            <mxPoint x="70" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-107" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="300" as="sourcePoint" />
+            <mxPoint x="220" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
