@@ -41,6 +41,7 @@
         <mxCell id="iaYVX4Re5i9gffo3aood-66" value="获取分类和标签列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-57" target="iaYVX4Re5i9gffo3aood-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="340" y="250" />
               <mxPoint x="411" y="293" />
             </Array>
           </mxGeometry>
