@@ -31,6 +31,12 @@
         <mxCell id="BOF2VeTGqJbNLAkHFxSO-9" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="190" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="BOF2VeTGqJbNLAkHFxSO-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="250" as="sourcePoint" />
+            <mxPoint x="470" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
