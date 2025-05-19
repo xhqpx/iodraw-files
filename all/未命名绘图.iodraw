@@ -1674,11 +1674,11 @@
         <mxCell id="ikWXHy-XoysQqUefqOoi-379" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-380" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="ikWXHy-XoysQqUefqOoi-380" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="802" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ikWXHy-XoysQqUefqOoi-381" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="807" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ikWXHy-XoysQqUefqOoi-382" value="博客文章标签关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="802" width="120" height="60" as="geometry" />
