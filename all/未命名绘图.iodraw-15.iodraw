@@ -35,7 +35,7 @@
           <mxGeometry y="50" width="422" height="3" as="geometry" />
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-11" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="1123" width="1222" height="796" as="geometry" />
+          <mxGeometry x="80" y="440" width="1222" height="796" as="geometry" />
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-12" value="[评论合法]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1R8mmW_jaQAJaSPraaLX-11">
           <mxGeometry x="30" width="1192" height="20" as="geometry" />
@@ -186,19 +186,19 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-32" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="804" y="664" />
+              <mxPoint x="804" y="410" />
             </Array>
-            <mxPoint x="494.5" y="664" as="sourcePoint" />
-            <mxPoint x="1094.5" y="664" as="targetPoint" />
+            <mxPoint x="494.5" y="410" as="sourcePoint" />
+            <mxPoint x="1094.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-33" value="返回过滤结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="807" y="718" />
+              <mxPoint x="807" y="430" />
             </Array>
-            <mxPoint x="1094.5" y="718" as="sourcePoint" />
-            <mxPoint x="494.5" y="718" as="targetPoint" />
+            <mxPoint x="1094.5" y="430" as="sourcePoint" />
+            <mxPoint x="494.5" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-34" value="保存评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
