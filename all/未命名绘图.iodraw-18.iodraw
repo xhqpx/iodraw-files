@@ -68,7 +68,7 @@
           <mxGeometry x="967" y="537" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-22" value="密码验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1077" y="873" width="113" height="113" as="geometry" />
+          <mxGeometry x="980.5" y="607.5" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-23" value="提交密码修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="951" y="1059" width="157" height="48" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="1160" y="400" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-29" value="确认结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1492" y="873" width="114" height="114" as="geometry" />
+          <mxGeometry x="1167" y="488" width="114" height="114" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-30" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1383" y="1059" width="125" height="48" as="geometry" />
