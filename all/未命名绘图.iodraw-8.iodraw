@@ -67,10 +67,10 @@
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-35" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="O8l1nYk0ELIrSpJ0aQ6Y-34">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-36" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O8l1nYk0ELIrSpJ0aQ6Y-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-290" y="300" as="sourcePoint" />
-            <mxPoint x="-130" y="300" as="targetPoint" />
+            <mxPoint x="-710" y="69.5" as="sourcePoint" />
+            <mxPoint x="-550" y="69.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-37" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="O8l1nYk0ELIrSpJ0aQ6Y-36">
