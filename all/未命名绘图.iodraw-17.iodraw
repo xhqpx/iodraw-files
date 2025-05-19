@@ -17,7 +17,7 @@
           <mxGeometry x="314" y="711" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-57" value="手动输入账号密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="552" y="711" width="188" height="48" as="geometry" />
+          <mxGeometry x="520" y="600" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-58" value="选择用户身份" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="448" y="809" width="158" height="48" as="geometry" />
