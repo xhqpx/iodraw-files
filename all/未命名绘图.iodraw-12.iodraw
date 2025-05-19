@@ -38,12 +38,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-66" value="获取分类和标签列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-57" target="iaYVX4Re5i9gffo3aood-58">
+        <mxCell id="iaYVX4Re5i9gffo3aood-66" value="获取分类和标签列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="250" />
-              <mxPoint x="411" y="293" />
+              <mxPoint x="411" y="260" />
             </Array>
+            <mxPoint x="294.3888888888889" y="260" as="sourcePoint" />
+            <mxPoint x="509.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-67" value="查询分类数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-58" target="iaYVX4Re5i9gffo3aood-59">
