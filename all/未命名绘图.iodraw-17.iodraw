@@ -32,10 +32,10 @@
           <mxGeometry x="493" y="1030" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-63" value="生成Token" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="667" y="1623" width="133" height="48" as="geometry" />
+          <mxGeometry x="589" y="1143" width="133" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-64" value="返回错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="242" y="1492" width="158" height="48" as="geometry" />
+          <mxGeometry x="335" y="1150" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-65" value="保存登录状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="656" y="1776" width="157" height="48" as="geometry" />
