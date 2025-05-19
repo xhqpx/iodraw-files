@@ -125,12 +125,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-39" value="查看信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="202" y="398" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-39" value="查看信息" style="startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-40" value="修改信息" style="startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-4">
           <mxGeometry relative="1" as="geometry" />
