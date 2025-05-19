@@ -22,7 +22,7 @@
         <mxCell id="8yoyo77HNIjTTr8WmY0M-108" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-109" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="8yoyo77HNIjTTr8WmY0M-109" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
