@@ -29,10 +29,10 @@
           <mxGeometry x="1482" y="20" width="150" height="3441" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-9" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="94" y="527" width="1084" height="472" as="geometry" />
+          <mxGeometry x="84" y="527" width="1084" height="472" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-12" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="89" y="1117" width="1084" height="742" as="geometry" />
+          <mxGeometry x="84" y="1940" width="1084" height="742" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-13" value="[用户名可用]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="fVrJMErPfIncJ86ZV_w6-12">
           <mxGeometry x="30" width="1054" height="20" as="geometry" />
@@ -41,16 +41,16 @@
           <mxGeometry y="592" width="1084" height="3" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-15" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="1677" width="1494" height="1170" as="geometry" />
+          <mxGeometry x="74" y="1677" width="1494" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-16" value="[验证码正确]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="fVrJMErPfIncJ86ZV_w6-15">
-          <mxGeometry x="25" y="-823" width="1464" height="20" as="geometry" />
+          <mxGeometry x="30" width="1464" height="20" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-17" value="[验证码错误]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="fVrJMErPfIncJ86ZV_w6-15">
           <mxGeometry y="1020" width="1494" height="3" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-18" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="447" y="2034" width="526" height="293" as="geometry" />
+          <mxGeometry x="442" y="2857" width="526" height="293" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-19" value="[注册成功]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="fVrJMErPfIncJ86ZV_w6-18">
           <mxGeometry x="30" width="496" height="20" as="geometry" />
@@ -89,326 +89,256 @@
             <mxPoint x="94.91352941176464" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-35" value="填写注册信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-35" value="填写注册信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-1" target="fVrJMErPfIncJ86ZV_w6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="224" y="220" />
+              <mxPoint x="219" y="1043" />
             </Array>
-            <mxPoint x="99.32352941176464" y="220" as="sourcePoint" />
-            <mxPoint x="330.5000000000002" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-36" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-36" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="382" y="396" />
-              <mxPoint x="382" y="426" />
+              <mxPoint x="377" y="1219" />
+              <mxPoint x="377" y="1249" />
             </Array>
-            <mxPoint x="330.32352941176464" y="396" as="sourcePoint" />
-            <mxPoint x="330.32352941176464" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-37" value="密码强度检查" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-37" value="密码强度检查" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="382" y="480" />
-              <mxPoint x="382" y="510" />
+              <mxPoint x="377" y="1303" />
+              <mxPoint x="377" y="1333" />
             </Array>
-            <mxPoint x="330.32352941176464" y="480" as="sourcePoint" />
-            <mxPoint x="330.32352941176464" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-38" value="提交注册" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-38" value="提交注册" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-1" target="fVrJMErPfIncJ86ZV_w6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="224" y="564" />
+              <mxPoint x="219" y="1387" />
             </Array>
-            <mxPoint x="99.32352941176464" y="564" as="sourcePoint" />
-            <mxPoint x="330.5000000000002" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-39" value="发送注册请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-39" value="发送注册请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="618" />
+              <mxPoint x="435" y="1441" />
             </Array>
-            <mxPoint x="330.32352941176464" y="618" as="sourcePoint" />
-            <mxPoint x="530.5000000000002" y="618" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-40" value="验证验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-40" value="验证验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="955" y="672" />
+              <mxPoint x="950" y="1495" />
             </Array>
-            <mxPoint x="530.3235294117649" y="672" as="sourcePoint" />
-            <mxPoint x="1361.4999999999995" y="672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-41" value="获取缓存验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-41" value="获取缓存验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-7" target="fVrJMErPfIncJ86ZV_w6-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1174" y="726" />
+              <mxPoint x="1169" y="1549" />
             </Array>
-            <mxPoint x="1361.4999999999995" y="726" as="sourcePoint" />
-            <mxPoint x="961.3235294117653" y="726" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-42" value="返回验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-42" value="返回验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-5" target="fVrJMErPfIncJ86ZV_w6-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1171" y="780" />
+              <mxPoint x="1166" y="1603" />
             </Array>
-            <mxPoint x="961.3235294117653" y="780" as="sourcePoint" />
-            <mxPoint x="1361.4999999999995" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-43" value="返回验证结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-43" value="返回验证结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-7" target="fVrJMErPfIncJ86ZV_w6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="958" y="834" />
+              <mxPoint x="953" y="1657" />
             </Array>
-            <mxPoint x="1361.4999999999995" y="834" as="sourcePoint" />
-            <mxPoint x="530.3235294117649" y="834" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-44" value="密码加密" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-44" value="密码加密" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1055" y="935" />
+              <mxPoint x="1050" y="1758" />
             </Array>
-            <mxPoint x="530.3235294117649" y="935" as="sourcePoint" />
-            <mxPoint x="1561.4999999999995" y="935" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-45" value="返回加密密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-45" value="返回加密密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-8" target="fVrJMErPfIncJ86ZV_w6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1058" y="989" />
+              <mxPoint x="1053" y="1812" />
             </Array>
-            <mxPoint x="1561.4999999999995" y="989" as="sourcePoint" />
-            <mxPoint x="530.3235294117649" y="989" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-46" value="检查用户名是否已存在" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-46" value="检查用户名是否已存在" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="1043" />
+              <mxPoint x="650" y="1866" />
             </Array>
-            <mxPoint x="530.3235294117649" y="1043" as="sourcePoint" />
-            <mxPoint x="761.5" y="1043" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-47" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-47" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-4" target="fVrJMErPfIncJ86ZV_w6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="658" y="1097" />
+              <mxPoint x="653" y="1920" />
             </Array>
-            <mxPoint x="761.5" y="1097" as="sourcePoint" />
-            <mxPoint x="530.3235294117649" y="1097" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-48" value="创建用户记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-48" value="创建用户记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="1198" />
+              <mxPoint x="650" y="2021" />
             </Array>
-            <mxPoint x="530.3235294117649" y="1198" as="sourcePoint" />
-            <mxPoint x="761.5" y="1198" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-49" value="创建成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-49" value="创建成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-4" target="fVrJMErPfIncJ86ZV_w6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="658" y="1252" />
+              <mxPoint x="653" y="2075" />
             </Array>
-            <mxPoint x="761.5" y="1252" as="sourcePoint" />
-            <mxPoint x="530.3235294117649" y="1252" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-50" value="创建用户配置" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-50" value="创建用户配置" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="1306" />
+              <mxPoint x="650" y="2129" />
             </Array>
-            <mxPoint x="530.3235294117649" y="1305.9999999999995" as="sourcePoint" />
-            <mxPoint x="761.5" y="1305.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-51" value="创建用户统计" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-51" value="创建用户统计" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="1360" />
+              <mxPoint x="650" y="2183" />
             </Array>
-            <mxPoint x="530.3235294117649" y="1360" as="sourcePoint" />
-            <mxPoint x="761.5" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-52" value="更新用户缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-52" value="更新用户缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="755" y="1414" />
+              <mxPoint x="750" y="2237" />
             </Array>
-            <mxPoint x="530.3235294117649" y="1414" as="sourcePoint" />
-            <mxPoint x="961.5" y="1414" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-53" value="发送欢迎邮件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-53" value="发送欢迎邮件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="855" y="1468" />
+              <mxPoint x="850" y="2291" />
             </Array>
-            <mxPoint x="530.3235294117649" y="1468" as="sourcePoint" />
-            <mxPoint x="1161.4999999999995" y="1468" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-54" value="发送欢迎信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-54" value="发送欢迎信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-6" target="fVrJMErPfIncJ86ZV_w6-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="643" y="1522" />
+              <mxPoint x="638" y="2345" />
             </Array>
-            <mxPoint x="1161.4999999999995" y="1522" as="sourcePoint" />
-            <mxPoint x="99.32352941176464" y="1522" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-55" value="返回注册成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-55" value="返回注册成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="443" y="1576" />
+              <mxPoint x="438" y="2399" />
             </Array>
-            <mxPoint x="530.5000000000002" y="1575.9999999999995" as="sourcePoint" />
-            <mxPoint x="330.32352941176464" y="1575.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-56" value="显示注册成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-56" value="显示注册成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="227" y="1630" />
+              <mxPoint x="222" y="2453" />
             </Array>
-            <mxPoint x="330.5000000000002" y="1630" as="sourcePoint" />
-            <mxPoint x="99.32352941176464" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-57" value="跳转到登录页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-57" value="跳转到登录页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="227" y="1684" />
+              <mxPoint x="222" y="2507" />
             </Array>
-            <mxPoint x="330.5000000000002" y="1684" as="sourcePoint" />
-            <mxPoint x="99.32352941176464" y="1684" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-58" value="返回用户名已存在" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-58" value="返回用户名已存在" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="443" y="1785" />
+              <mxPoint x="438" y="2608" />
             </Array>
-            <mxPoint x="530.5000000000002" y="1785" as="sourcePoint" />
-            <mxPoint x="330.32352941176464" y="1785" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-59" value="显示用户名已存在提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-59" value="显示用户名已存在提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="227" y="1839" />
+              <mxPoint x="222" y="2662" />
             </Array>
-            <mxPoint x="330.5000000000002" y="1839" as="sourcePoint" />
-            <mxPoint x="99.32352941176464" y="1839" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-60" value="返回验证码错误" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-60" value="返回验证码错误" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="443" y="1950" />
+              <mxPoint x="438" y="2773" />
             </Array>
-            <mxPoint x="530.5000000000002" y="1950" as="sourcePoint" />
-            <mxPoint x="330.32352941176464" y="1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-61" value="显示验证码错误提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-61" value="显示验证码错误提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="227" y="2004" />
+              <mxPoint x="222" y="2827" />
             </Array>
-            <mxPoint x="330.5000000000002" y="2004" as="sourcePoint" />
-            <mxPoint x="99.32352941176464" y="2004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-62" value="生成用户Token" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-62" value="生成用户Token" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="582" y="2115" />
-              <mxPoint x="582" y="2145" />
+              <mxPoint x="577" y="2938" />
+              <mxPoint x="577" y="2968" />
             </Array>
-            <mxPoint x="530.3235294117649" y="2115" as="sourcePoint" />
-            <mxPoint x="530.3235294117649" y="2145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-63" value="缓存用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-63" value="缓存用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="755" y="2199" />
+              <mxPoint x="750" y="3022" />
             </Array>
-            <mxPoint x="530.3235294117649" y="2199" as="sourcePoint" />
-            <mxPoint x="961.5" y="2199" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-64" value="记录注册日志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-64" value="记录注册日志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="655" y="2253" />
+              <mxPoint x="650" y="3076" />
             </Array>
-            <mxPoint x="530.3235294117649" y="2253" as="sourcePoint" />
-            <mxPoint x="761.5" y="2253" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-65" value="记录成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-65" value="记录成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-4" target="fVrJMErPfIncJ86ZV_w6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="658" y="2307" />
+              <mxPoint x="653" y="3130" />
             </Array>
-            <mxPoint x="761.5" y="2307" as="sourcePoint" />
-            <mxPoint x="530.3235294117649" y="2307" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-66" value="记录注册IP" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-66" value="记录注册IP" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1055" y="2371" />
+              <mxPoint x="1050" y="3194" />
             </Array>
-            <mxPoint x="530.3235294117649" y="2371" as="sourcePoint" />
-            <mxPoint x="1561.4999999999995" y="2371" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-67" value="保存IP信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-67" value="保存IP信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-8" target="fVrJMErPfIncJ86ZV_w6-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1174" y="2425" />
+              <mxPoint x="1169" y="3248" />
             </Array>
-            <mxPoint x="1561.4999999999995" y="2425" as="sourcePoint" />
-            <mxPoint x="761.3235294117649" y="2425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-68" value="检查注册频率" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-68" value="检查注册频率" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1055" y="2479" />
+              <mxPoint x="1050" y="3302" />
             </Array>
-            <mxPoint x="530.3235294117649" y="2479" as="sourcePoint" />
-            <mxPoint x="1561.4999999999995" y="2479" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-69" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-69" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-8" target="fVrJMErPfIncJ86ZV_w6-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1058" y="2533" />
+              <mxPoint x="1053" y="3356" />
             </Array>
-            <mxPoint x="1561.4999999999995" y="2533" as="sourcePoint" />
-            <mxPoint x="530.3235294117649" y="2533" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-70" value="包括：&#xa;用户名&#xa;密码&#xa;确认密码&#xa;验证码" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1063" width="281" height="122" as="geometry" />
+          <mxGeometry x="70" y="1063" width="281" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
