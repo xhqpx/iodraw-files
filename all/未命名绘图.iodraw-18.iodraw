@@ -29,10 +29,10 @@
           <mxGeometry x="289.5" y="412" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-137" value="内容审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="304" y="520" width="125" height="48" as="geometry" />
+          <mxGeometry x="304" y="492" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-138" value="保存评论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="304" y="816" width="126" height="48" as="geometry" />
+          <mxGeometry x="303" y="561" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-139" value="返回评论列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="556" y="914" width="157" height="48" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="486.5" y="380" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-141" value="修改评论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="479" y="718" width="126" height="48" as="geometry" />
+          <mxGeometry x="461" y="513" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-142" value="删除评论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="655" y="718" width="126" height="48" as="geometry" />
