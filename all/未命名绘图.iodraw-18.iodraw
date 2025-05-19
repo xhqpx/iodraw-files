@@ -29,7 +29,7 @@
           <mxGeometry x="250" y="609" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-234" value="返回活动列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="709" y="1237" width="157" height="48" as="geometry" />
+          <mxGeometry x="454" y="748" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-235" value="查看报名记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="584" y="380" width="157" height="48" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="709" y="700" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-242" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="741" y="1335" width="94" height="48" as="geometry" />
+          <mxGeometry x="485.5" y="820" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-243" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-220" target="pyMsCn0VhFOX8a8DkLYb-221">
           <mxGeometry relative="1" as="geometry">
