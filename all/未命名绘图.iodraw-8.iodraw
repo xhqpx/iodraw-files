@@ -20,7 +20,7 @@
           <mxGeometry x="-200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-6" value="博客标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="294" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-7" value="敏感词汇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
@@ -229,7 +229,7 @@
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-82" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="O8l1nYk0ELIrSpJ0aQ6Y-81">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-83" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-83" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O8l1nYk0ELIrSpJ0aQ6Y-54" target="O8l1nYk0ELIrSpJ0aQ6Y-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="200" as="sourcePoint" />
             <mxPoint x="220" y="200" as="targetPoint" />
