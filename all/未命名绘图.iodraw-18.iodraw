@@ -59,7 +59,7 @@
           <mxGeometry x="530" y="850" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-18" value="更新失败提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="1366" width="157" height="48" as="geometry" />
+          <mxGeometry x="701" y="850" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-19" value="输入旧密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1063" y="555" width="140" height="48" as="geometry" />
@@ -206,12 +206,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-54" value="失败" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-16" target="pyMsCn0VhFOX8a8DkLYb-18">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="719" y="1330" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-54" value="失败" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-16" target="pyMsCn0VhFOX8a8DkLYb-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-5" target="pyMsCn0VhFOX8a8DkLYb-19">
           <mxGeometry relative="1" as="geometry">
