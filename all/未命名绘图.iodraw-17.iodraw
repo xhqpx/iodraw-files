@@ -26,10 +26,7 @@
           <mxGeometry x="459" y="750" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-60" value="输入验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="900" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="UjucMe9a3skrXPQCy2JW-61" value="提交登录请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="449" y="1208" width="157" height="48" as="geometry" />
+          <mxGeometry x="564" y="880" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-62" value="后端验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="471" y="1307" width="113" height="113" as="geometry" />
@@ -97,7 +94,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UjucMe9a3skrXPQCy2JW-82" value="需要验证" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjucMe9a3skrXPQCy2JW-59" target="UjucMe9a3skrXPQCy2JW-60">
+        <mxCell id="UjucMe9a3skrXPQCy2JW-82" value="需要验证" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjucMe9a3skrXPQCy2JW-61" target="UjucMe9a3skrXPQCy2JW-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="601" y="1074" />
@@ -214,6 +211,16 @@
               <mxPoint x="734" y="2047" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="UjucMe9a3skrXPQCy2JW-101" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjucMe9a3skrXPQCy2JW-59" target="UjucMe9a3skrXPQCy2JW-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="552" y="852" as="sourcePoint" />
+            <mxPoint x="634" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UjucMe9a3skrXPQCy2JW-61" value="提交登录请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="471" y="960" width="157" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
