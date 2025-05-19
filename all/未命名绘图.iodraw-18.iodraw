@@ -22,17 +22,14 @@
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-133" value="评论管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="305" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-134" value="显示评论列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="565" width="156" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-135" value="分页/搜索/筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="68" y="718" width="174" height="48" as="geometry" />
+          <mxGeometry x="82" y="490" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-136" value="输入评论内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="289.5" y="412" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-137" value="内容审核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="305" y="718" width="125" height="48" as="geometry" />
+          <mxGeometry x="304" y="520" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-138" value="保存评论" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="304" y="816" width="126" height="48" as="geometry" />
@@ -107,12 +104,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=-0.01;entryX=0.68;entryY=1.02;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-135" target="pyMsCn0VhFOX8a8DkLYb-131">
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-155" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=-0.01;entryX=0.68;entryY=1.02;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-134" target="pyMsCn0VhFOX8a8DkLYb-131">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="211" y="681" />
-              <mxPoint x="211" y="508" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-156" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-132" target="pyMsCn0VhFOX8a8DkLYb-136">
@@ -201,6 +195,19 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-171" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=-0.01;entryX=0.68;entryY=1.02;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-135" target="pyMsCn0VhFOX8a8DkLYb-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="211" y="681" />
+              <mxPoint x="211" y="508" />
+            </Array>
+            <mxPoint x="177" y="718" as="sourcePoint" />
+            <mxPoint x="238" y="348" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-134" value="显示评论列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="100" y="410" width="156" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
