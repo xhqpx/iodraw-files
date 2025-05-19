@@ -77,18 +77,22 @@
             <mxPoint x="525.5000000000002" y="139.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-22" value="返回配置信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-2">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-22" value="返回配置信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="237" />
+              <mxPoint x="438" y="170" />
             </Array>
+            <mxPoint x="525.5000000000002" y="170" as="sourcePoint" />
+            <mxPoint x="325.32352941176464" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-23" value="显示注册表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-1">
+        <mxCell id="fVrJMErPfIncJ86ZV_w6-23" value="显示注册表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="222" y="291" />
+              <mxPoint x="222.59" y="190" />
             </Array>
+            <mxPoint x="326.0900000000002" y="190" as="sourcePoint" />
+            <mxPoint x="94.91352941176464" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-24" value="输入邮箱" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-1" target="fVrJMErPfIncJ86ZV_w6-2">
