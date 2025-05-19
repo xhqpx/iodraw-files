@@ -20,7 +20,7 @@
           <mxGeometry x="723" y="310" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-5" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1071" y="434" width="125" height="48" as="geometry" />
+          <mxGeometry x="967" y="335" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-6" value="删除账户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1486" y="676" width="125" height="48" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="701" y="850" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-19" value="输入旧密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1063" y="555" width="140" height="48" as="geometry" />
+          <mxGeometry x="959.5" y="392" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-20" value="输入新密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1063" y="676" width="140" height="48" as="geometry" />
