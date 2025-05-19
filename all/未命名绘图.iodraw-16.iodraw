@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.2081 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="brLGgvuTxxX-P9BjoHcr">
-    <mxGraphModel dx="1461" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1461" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -32,7 +32,7 @@
           <mxGeometry x="84" y="527" width="1084" height="472" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-12" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="84" y="1167" width="1084" height="742" as="geometry" />
+          <mxGeometry x="84" y="510" width="1084" height="742" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-13" value="[用户名可用]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="fVrJMErPfIncJ86ZV_w6-12">
           <mxGeometry x="30" width="1054" height="20" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry y="592" width="1084" height="3" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-15" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="70" y="1185" width="1494" height="1170" as="geometry" />
+          <mxGeometry x="60" y="520" width="1494" height="1170" as="geometry" />
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-16" value="[验证码正确]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="fVrJMErPfIncJ86ZV_w6-15">
           <mxGeometry x="30" y="-773" width="1464" height="20" as="geometry" />
