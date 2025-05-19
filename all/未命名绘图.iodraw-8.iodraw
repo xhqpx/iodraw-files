@@ -5,22 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-1" value="活动报名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="238" width="120" height="60" as="geometry" />
+          <mxGeometry x="520" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-2" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="203.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-3" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="200.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-4" value="博客文章标签关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-5" value="博客文章点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="220" width="120" height="60" as="geometry" />
+          <mxGeometry x="510" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-6" value="博客标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-7" value="敏感词汇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="390" width="120" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="630" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-10" value="博客文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="238" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-11" value="博客文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="238" width="120" height="60" as="geometry" />
