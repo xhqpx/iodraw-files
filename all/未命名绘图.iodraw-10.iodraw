@@ -20,7 +20,7 @@
           <mxGeometry x="1180" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-107" value="博客管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-108" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="120" height="60" as="geometry" />
@@ -59,7 +59,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-120" value="通&lt;div&gt;知&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="360" width="40" height="200" as="geometry" />
+          <mxGeometry x="170" y="360" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-121" value="&lt;div&gt;日&lt;/div&gt;&lt;div&gt;志&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="40" height="200" as="geometry" />
