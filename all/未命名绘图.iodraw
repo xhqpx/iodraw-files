@@ -1668,7 +1668,7 @@
         <mxCell id="ikWXHy-XoysQqUefqOoi-365" value="系统管理员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="43" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-366" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ikWXHy-XoysQqUefqOoi-366" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ikWXHy-XoysQqUefqOoi-367" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
