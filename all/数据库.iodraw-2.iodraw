@@ -292,13 +292,22 @@
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-14" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1" y="372" width="82" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Rem4Gt5yheDrW0K5sMs6-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Rem4Gt5yheDrW0K5sMs6-15" value="" style="endArrow=none;html=1;rounded=0;entryX=0.447;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Rem4Gt5yheDrW0K5sMs6-14" target="O8l1nYk0ELIrSpJ0aQ6Y-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-150" y="305" as="sourcePoint" />
             <mxPoint x="10" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-16" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Rem4Gt5yheDrW0K5sMs6-15">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rem4Gt5yheDrW0K5sMs6-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="305" as="sourcePoint" />
+            <mxPoint x="10" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rem4Gt5yheDrW0K5sMs6-18" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Rem4Gt5yheDrW0K5sMs6-17">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
