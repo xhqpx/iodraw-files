@@ -65,7 +65,7 @@
           <mxGeometry x="296.5" y="1580" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-74" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="2072" width="94" height="48" as="geometry" />
+          <mxGeometry x="520" y="1500" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjucMe9a3skrXPQCy2JW-53" target="UjucMe9a3skrXPQCy2JW-54">
           <mxGeometry relative="1" as="geometry">
@@ -145,12 +145,8 @@
         <mxCell id="UjucMe9a3skrXPQCy2JW-94" value="其他错误" style="startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjucMe9a3skrXPQCy2JW-68" target="UjucMe9a3skrXPQCy2JW-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UjucMe9a3skrXPQCy2JW-95" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjucMe9a3skrXPQCy2JW-69" target="UjucMe9a3skrXPQCy2JW-72">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="106" y="1850" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="UjucMe9a3skrXPQCy2JW-95" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjucMe9a3skrXPQCy2JW-69" target="UjucMe9a3skrXPQCy2JW-72">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-96" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UjucMe9a3skrXPQCy2JW-70" target="UjucMe9a3skrXPQCy2JW-72">
           <mxGeometry relative="1" as="geometry" />
