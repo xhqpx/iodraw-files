@@ -31,12 +31,6 @@
         <mxCell id="fVrJMErPfIncJ86ZV_w6-9" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="84" y="527" width="1084" height="472" as="geometry" />
         </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-10" value="[邮箱可用]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="fVrJMErPfIncJ86ZV_w6-9">
-          <mxGeometry x="30" width="1054" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-11" value="[邮箱已注册]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="fVrJMErPfIncJ86ZV_w6-9">
-          <mxGeometry y="322" width="1084" height="3" as="geometry" />
-        </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-12" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
           <mxGeometry x="84" y="1940" width="1084" height="742" as="geometry" />
         </mxCell>
@@ -93,83 +87,6 @@
             </Array>
             <mxPoint x="326.0900000000002" y="190" as="sourcePoint" />
             <mxPoint x="94.91352941176464" y="190" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-24" value="输入邮箱" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-1" target="fVrJMErPfIncJ86ZV_w6-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="219" y="345" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-25" value="验证邮箱格式" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="435" y="399" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-26" value="检查邮箱是否已注册" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="650" y="453" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-27" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-4" target="fVrJMErPfIncJ86ZV_w6-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="653" y="507" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-28" value="发送验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="850" y="608" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-29" value="发送验证邮件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-6" target="fVrJMErPfIncJ86ZV_w6-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="638" y="662" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-30" value="缓存验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="750" y="716" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-31" value="返回发送成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="438" y="770" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-32" value="显示验证码已发送" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="222" y="824" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-33" value="返回邮箱已存在" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-3" target="fVrJMErPfIncJ86ZV_w6-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="438" y="925" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fVrJMErPfIncJ86ZV_w6-34" value="显示邮箱已注册提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-2" target="fVrJMErPfIncJ86ZV_w6-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="222" y="979" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-35" value="填写注册信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="fVrJMErPfIncJ86ZV_w6-1" target="fVrJMErPfIncJ86ZV_w6-2">
