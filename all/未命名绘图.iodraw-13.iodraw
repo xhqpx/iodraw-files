@@ -167,28 +167,28 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-28" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="604.5" y="408" />
+              <mxPoint x="604.5" y="330" />
             </Array>
-            <mxPoint x="495" y="408" as="sourcePoint" />
-            <mxPoint x="695" y="408" as="targetPoint" />
+            <mxPoint x="495" y="330" as="sourcePoint" />
+            <mxPoint x="695" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-29" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607.5" y="462" />
+              <mxPoint x="607.5" y="340" />
             </Array>
-            <mxPoint x="695" y="462" as="sourcePoint" />
-            <mxPoint x="495" y="462" as="targetPoint" />
+            <mxPoint x="695" y="340" as="sourcePoint" />
+            <mxPoint x="495" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-30" value="返回保存状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407.5" y="516" />
+              <mxPoint x="407.5" y="350" />
             </Array>
-            <mxPoint x="495" y="516" as="sourcePoint" />
-            <mxPoint x="295" y="516" as="targetPoint" />
+            <mxPoint x="495" y="350" as="sourcePoint" />
+            <mxPoint x="295" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-31" value="点击发布活动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
