@@ -83,18 +83,22 @@
             <mxPoint x="509.3888888888889" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-71" value="返回分类和标签列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-58" target="iaYVX4Re5i9gffo3aood-57">
+        <mxCell id="iaYVX4Re5i9gffo3aood-71" value="返回分类和标签列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="414" y="563" />
+              <mxPoint x="414" y="350" />
             </Array>
+            <mxPoint x="509.5" y="350.0000000000002" as="sourcePoint" />
+            <mxPoint x="294.3888888888889" y="350.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-72" value="显示发布页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-57" target="iaYVX4Re5i9gffo3aood-56">
+        <mxCell id="iaYVX4Re5i9gffo3aood-72" value="显示发布页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="207" y="617" />
+              <mxPoint x="207" y="370" />
             </Array>
+            <mxPoint x="294.5" y="370" as="sourcePoint" />
+            <mxPoint x="94.38888888888891" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-73" value="上传文章封面图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-56" target="iaYVX4Re5i9gffo3aood-57">
