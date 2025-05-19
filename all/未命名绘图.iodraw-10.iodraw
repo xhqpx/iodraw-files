@@ -10,6 +10,9 @@
         <mxCell id="8yoyo77HNIjTTr8WmY0M-55" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;个人博客系统&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="120" width="310" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="8yoyo77HNIjTTr8WmY0M-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yoyo77HNIjTTr8WmY0M-104" target="8yoyo77HNIjTTr8WmY0M-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-104" value="博客评论管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="817" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,6 +29,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yoyo77HNIjTTr8WmY0M-107" target="8yoyo77HNIjTTr8WmY0M-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8yoyo77HNIjTTr8WmY0M-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yoyo77HNIjTTr8WmY0M-107" target="8yoyo77HNIjTTr8WmY0M-129">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-107" value="博客管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
