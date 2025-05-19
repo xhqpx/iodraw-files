@@ -103,17 +103,19 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-21" value="上传活动封面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="244" />
+              <mxPoint x="204.5" y="210" />
             </Array>
-            <mxPoint x="94.5" y="244" as="sourcePoint" />
-            <mxPoint x="294.5" y="244" as="targetPoint" />
+            <mxPoint x="95" y="210" as="sourcePoint" />
+            <mxPoint x="295" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7PPB9lePXS7oIDTDVKzh-22" value="上传图片" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-2" target="7PPB9lePXS7oIDTDVKzh-6">
+        <mxCell id="7PPB9lePXS7oIDTDVKzh-22" value="上传图片" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704" y="507" />
+              <mxPoint x="704.5" y="230" />
             </Array>
+            <mxPoint x="295" y="230" as="sourcePoint" />
+            <mxPoint x="1095" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-23" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-6" target="7PPB9lePXS7oIDTDVKzh-2">
