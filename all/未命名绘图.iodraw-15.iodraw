@@ -55,11 +55,13 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-17" value="[用户是评论作者]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1R8mmW_jaQAJaSPraaLX-16">
           <mxGeometry x="30" width="792" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-18" value="访问文章页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-18" value="访问文章页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="129" />
+              <mxPoint x="204" y="110" />
             </Array>
+            <mxPoint x="94.5" y="110" as="sourcePoint" />
+            <mxPoint x="294.5" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-19" value="获取评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-3">
