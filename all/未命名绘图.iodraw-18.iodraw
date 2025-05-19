@@ -50,10 +50,10 @@
           <mxGeometry x="709" y="1237" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-235" value="查看报名记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="797" y="555" width="157" height="48" as="geometry" />
+          <mxGeometry x="700" y="380" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-236" value="报名状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="819" y="654" width="112" height="112" as="geometry" />
+          <mxGeometry x="754" y="450" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-237" value="查看详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="638" y="1138" width="125" height="48" as="geometry" />
