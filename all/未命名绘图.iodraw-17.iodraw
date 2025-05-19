@@ -26,7 +26,7 @@
           <mxGeometry x="210" y="722" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-60" value="输入验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="628" y="880" width="140" height="48" as="geometry" />
+          <mxGeometry x="633" y="729" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-62" value="后端验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="493" y="1030" width="113" height="113" as="geometry" />
@@ -173,7 +173,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-61" value="提交登录请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="471" y="960" width="157" height="48" as="geometry" />
+          <mxGeometry x="435" y="823" width="157" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
