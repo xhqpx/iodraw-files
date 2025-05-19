@@ -37,8 +37,14 @@
         <mxCell id="8yoyo77HNIjTTr8WmY0M-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yoyo77HNIjTTr8WmY0M-109" target="8yoyo77HNIjTTr8WmY0M-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8yoyo77HNIjTTr8WmY0M-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yoyo77HNIjTTr8WmY0M-109" target="8yoyo77HNIjTTr8WmY0M-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8yoyo77HNIjTTr8WmY0M-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8yoyo77HNIjTTr8WmY0M-109" target="8yoyo77HNIjTTr8WmY0M-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-109" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-115" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="8yoyo77HNIjTTr8WmY0M-55" target="8yoyo77HNIjTTr8WmY0M-108">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
