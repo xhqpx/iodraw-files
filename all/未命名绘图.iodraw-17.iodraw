@@ -50,10 +50,10 @@
           <mxGeometry x="358" y="1215" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-69" value="提示账号不存在" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1776" width="172" height="48" as="geometry" />
+          <mxGeometry x="186" y="1340" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-70" value="提示密码错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="242" y="1776" width="157" height="48" as="geometry" />
+          <mxGeometry x="294" y="1410" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-71" value="提示未知错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="449" y="1776" width="157" height="48" as="geometry" />
