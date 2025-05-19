@@ -62,7 +62,7 @@
           <mxGeometry x="220" y="360" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-121" value="&lt;div&gt;日&lt;/div&gt;&lt;div&gt;志&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="360" width="40" height="200" as="geometry" />
+          <mxGeometry x="280" y="360" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-122" value="&lt;div&gt;敏&lt;/div&gt;&lt;div&gt;感&lt;/div&gt;&lt;div&gt;词&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="360" width="40" height="200" as="geometry" />
@@ -86,10 +86,10 @@
           <mxGeometry x="500" y="360" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-129" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="40" height="200" as="geometry" />
+          <mxGeometry x="795" y="360" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-130" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="40" height="200" as="geometry" />
+          <mxGeometry x="740" y="360" width="40" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
