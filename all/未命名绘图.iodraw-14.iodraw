@@ -142,19 +142,19 @@
         <mxCell id="Cc249yWl1u7GYOQUU85u-28" value="点击报名按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204.5" y="378" />
+              <mxPoint x="209.5" y="294.5" />
             </Array>
-            <mxPoint x="95" y="378" as="sourcePoint" />
-            <mxPoint x="295" y="378" as="targetPoint" />
+            <mxPoint x="100" y="294.5" as="sourcePoint" />
+            <mxPoint x="300" y="294.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-29" value="请求报名" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404.5" y="432" />
+              <mxPoint x="404.5" y="310" />
             </Array>
-            <mxPoint x="295" y="432" as="sourcePoint" />
-            <mxPoint x="495" y="432" as="targetPoint" />
+            <mxPoint x="295" y="310" as="sourcePoint" />
+            <mxPoint x="495" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-30" value="检查报名资格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Cc249yWl1u7GYOQUU85u-3" target="Cc249yWl1u7GYOQUU85u-7">
