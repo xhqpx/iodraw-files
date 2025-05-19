@@ -237,28 +237,28 @@
         <mxCell id="Cc249yWl1u7GYOQUU85u-39" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704" y="494" />
+              <mxPoint x="704.5" y="460" />
             </Array>
-            <mxPoint x="494.5" y="494" as="sourcePoint" />
-            <mxPoint x="894.5" y="494" as="targetPoint" />
+            <mxPoint x="495" y="460" as="sourcePoint" />
+            <mxPoint x="895" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-40" value="发送报名成功通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="804" y="548" />
+              <mxPoint x="804" y="480" />
             </Array>
-            <mxPoint x="494.5" y="548" as="sourcePoint" />
-            <mxPoint x="1094.5" y="548" as="targetPoint" />
+            <mxPoint x="494.5" y="480" as="sourcePoint" />
+            <mxPoint x="1094.5" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-41" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="907" y="602" />
+              <mxPoint x="907.5" y="500" />
             </Array>
-            <mxPoint x="1094.5" y="602" as="sourcePoint" />
-            <mxPoint x="694.5" y="602" as="targetPoint" />
+            <mxPoint x="1095" y="500" as="sourcePoint" />
+            <mxPoint x="695" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-42" value="发送活动提醒" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
