@@ -340,7 +340,7 @@
           <mxGeometry x="50" width="665" height="48" as="geometry" />
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-54" value="日志管理流程" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="741" width="665" height="48" as="geometry" />
+          <mxGeometry x="40" y="340" width="665" height="48" as="geometry" />
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-55" value="敏感词管理流程" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="1467" width="665" height="48" as="geometry" />
