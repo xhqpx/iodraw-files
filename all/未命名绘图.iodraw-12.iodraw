@@ -274,11 +274,13 @@
             <mxPoint x="294.3888888888889" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-93" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-57" target="iaYVX4Re5i9gffo3aood-56">
+        <mxCell id="iaYVX4Re5i9gffo3aood-93" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="207" y="1888" />
+              <mxPoint x="207" y="720" />
             </Array>
+            <mxPoint x="294.5" y="720" as="sourcePoint" />
+            <mxPoint x="94.38888888888891" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-94" value="跳转到文章详情页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-57" target="iaYVX4Re5i9gffo3aood-56">
