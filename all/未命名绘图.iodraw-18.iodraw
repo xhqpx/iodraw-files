@@ -76,14 +76,11 @@
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-24" value="显示错误提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1105" y="740" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-25" value="修改结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="973" y="1180" width="114" height="114" as="geometry" />
-        </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-26" value="修改成功提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="847" y="1366" width="158" height="48" as="geometry" />
+          <mxGeometry x="827" y="970" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-27" value="修改失败提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1055" y="1366" width="158" height="48" as="geometry" />
+          <mxGeometry x="1021" y="970" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-28" value="确认删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1160" y="400" width="126" height="48" as="geometry" />
@@ -210,7 +207,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-59" value="验证通过" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-22" target="pyMsCn0VhFOX8a8DkLYb-23">
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-59" value="验证通过" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-25" target="pyMsCn0VhFOX8a8DkLYb-23">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="1023" />
@@ -361,6 +358,16 @@
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-10" value="显示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="450" y="1030" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-82" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-22" target="pyMsCn0VhFOX8a8DkLYb-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="1007" y="691" as="sourcePoint" />
+            <mxPoint x="1014" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-25" value="修改结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="959.5" y="837" width="114" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
