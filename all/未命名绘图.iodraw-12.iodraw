@@ -201,19 +201,23 @@
             <mxPoint x="294.5" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-84" value="提交文章数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-57" target="iaYVX4Re5i9gffo3aood-58">
+        <mxCell id="iaYVX4Re5i9gffo3aood-84" value="提交文章数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="411" y="1295" />
+              <mxPoint x="411" y="600" />
             </Array>
+            <mxPoint x="294.3888888888889" y="600" as="sourcePoint" />
+            <mxPoint x="509.5" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-85" value="敏感词过滤" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-58" target="iaYVX4Re5i9gffo3aood-58">
+        <mxCell id="iaYVX4Re5i9gffo3aood-85" value="敏感词过滤" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="561" y="1349" />
-              <mxPoint x="561" y="1379" />
+              <mxPoint x="561" y="610" />
+              <mxPoint x="561" y="640" />
             </Array>
+            <mxPoint x="509.3888888888889" y="610" as="sourcePoint" />
+            <mxPoint x="509.3888888888889" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-86" value="内容格式验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-58" target="iaYVX4Re5i9gffo3aood-58">
