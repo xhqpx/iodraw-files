@@ -91,12 +91,9 @@
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-55" value="选择" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="310" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-58" value="点击" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-20" y="270" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.63;exitY=0.095;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" source="O8l1nYk0ELIrSpJ0aQ6Y-58" target="O8l1nYk0ELIrSpJ0aQ6Y-12" edge="1">
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.63;exitY=0.095;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" parent="1" target="O8l1nYk0ELIrSpJ0aQ6Y-12" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="350.5" as="sourcePoint" />
+            <mxPoint x="17.800000000000182" y="273.79999999999995" as="sourcePoint" />
             <mxPoint x="175" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -130,9 +127,9 @@
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-66" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="O8l1nYk0ELIrSpJ0aQ6Y-65" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="O8l1nYk0ELIrSpJ0aQ6Y-58" target="O8l1nYk0ELIrSpJ0aQ6Y-5" edge="1">
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="O8l1nYk0ELIrSpJ0aQ6Y-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-50" y="280" as="sourcePoint" />
+            <mxPoint x="-20" y="290" as="sourcePoint" />
             <mxPoint x="-50" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -293,7 +290,7 @@
           <mxGeometry x="-362" y="340" width="82" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-8" value="点击" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-352" y="350" width="82" height="38" as="geometry" />
+          <mxGeometry x="-37" y="276" width="82" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-9" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="138" y="120" width="82" height="38" as="geometry" />
