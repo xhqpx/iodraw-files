@@ -222,28 +222,28 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-34" value="保存活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="604.5" y="913" />
+              <mxPoint x="604.5" y="420" />
             </Array>
-            <mxPoint x="495" y="913" as="sourcePoint" />
-            <mxPoint x="695" y="913" as="targetPoint" />
+            <mxPoint x="495" y="420" as="sourcePoint" />
+            <mxPoint x="695" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-35" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607.5" y="967" />
+              <mxPoint x="607.5" y="474" />
             </Array>
-            <mxPoint x="695" y="967" as="sourcePoint" />
-            <mxPoint x="495" y="967" as="targetPoint" />
+            <mxPoint x="695" y="474" as="sourcePoint" />
+            <mxPoint x="495" y="474" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-36" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704.5" y="1021" />
+              <mxPoint x="704.5" y="528" />
             </Array>
-            <mxPoint x="495" y="1021" as="sourcePoint" />
-            <mxPoint x="895" y="1021" as="targetPoint" />
+            <mxPoint x="495" y="528" as="sourcePoint" />
+            <mxPoint x="895" y="528" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-37" value="发送活动通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-3" target="7PPB9lePXS7oIDTDVKzh-7">
