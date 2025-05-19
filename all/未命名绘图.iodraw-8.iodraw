@@ -8,7 +8,7 @@
           <mxGeometry x="220" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-2" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-3" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="200" width="120" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="294" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-7" value="敏感词汇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="310" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-8" value="通知公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-670" y="200" width="120" height="60" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="-190" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-10" value="博客文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-11" value="博客文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
