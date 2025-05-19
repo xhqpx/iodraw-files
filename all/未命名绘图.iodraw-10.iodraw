@@ -70,9 +70,6 @@
         <mxCell id="8yoyo77HNIjTTr8WmY0M-123" value="用&lt;div&gt;户&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="360" width="40" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-124" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="280" width="40" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-125" value="文&lt;div&gt;章&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="360" width="40" height="200" as="geometry" />
         </mxCell>
@@ -90,27 +87,6 @@
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-130" value="文&lt;div&gt;章&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;签&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="690" y="360" width="40" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-131" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="40" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-132" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="40" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-133" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="310" width="40" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-134" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="320" width="40" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-135" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="330" width="40" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-136" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="340" width="40" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-137" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-138" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="870" y="360" width="40" height="200" as="geometry" />
