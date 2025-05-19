@@ -231,19 +231,19 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-35" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607.5" y="474" />
+              <mxPoint x="607.5" y="440" />
             </Array>
-            <mxPoint x="695" y="474" as="sourcePoint" />
-            <mxPoint x="495" y="474" as="targetPoint" />
+            <mxPoint x="695" y="440" as="sourcePoint" />
+            <mxPoint x="495" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-36" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704.5" y="528" />
+              <mxPoint x="704.5" y="460" />
             </Array>
-            <mxPoint x="495" y="528" as="sourcePoint" />
-            <mxPoint x="895" y="528" as="targetPoint" />
+            <mxPoint x="495" y="460" as="sourcePoint" />
+            <mxPoint x="895" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-37" value="发送活动通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-3" target="7PPB9lePXS7oIDTDVKzh-7">
@@ -263,19 +263,19 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-39" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407.5" y="1183" />
+              <mxPoint x="407.5" y="460" />
             </Array>
-            <mxPoint x="495" y="1183" as="sourcePoint" />
-            <mxPoint x="295" y="1183" as="targetPoint" />
+            <mxPoint x="495" y="460" as="sourcePoint" />
+            <mxPoint x="295" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-40" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="207.5" y="1237" />
+              <mxPoint x="207.5" y="514" />
             </Array>
-            <mxPoint x="295" y="1237" as="sourcePoint" />
-            <mxPoint x="95" y="1237" as="targetPoint" />
+            <mxPoint x="295" y="514" as="sourcePoint" />
+            <mxPoint x="95" y="514" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-41" value="跳转到活动详情页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-2" target="7PPB9lePXS7oIDTDVKzh-1">
