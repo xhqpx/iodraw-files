@@ -212,11 +212,11 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-33" value="数据验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="546.5" y="678" />
-              <mxPoint x="546.5" y="708" />
+              <mxPoint x="546.5" y="380" />
+              <mxPoint x="546.5" y="410" />
             </Array>
-            <mxPoint x="495" y="678" as="sourcePoint" />
-            <mxPoint x="495" y="708" as="targetPoint" />
+            <mxPoint x="495" y="380" as="sourcePoint" />
+            <mxPoint x="495" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-34" value="保存活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
