@@ -124,7 +124,7 @@
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-64" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" parent="O8l1nYk0ELIrSpJ0aQ6Y-63" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-65" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-65" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Rem4Gt5yheDrW0K5sMs6-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="120" as="sourcePoint" />
             <mxPoint x="120" y="90" as="targetPoint" />
@@ -302,7 +302,7 @@
           <mxGeometry x="-342" y="360" width="82" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-10" value="编辑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-332" y="370" width="82" height="38" as="geometry" />
+          <mxGeometry x="-34" y="120" width="82" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-284" y="78" width="82" height="38" as="geometry" />
