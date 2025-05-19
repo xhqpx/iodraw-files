@@ -76,19 +76,19 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-18" value="返回模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607.5" y="194" />
+              <mxPoint x="607.5" y="160" />
             </Array>
-            <mxPoint x="695" y="194" as="sourcePoint" />
-            <mxPoint x="495" y="194" as="targetPoint" />
+            <mxPoint x="695" y="160" as="sourcePoint" />
+            <mxPoint x="495" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-19" value="返回活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407.5" y="292" />
+              <mxPoint x="407.5" y="170" />
             </Array>
-            <mxPoint x="495" y="292" as="sourcePoint" />
-            <mxPoint x="295" y="292" as="targetPoint" />
+            <mxPoint x="495" y="170" as="sourcePoint" />
+            <mxPoint x="295" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-20" value="显示发布页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-2" target="7PPB9lePXS7oIDTDVKzh-1">
