@@ -101,11 +101,11 @@
         <mxCell id="fVrJMErPfIncJ86ZV_w6-36" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="377" y="446" />
-              <mxPoint x="377" y="476" />
+              <mxPoint x="377" y="240" />
+              <mxPoint x="377" y="270" />
             </Array>
-            <mxPoint x="325.32352941176464" y="446" as="sourcePoint" />
-            <mxPoint x="325.32352941176464" y="476" as="targetPoint" />
+            <mxPoint x="325.32352941176464" y="240" as="sourcePoint" />
+            <mxPoint x="325.32352941176464" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-37" value="密码强度检查" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
