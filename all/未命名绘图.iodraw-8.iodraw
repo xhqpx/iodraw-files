@@ -133,12 +133,12 @@
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-58" value="点击" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="260" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="O8l1nYk0ELIrSpJ0aQ6Y-57">
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-59" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-110" y="69.5" as="sourcePoint" />
-            <mxPoint x="50" y="69.5" as="targetPoint" />
+            <mxPoint x="155" y="350.5" as="sourcePoint" />
+            <mxPoint x="175" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-80" y="120" />
+              <mxPoint x="45" y="350.5" />
             </Array>
           </mxGeometry>
         </mxCell>
