@@ -139,37 +139,37 @@
         <mxCell id="fVrJMErPfIncJ86ZV_w6-40" value="验证验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="950" y="722" />
+              <mxPoint x="950" y="330" />
             </Array>
-            <mxPoint x="525.3235294117649" y="722" as="sourcePoint" />
-            <mxPoint x="1356.4999999999995" y="722" as="targetPoint" />
+            <mxPoint x="525.3235294117649" y="330" as="sourcePoint" />
+            <mxPoint x="1356.4999999999995" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-41" value="获取缓存验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1169" y="776" />
+              <mxPoint x="1169" y="384" />
             </Array>
-            <mxPoint x="1356.4999999999995" y="776" as="sourcePoint" />
-            <mxPoint x="956.3235294117653" y="776" as="targetPoint" />
+            <mxPoint x="1356.4999999999995" y="384" as="sourcePoint" />
+            <mxPoint x="956.3235294117653" y="384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-42" value="返回验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1166" y="830" />
+              <mxPoint x="1166" y="438" />
             </Array>
-            <mxPoint x="956.3235294117653" y="830" as="sourcePoint" />
-            <mxPoint x="1356.4999999999995" y="830" as="targetPoint" />
+            <mxPoint x="956.3235294117653" y="438" as="sourcePoint" />
+            <mxPoint x="1356.4999999999995" y="438" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-43" value="返回验证结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="953" y="884" />
+              <mxPoint x="953" y="492" />
             </Array>
-            <mxPoint x="1356.4999999999995" y="884" as="sourcePoint" />
-            <mxPoint x="525.3235294117649" y="884" as="targetPoint" />
+            <mxPoint x="1356.4999999999995" y="492" as="sourcePoint" />
+            <mxPoint x="525.3235294117649" y="492" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-44" value="密码加密" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
