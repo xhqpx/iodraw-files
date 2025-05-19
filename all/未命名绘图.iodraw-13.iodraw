@@ -158,10 +158,10 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-27" value="保存草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404.5" y="354" />
+              <mxPoint x="404.5" y="320" />
             </Array>
-            <mxPoint x="295" y="354" as="sourcePoint" />
-            <mxPoint x="495" y="354" as="targetPoint" />
+            <mxPoint x="295" y="320" as="sourcePoint" />
+            <mxPoint x="495" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-28" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
