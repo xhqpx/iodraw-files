@@ -302,7 +302,7 @@
           <mxGeometry x="-342" y="360" width="82" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-10" value="编辑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-34" y="120" width="82" height="38" as="geometry" />
+          <mxGeometry x="-12" y="122" width="82" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-11" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-284" y="78" width="82" height="38" as="geometry" />
