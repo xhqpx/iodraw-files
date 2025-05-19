@@ -103,18 +103,22 @@
             <mxPoint x="700" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cc249yWl1u7GYOQUU85u-24" value="返回活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Cc249yWl1u7GYOQUU85u-4" target="Cc249yWl1u7GYOQUU85u-3">
+        <mxCell id="Cc249yWl1u7GYOQUU85u-24" value="返回活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="493" />
+              <mxPoint x="607.5" y="240" />
             </Array>
+            <mxPoint x="695" y="240" as="sourcePoint" />
+            <mxPoint x="495" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cc249yWl1u7GYOQUU85u-25" value="更新缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Cc249yWl1u7GYOQUU85u-3" target="Cc249yWl1u7GYOQUU85u-5">
+        <mxCell id="Cc249yWl1u7GYOQUU85u-25" value="更新缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704" y="547" />
+              <mxPoint x="704.5" y="260" />
             </Array>
+            <mxPoint x="495" y="260" as="sourcePoint" />
+            <mxPoint x="895" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-26" value="返回活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Cc249yWl1u7GYOQUU85u-3" target="Cc249yWl1u7GYOQUU85u-2">
