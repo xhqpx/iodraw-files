@@ -74,11 +74,13 @@
             <mxPoint x="509.3888888888889" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-70" value="返回标签数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-59" target="iaYVX4Re5i9gffo3aood-58">
+        <mxCell id="iaYVX4Re5i9gffo3aood-70" value="返回标签数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="622" y="509" />
+              <mxPoint x="622" y="340" />
             </Array>
+            <mxPoint x="709.5" y="340" as="sourcePoint" />
+            <mxPoint x="509.3888888888889" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-71" value="返回分类和标签列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-58" target="iaYVX4Re5i9gffo3aood-57">
