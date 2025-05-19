@@ -13,26 +13,11 @@
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-222" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="454" y="170" width="145" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-223" value="获取活动信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="241" y="292" width="158" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-224" value="报名流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="463" y="340" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-225" value="报名管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="672" y="292" width="125" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-226" value="显示活动详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="380" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-227" value="检查报名资格" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="176" y="480" width="158" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-228" value="是否可报名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="226" y="570" width="129" height="129" as="geometry" />
-        </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-229" value="显示报名按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="720" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-230" value="显示不可报名原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="276" y="720" width="188" height="48" as="geometry" />
@@ -83,11 +68,12 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-245" value="查看活动" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-222" target="pyMsCn0VhFOX8a8DkLYb-223">
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-245" value="查看活动" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-222">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="209" y="398" />
             </Array>
+            <mxPoint x="319.9999999999998" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-246" value="提交报名" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-222" target="pyMsCn0VhFOX8a8DkLYb-224">
@@ -102,33 +88,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-248" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-223" target="pyMsCn0VhFOX8a8DkLYb-226">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-249" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-226" target="pyMsCn0VhFOX8a8DkLYb-227">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-250" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-227" target="pyMsCn0VhFOX8a8DkLYb-228">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-251" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-228" target="pyMsCn0VhFOX8a8DkLYb-229">
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-251" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pyMsCn0VhFOX8a8DkLYb-229">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="98" y="1004" />
             </Array>
+            <mxPoint x="256.90625" y="665.4062500000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-252" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-228" target="pyMsCn0VhFOX8a8DkLYb-230">
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-252" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="pyMsCn0VhFOX8a8DkLYb-230">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="1004" />
             </Array>
+            <mxPoint x="324.09375" y="665.4062500000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-253" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-224" target="pyMsCn0VhFOX8a8DkLYb-231">
