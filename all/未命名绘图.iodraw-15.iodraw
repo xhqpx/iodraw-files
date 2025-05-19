@@ -222,28 +222,28 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-36" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704" y="927" />
+              <mxPoint x="704.5" y="510" />
             </Array>
-            <mxPoint x="494.5" y="927" as="sourcePoint" />
-            <mxPoint x="894.5" y="927" as="targetPoint" />
+            <mxPoint x="495" y="510" as="sourcePoint" />
+            <mxPoint x="895" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-37" value="更新文章评论数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704" y="981" />
+              <mxPoint x="700.5" y="530" />
             </Array>
-            <mxPoint x="494.5" y="981" as="sourcePoint" />
-            <mxPoint x="894.5" y="981" as="targetPoint" />
+            <mxPoint x="491" y="530" as="sourcePoint" />
+            <mxPoint x="891" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-38" value="查询文章作者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="604" y="1035" />
+              <mxPoint x="604" y="550" />
             </Array>
-            <mxPoint x="494.5" y="1035" as="sourcePoint" />
-            <mxPoint x="694.5" y="1035" as="targetPoint" />
+            <mxPoint x="494.5" y="550" as="sourcePoint" />
+            <mxPoint x="694.5" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-39" value="返回作者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
