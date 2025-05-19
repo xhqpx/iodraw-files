@@ -17,7 +17,7 @@
           <mxGeometry x="123" y="906" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-4" value="更新用户信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="632" y="555" width="157" height="48" as="geometry" />
+          <mxGeometry x="723" y="310" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-5" value="修改密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1071" y="434" width="125" height="48" as="geometry" />
@@ -132,12 +132,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-40" value="修改信息" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="711" y="398" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-40" value="修改信息" style="startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-41" value="修改密码" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-5">
           <mxGeometry relative="1" as="geometry">
