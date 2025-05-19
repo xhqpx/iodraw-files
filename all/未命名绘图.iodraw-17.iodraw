@@ -47,7 +47,7 @@
           <mxGeometry x="664" y="1973" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-68" value="错误类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="264" y="1591" width="113" height="113" as="geometry" />
+          <mxGeometry x="358" y="1215" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-69" value="提示账号不存在" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="1776" width="172" height="48" as="geometry" />
