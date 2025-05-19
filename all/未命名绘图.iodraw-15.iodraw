@@ -121,110 +121,138 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-25" value="返回评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407" y="548" />
+              <mxPoint x="407" y="270" />
             </Array>
-            <mxPoint x="494.5" y="548" as="sourcePoint" />
-            <mxPoint x="294.5" y="548" as="targetPoint" />
+            <mxPoint x="494.5" y="270" as="sourcePoint" />
+            <mxPoint x="294.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-26" value="显示评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-26" value="显示评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="207" y="665" />
+              <mxPoint x="207" y="280" />
             </Array>
+            <mxPoint x="294.5" y="280" as="sourcePoint" />
+            <mxPoint x="94.5" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-27" value="输入评论内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-27" value="输入评论内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="719" />
+              <mxPoint x="204" y="334" />
             </Array>
+            <mxPoint x="94.5" y="334" as="sourcePoint" />
+            <mxPoint x="294.5" y="334" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-28" value="实时字数统计" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-2">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-28" value="实时字数统计" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="346" y="773" />
-              <mxPoint x="346" y="803" />
+              <mxPoint x="346" y="388" />
+              <mxPoint x="346" y="418" />
             </Array>
+            <mxPoint x="294.5" y="388" as="sourcePoint" />
+            <mxPoint x="294.5" y="418" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-29" value="表情转换" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-2">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-29" value="表情转换" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="346" y="857" />
-              <mxPoint x="346" y="887" />
+              <mxPoint x="346" y="472" />
+              <mxPoint x="346" y="502" />
             </Array>
+            <mxPoint x="294.5" y="472" as="sourcePoint" />
+            <mxPoint x="294.5" y="502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-30" value="提交评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-30" value="提交评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="941" />
+              <mxPoint x="204" y="556" />
             </Array>
+            <mxPoint x="94.5" y="556" as="sourcePoint" />
+            <mxPoint x="294.5" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-31" value="发送评论请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-3">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-31" value="发送评论请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404" y="995" />
+              <mxPoint x="404" y="610" />
             </Array>
+            <mxPoint x="294.5" y="610" as="sourcePoint" />
+            <mxPoint x="494.5" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-32" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-6">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-32" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="804" y="1049" />
+              <mxPoint x="804" y="664" />
             </Array>
+            <mxPoint x="494.5" y="664" as="sourcePoint" />
+            <mxPoint x="1094.5" y="664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-33" value="返回过滤结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-6" target="1R8mmW_jaQAJaSPraaLX-3">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-33" value="返回过滤结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="807" y="1103" />
+              <mxPoint x="807" y="718" />
             </Array>
+            <mxPoint x="1094.5" y="718" as="sourcePoint" />
+            <mxPoint x="494.5" y="718" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-34" value="保存评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-34" value="保存评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="604" y="1204" />
+              <mxPoint x="604" y="819" />
             </Array>
+            <mxPoint x="494.5" y="819" as="sourcePoint" />
+            <mxPoint x="694.5" y="819" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-35" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-35" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="1258" />
+              <mxPoint x="607" y="873" />
             </Array>
+            <mxPoint x="694.5" y="873" as="sourcePoint" />
+            <mxPoint x="494.5" y="873" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-36" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-5">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-36" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704" y="1312" />
+              <mxPoint x="704" y="927" />
             </Array>
+            <mxPoint x="494.5" y="927" as="sourcePoint" />
+            <mxPoint x="894.5" y="927" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-37" value="更新文章评论数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-5">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-37" value="更新文章评论数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704" y="1366" />
+              <mxPoint x="704" y="981" />
             </Array>
+            <mxPoint x="494.5" y="981" as="sourcePoint" />
+            <mxPoint x="894.5" y="981" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-38" value="查询文章作者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-38" value="查询文章作者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="604" y="1420" />
+              <mxPoint x="604" y="1035" />
             </Array>
+            <mxPoint x="494.5" y="1035" as="sourcePoint" />
+            <mxPoint x="694.5" y="1035" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-39" value="返回作者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-39" value="返回作者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="1474" />
+              <mxPoint x="607" y="1089" />
             </Array>
+            <mxPoint x="694.5" y="1089" as="sourcePoint" />
+            <mxPoint x="494.5" y="1089" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-40" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-7">
