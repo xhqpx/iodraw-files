@@ -258,10 +258,10 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-38" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1007.59" y="524" />
+              <mxPoint x="1007.59" y="480" />
             </Array>
-            <mxPoint x="1295.0899999999995" y="524" as="sourcePoint" />
-            <mxPoint x="694.9135294117644" y="524" as="targetPoint" />
+            <mxPoint x="1295.0899999999995" y="480" as="sourcePoint" />
+            <mxPoint x="694.9135294117644" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-39" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
