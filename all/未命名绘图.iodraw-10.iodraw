@@ -74,7 +74,7 @@
           <mxGeometry x="60" y="280" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-125" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="290" width="40" height="200" as="geometry" />
+          <mxGeometry x="690" y="360" width="40" height="200" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-126" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="360" width="40" height="200" as="geometry" />
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-128" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;信&lt;/div&gt;&lt;div&gt;息&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="500" y="360" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8yoyo77HNIjTTr8WmY0M-129" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="40" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="8yoyo77HNIjTTr8WmY0M-130" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="40" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
