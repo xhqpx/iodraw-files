@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.2081 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1461" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2070" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -100,15 +100,11 @@
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-34" value="删除失败提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1489" y="898" width="158" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-0" target="pyMsCn0VhFOX8a8DkLYb-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-37" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-0" target="pyMsCn0VhFOX8a8DkLYb-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-1" target="pyMsCn0VhFOX8a8DkLYb-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-38" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-1" target="pyMsCn0VhFOX8a8DkLYb-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-39" value="查看信息" style="startArrow=none;endArrow=block;exitX=0;exitY=0.57;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-3">
           <mxGeometry relative="1" as="geometry" />
@@ -116,19 +112,11 @@
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-40" value="修改信息" style="startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-41" value="修改密码" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1133" y="398" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-41" value="修改密码" style="startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-42" value="删除账户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1549" y="398" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-42" value="删除账户" style="startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-2" target="pyMsCn0VhFOX8a8DkLYb-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-3" target="pyMsCn0VhFOX8a8DkLYb-7">
           <mxGeometry relative="1" as="geometry">
@@ -144,15 +132,11 @@
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-46" value="失败" style="startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-8" target="pyMsCn0VhFOX8a8DkLYb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-4" target="pyMsCn0VhFOX8a8DkLYb-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-47" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-4" target="pyMsCn0VhFOX8a8DkLYb-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-11" target="pyMsCn0VhFOX8a8DkLYb-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-48" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-11" target="pyMsCn0VhFOX8a8DkLYb-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-49" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-12" target="pyMsCn0VhFOX8a8DkLYb-13">
           <mxGeometry relative="1" as="geometry" />
@@ -172,15 +156,11 @@
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-54" value="失败" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-16" target="pyMsCn0VhFOX8a8DkLYb-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-5" target="pyMsCn0VhFOX8a8DkLYb-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-55" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-5" target="pyMsCn0VhFOX8a8DkLYb-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-19" target="pyMsCn0VhFOX8a8DkLYb-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-56" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-19" target="pyMsCn0VhFOX8a8DkLYb-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-57" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-20" target="pyMsCn0VhFOX8a8DkLYb-21">
           <mxGeometry relative="1" as="geometry" />
@@ -203,10 +183,8 @@
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-63" value="失败" style="startArrow=none;endArrow=block;exitX=1;exitY=0.95;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-25" target="pyMsCn0VhFOX8a8DkLYb-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pyMsCn0VhFOX8a8DkLYb-64" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-6" target="pyMsCn0VhFOX8a8DkLYb-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
+        <mxCell id="pyMsCn0VhFOX8a8DkLYb-64" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-6" target="pyMsCn0VhFOX8a8DkLYb-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-65" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="pyMsCn0VhFOX8a8DkLYb-28" target="pyMsCn0VhFOX8a8DkLYb-29">
           <mxGeometry relative="1" as="geometry" />
@@ -299,7 +277,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-32" value="删除结果" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1300" y="760" width="114" height="114" as="geometry" />
+          <mxGeometry x="1360" y="750" width="114" height="114" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
