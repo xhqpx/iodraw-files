@@ -1,0 +1,511 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.2081 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
+  <diagram name="第 1 页" id="jCIgmdFMc0MWMgjXhe0b">
+    <mxGraphModel dx="1242" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="3998" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-2" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="150" height="3998" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-3" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="420" y="20" width="150" height="3998" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-4" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="620" y="20" width="150" height="3998" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-5" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="820" y="20" width="150" height="3998" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-6" value="敏感词过滤" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="20" width="150" height="3998" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-7" value="通知系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="20" width="150" height="3998" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-8" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="484" y="257" width="422" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-9" value="[缓存命中]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1R8mmW_jaQAJaSPraaLX-8">
+          <mxGeometry x="30" width="392" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-10" value="[缓存未命中]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="1R8mmW_jaQAJaSPraaLX-8">
+          <mxGeometry y="106" width="422" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-11" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="1123" width="1222" height="796" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-12" value="[评论合法]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1R8mmW_jaQAJaSPraaLX-11">
+          <mxGeometry x="30" width="1192" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-13" value="[评论包含敏感词]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="1R8mmW_jaQAJaSPraaLX-11">
+          <mxGeometry y="646" width="1222" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-14" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="2523" width="1222" height="533" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-15" value="[回复合法]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1R8mmW_jaQAJaSPraaLX-14">
+          <mxGeometry x="30" width="1192" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-16" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="84" y="3066" width="822" height="425" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-17" value="[用户是评论作者]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1R8mmW_jaQAJaSPraaLX-16">
+          <mxGeometry x="30" width="792" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-18" value="访问文章页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-19" value="获取评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="183" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-20" value="查询评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-21" value="返回缓存数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-5" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="707" y="338" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-22" value="查询评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="439" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-23" value="返回评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="493" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-24" value="更新缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="547" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-25" value="返回评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="611" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-26" value="显示评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="665" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-27" value="输入评论内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="719" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-28" value="实时字数统计" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="773" />
+              <mxPoint x="346" y="803" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-29" value="表情转换" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="346" y="857" />
+              <mxPoint x="346" y="887" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-30" value="提交评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-31" value="发送评论请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-32" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="804" y="1049" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-33" value="返回过滤结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-6" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="807" y="1103" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-34" value="保存评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="1204" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-35" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="1258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-36" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="1312" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-37" value="更新文章评论数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="1366" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-38" value="查询文章作者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-39" value="返回作者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="1474" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-40" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="904" y="1528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-41" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-7" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1007" y="1582" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-42" value="返回评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="1636" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-43" value="显示评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-44" value="更新评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="1744" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-45" value="返回敏感词提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="1845" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-46" value="显示敏感词提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="1899" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-47" value="点赞评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="1963" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-48" value="发送点赞请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="2017" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-49" value="更新点赞数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="2071" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-50" value="更新成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="2125" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-51" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="2179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-52" value="返回点赞成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="2233" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-53" value="更新点赞状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="2287" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-54" value="回复评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="2341" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-55" value="发送回复请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="2395" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-56" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="804" y="2449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-57" value="返回过滤结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-6" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="807" y="2503" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-58" value="保存回复数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="2604" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-59" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="2658" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-60" value="查询被回复用户" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="2712" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-61" value="返回用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="2766" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-62" value="发送回复通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="904" y="2820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-63" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-7" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1007" y="2874" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-64" value="返回回复成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="2928" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-65" value="显示回复成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="2982" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-66" value="更新评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="3036" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-67" value="删除评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="3147" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-68" value="发送删除请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="3201" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-69" value="删除评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="3255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-70" value="删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="3309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-71" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="704" y="3363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-72" value="返回删除成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="3417" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-73" value="更新评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="3471" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-74" value="举报评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-1" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="204" y="3535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-75" value="发送举报请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="404" y="3589" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-76" value="保存举报记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="604" y="3643" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-77" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-4" target="1R8mmW_jaQAJaSPraaLX-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607" y="3697" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-78" value="发送举报通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="904" y="3751" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-79" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-7" target="1R8mmW_jaQAJaSPraaLX-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1007" y="3805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-80" value="返回举报成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="407" y="3859" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-81" value="显示举报成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="3913" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
