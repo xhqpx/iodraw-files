@@ -1683,11 +1683,11 @@
         <mxCell id="ikWXHy-XoysQqUefqOoi-382" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-383" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ikWXHy-XoysQqUefqOoi-383" value="博客文章点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ikWXHy-XoysQqUefqOoi-384" value="博客标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="707" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ikWXHy-XoysQqUefqOoi-385" value="敏感词汇" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="120" height="60" as="geometry" />
