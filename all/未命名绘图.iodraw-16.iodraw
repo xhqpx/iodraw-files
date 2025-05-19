@@ -121,19 +121,19 @@
         <mxCell id="fVrJMErPfIncJ86ZV_w6-38" value="提交注册" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="219" y="614" />
+              <mxPoint x="219" y="290" />
             </Array>
-            <mxPoint x="94.32352941176464" y="614" as="sourcePoint" />
-            <mxPoint x="325.5000000000002" y="614" as="targetPoint" />
+            <mxPoint x="94.32352941176464" y="290" as="sourcePoint" />
+            <mxPoint x="325.5000000000002" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-39" value="发送注册请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="435" y="668" />
+              <mxPoint x="435" y="310" />
             </Array>
-            <mxPoint x="325.32352941176464" y="668" as="sourcePoint" />
-            <mxPoint x="525.5000000000002" y="668" as="targetPoint" />
+            <mxPoint x="325.32352941176464" y="310" as="sourcePoint" />
+            <mxPoint x="525.5000000000002" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-40" value="验证验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
