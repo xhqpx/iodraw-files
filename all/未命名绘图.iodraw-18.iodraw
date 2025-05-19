@@ -14,7 +14,7 @@
           <mxGeometry x="453" y="217" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-223" value="获取活动信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="130" y="434" width="158" height="48" as="geometry" />
+          <mxGeometry x="250" y="340" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-224" value="报名流程" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="686" width="125" height="48" as="geometry" />
