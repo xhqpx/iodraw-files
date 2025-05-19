@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BOF2VeTGqJbNLAkHFxSO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BOF2VeTGqJbNLAkHFxSO-1" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
