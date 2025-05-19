@@ -38,7 +38,7 @@
           <mxGeometry x="640" y="238" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-12" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-13" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="40" width="120" height="60" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-31" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="O8l1nYk0ELIrSpJ0aQ6Y-30">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-34" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O8l1nYk0ELIrSpJ0aQ6Y-14" target="O8l1nYk0ELIrSpJ0aQ6Y-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-530" y="180" as="sourcePoint" />
             <mxPoint x="-370" y="180" as="targetPoint" />
