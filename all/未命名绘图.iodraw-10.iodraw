@@ -13,7 +13,7 @@
         <mxCell id="8yoyo77HNIjTTr8WmY0M-59" value="用户信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1470" y="298" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="8yoyo77HNIjTTr8WmY0M-60" value="博客信息管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8yoyo77HNIjTTr8WmY0M-60" value="博客信息管理" style="whiteSpace=wrap;strokeWidth=2;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="2067" y="298" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="8yoyo77HNIjTTr8WmY0M-61" value="博客评论管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
