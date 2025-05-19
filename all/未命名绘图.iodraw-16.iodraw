@@ -264,28 +264,28 @@
         <mxCell id="fVrJMErPfIncJ86ZV_w6-55" value="返回注册成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="438" y="1626" />
+              <mxPoint x="438" y="530" />
             </Array>
-            <mxPoint x="525.5000000000002" y="1625.9999999999995" as="sourcePoint" />
-            <mxPoint x="325.32352941176464" y="1625.9999999999995" as="targetPoint" />
+            <mxPoint x="525.5000000000002" y="529.9999999999995" as="sourcePoint" />
+            <mxPoint x="325.32352941176464" y="529.9999999999995" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-56" value="显示注册成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="222" y="1680" />
+              <mxPoint x="222" y="584" />
             </Array>
-            <mxPoint x="325.5000000000002" y="1680" as="sourcePoint" />
-            <mxPoint x="94.32352941176464" y="1680" as="targetPoint" />
+            <mxPoint x="325.5000000000002" y="584" as="sourcePoint" />
+            <mxPoint x="94.32352941176464" y="584" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-57" value="跳转到登录页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="222" y="1734" />
+              <mxPoint x="222" y="638" />
             </Array>
-            <mxPoint x="325.5000000000002" y="1734" as="sourcePoint" />
-            <mxPoint x="94.32352941176464" y="1734" as="targetPoint" />
+            <mxPoint x="325.5000000000002" y="638" as="sourcePoint" />
+            <mxPoint x="94.32352941176464" y="638" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fVrJMErPfIncJ86ZV_w6-58" value="返回用户名已存在" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
