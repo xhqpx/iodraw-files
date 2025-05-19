@@ -136,11 +136,13 @@
             <mxPoint x="95" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7PPB9lePXS7oIDTDVKzh-25" value="编辑活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-1" target="7PPB9lePXS7oIDTDVKzh-2">
+        <mxCell id="7PPB9lePXS7oIDTDVKzh-25" value="编辑活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="669" />
+              <mxPoint x="204" y="290" />
             </Array>
+            <mxPoint x="94.5" y="290" as="sourcePoint" />
+            <mxPoint x="294.5" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-26" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-2" target="7PPB9lePXS7oIDTDVKzh-2">
