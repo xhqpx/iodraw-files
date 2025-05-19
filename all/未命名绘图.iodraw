@@ -1668,42 +1668,6 @@
         <mxCell id="ikWXHy-XoysQqUefqOoi-365" value="系统管理员" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="43" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-366" value="用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="280" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-367" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-368" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-369" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-370" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-371" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-372" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-373" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-374" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-375" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-376" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="380" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ikWXHy-XoysQqUefqOoi-377" value="文章分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="374" width="120" height="80" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
