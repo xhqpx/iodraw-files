@@ -23,7 +23,7 @@
           <mxGeometry x="445" y="670" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-59" value="验证码校验" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="459" y="750" width="130" height="130" as="geometry" />
+          <mxGeometry x="210" y="722" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UjucMe9a3skrXPQCy2JW-60" value="输入验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="628" y="880" width="140" height="48" as="geometry" />
