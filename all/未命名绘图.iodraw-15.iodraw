@@ -139,20 +139,20 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-27" value="输入评论内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="334" />
+              <mxPoint x="204" y="300" />
             </Array>
-            <mxPoint x="94.5" y="334" as="sourcePoint" />
-            <mxPoint x="294.5" y="334" as="targetPoint" />
+            <mxPoint x="94.5" y="300" as="sourcePoint" />
+            <mxPoint x="294.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-28" value="实时字数统计" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="346" y="388" />
-              <mxPoint x="346" y="418" />
+              <mxPoint x="346" y="310" />
+              <mxPoint x="346" y="340" />
             </Array>
-            <mxPoint x="294.5" y="388" as="sourcePoint" />
-            <mxPoint x="294.5" y="418" as="targetPoint" />
+            <mxPoint x="294.5" y="310" as="sourcePoint" />
+            <mxPoint x="294.5" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-29" value="表情转换" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
