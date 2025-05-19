@@ -249,38 +249,46 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-39" value="返回作者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="1089" />
+              <mxPoint x="607" y="570" />
             </Array>
-            <mxPoint x="694.5" y="1089" as="sourcePoint" />
-            <mxPoint x="494.5" y="1089" as="targetPoint" />
+            <mxPoint x="694.5" y="570" as="sourcePoint" />
+            <mxPoint x="494.5" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-40" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-7">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-40" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="904" y="1528" />
+              <mxPoint x="904.5" y="590" />
             </Array>
+            <mxPoint x="495" y="590" as="sourcePoint" />
+            <mxPoint x="1295" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-41" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-7" target="1R8mmW_jaQAJaSPraaLX-4">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-41" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1007" y="1582" />
+              <mxPoint x="1007.5" y="644" />
             </Array>
+            <mxPoint x="1295" y="644" as="sourcePoint" />
+            <mxPoint x="695" y="644" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-42" value="返回评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-3" target="1R8mmW_jaQAJaSPraaLX-2">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-42" value="返回评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407" y="1636" />
+              <mxPoint x="407.5" y="698" />
             </Array>
+            <mxPoint x="495" y="698" as="sourcePoint" />
+            <mxPoint x="295" y="698" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1R8mmW_jaQAJaSPraaLX-43" value="显示评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
+        <mxCell id="1R8mmW_jaQAJaSPraaLX-43" value="显示评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="207" y="1690" />
+              <mxPoint x="207.5" y="752" />
             </Array>
+            <mxPoint x="295" y="752" as="sourcePoint" />
+            <mxPoint x="95" y="752" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-44" value="更新评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="1R8mmW_jaQAJaSPraaLX-2" target="1R8mmW_jaQAJaSPraaLX-1">
