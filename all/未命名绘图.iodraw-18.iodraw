@@ -29,10 +29,10 @@
           <mxGeometry x="176" y="480" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-228" value="是否可报名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="144" y="838" width="129" height="129" as="geometry" />
+          <mxGeometry x="226" y="570" width="129" height="129" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-229" value="显示报名按钮" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1040" width="156" height="48" as="geometry" />
+          <mxGeometry x="140" y="720" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-230" value="显示不可报名原因" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="226" y="1040" width="188" height="48" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="447.5" y="428" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-232" value="提交报名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="464" y="1040" width="124" height="48" as="geometry" />
+          <mxGeometry x="464" y="514" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-233" value="报名成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="464" y="1138" width="124" height="48" as="geometry" />
