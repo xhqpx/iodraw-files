@@ -118,18 +118,22 @@
             <mxPoint x="1095" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7PPB9lePXS7oIDTDVKzh-23" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-6" target="7PPB9lePXS7oIDTDVKzh-2">
+        <mxCell id="7PPB9lePXS7oIDTDVKzh-23" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="707" y="561" />
+              <mxPoint x="707" y="250" />
             </Array>
+            <mxPoint x="1094.5" y="250" as="sourcePoint" />
+            <mxPoint x="294.5" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7PPB9lePXS7oIDTDVKzh-24" value="显示预览图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-2" target="7PPB9lePXS7oIDTDVKzh-1">
+        <mxCell id="7PPB9lePXS7oIDTDVKzh-24" value="显示预览图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="207" y="615" />
+              <mxPoint x="207.5" y="270" />
             </Array>
+            <mxPoint x="295" y="270" as="sourcePoint" />
+            <mxPoint x="95" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-25" value="编辑活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-1" target="7PPB9lePXS7oIDTDVKzh-2">
