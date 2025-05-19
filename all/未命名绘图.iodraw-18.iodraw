@@ -56,7 +56,7 @@
           <mxGeometry x="655" y="816" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-146" value="提交举报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="831" y="816" width="125" height="48" as="geometry" />
+          <mxGeometry x="751" y="585" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-147" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="588" y="1013" width="94" height="48" as="geometry" />
