@@ -38,10 +38,10 @@
           <mxGeometry x="390" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-12" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O8l1nYk0ELIrSpJ0aQ6Y-13" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
