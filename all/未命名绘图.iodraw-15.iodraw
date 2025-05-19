@@ -276,10 +276,10 @@
         <mxCell id="1R8mmW_jaQAJaSPraaLX-42" value="返回评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407.5" y="693" />
+              <mxPoint x="402.5" y="630" />
             </Array>
-            <mxPoint x="495" y="693" as="sourcePoint" />
-            <mxPoint x="295" y="693" as="targetPoint" />
+            <mxPoint x="490" y="630" as="sourcePoint" />
+            <mxPoint x="290" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1R8mmW_jaQAJaSPraaLX-43" value="显示评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
