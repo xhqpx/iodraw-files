@@ -264,33 +264,37 @@
         <mxCell id="Cc249yWl1u7GYOQUU85u-42" value="发送活动提醒" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="804" y="656" />
+              <mxPoint x="804" y="520" />
             </Array>
-            <mxPoint x="494.5" y="656" as="sourcePoint" />
-            <mxPoint x="1094.5" y="656" as="targetPoint" />
+            <mxPoint x="494.5" y="520" as="sourcePoint" />
+            <mxPoint x="1094.5" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-43" value="创建提醒记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="907" y="710" />
+              <mxPoint x="907.5" y="540" />
             </Array>
-            <mxPoint x="1094.5" y="710" as="sourcePoint" />
-            <mxPoint x="694.5" y="710" as="targetPoint" />
+            <mxPoint x="1095" y="540" as="sourcePoint" />
+            <mxPoint x="695" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cc249yWl1u7GYOQUU85u-44" value="返回报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Cc249yWl1u7GYOQUU85u-3" target="Cc249yWl1u7GYOQUU85u-2">
+        <mxCell id="Cc249yWl1u7GYOQUU85u-44" value="返回报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="407" y="1677" />
+              <mxPoint x="407.5" y="550" />
             </Array>
+            <mxPoint x="495" y="550" as="sourcePoint" />
+            <mxPoint x="295" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cc249yWl1u7GYOQUU85u-45" value="显示报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Cc249yWl1u7GYOQUU85u-2" target="Cc249yWl1u7GYOQUU85u-1">
+        <mxCell id="Cc249yWl1u7GYOQUU85u-45" value="显示报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="207" y="1731" />
+              <mxPoint x="207.5" y="604" />
             </Array>
+            <mxPoint x="295" y="604" as="sourcePoint" />
+            <mxPoint x="95" y="604" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Cc249yWl1u7GYOQUU85u-46" value="显示活动提醒" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="Cc249yWl1u7GYOQUU85u-2" target="Cc249yWl1u7GYOQUU85u-1">
