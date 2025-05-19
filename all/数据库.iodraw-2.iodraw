@@ -262,9 +262,6 @@
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-1" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-648" y="105" width="82" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="Rem4Gt5yheDrW0K5sMs6-2" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-402" y="300" width="82" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-4" value="关联" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="386" y="151" width="82" height="38" as="geometry" />
         </mxCell>
@@ -281,7 +278,7 @@
           <mxGeometry x="-37" y="276" width="82" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-9" value="查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="138" y="120" width="82" height="38" as="geometry" />
+          <mxGeometry x="135" y="120" width="82" height="38" as="geometry" />
         </mxCell>
         <mxCell id="Rem4Gt5yheDrW0K5sMs6-10" value="编辑" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-12" y="122" width="82" height="38" as="geometry" />
