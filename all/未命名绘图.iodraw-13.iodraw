@@ -46,11 +46,13 @@
         <mxCell id="7PPB9lePXS7oIDTDVKzh-14" value="[活动状态检查]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="7PPB9lePXS7oIDTDVKzh-13">
           <mxGeometry x="40" width="802" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="7PPB9lePXS7oIDTDVKzh-15" value="进入发布活动页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-1" target="7PPB9lePXS7oIDTDVKzh-2">
+        <mxCell id="7PPB9lePXS7oIDTDVKzh-15" value="进入发布活动页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="129" />
+              <mxPoint x="204.5" y="120" />
             </Array>
+            <mxPoint x="95" y="120" as="sourcePoint" />
+            <mxPoint x="295" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7PPB9lePXS7oIDTDVKzh-16" value="获取活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="7PPB9lePXS7oIDTDVKzh-2" target="7PPB9lePXS7oIDTDVKzh-3">
