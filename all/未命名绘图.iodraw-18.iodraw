@@ -19,10 +19,10 @@
           <mxGeometry x="216" y="250" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-271" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="246" y="383" width="145" height="145" as="geometry" />
+          <mxGeometry x="246" y="320" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-272" value="获取敏感词列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="600" width="173" height="48" as="geometry" />
+          <mxGeometry x="110" y="465" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="pyMsCn0VhFOX8a8DkLYb-273" value="添加敏感词" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="249" y="982" width="140" height="48" as="geometry" />
