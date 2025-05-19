@@ -156,11 +156,13 @@
             <mxPoint x="294.3888888888889" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iaYVX4Re5i9gffo3aood-79" value="保存草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-57" target="iaYVX4Re5i9gffo3aood-58">
+        <mxCell id="iaYVX4Re5i9gffo3aood-79" value="保存草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="411" y="1025" />
+              <mxPoint x="411" y="530" />
             </Array>
+            <mxPoint x="294.3888888888889" y="530" as="sourcePoint" />
+            <mxPoint x="509.5" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iaYVX4Re5i9gffo3aood-80" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iaYVX4Re5i9gffo3aood-58" target="iaYVX4Re5i9gffo3aood-59">
