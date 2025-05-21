@@ -35,10 +35,10 @@
           <mxGeometry x="1190" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-940" value="标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="1270" y="505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-941" value="文章标签关系表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1450" y="515" width="120" height="60" as="geometry" />
+          <mxGeometry x="1430" y="505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-942" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="190" width="120" height="60" as="geometry" />
