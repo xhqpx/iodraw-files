@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="380" as="sourcePoint" />
+            <mxPoint x="330" y="330" as="sourcePoint" />
             <mxPoint x="450" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -75,7 +75,7 @@
         </mxCell>
         <object label="作者" id="dl_aElRPITHlCjHiOTnc-43">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-            <mxGeometry x="270" y="357" width="56" height="116" as="geometry" />
+            <mxGeometry x="270" y="310" width="56" height="116" as="geometry" />
           </mxCell>
         </object>
         <object label="读者" id="dl_aElRPITHlCjHiOTnc-49">
