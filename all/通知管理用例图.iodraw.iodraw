@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="MJcMBFKYxFBaFYaes7yF">
-    <mxGraphModel dx="473" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-114" value="个人博客系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="110" height="40" as="geometry" />
+          <mxGeometry x="460" y="240" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-118" target="dl_aElRPITHlCjHiOTnc-133">
           <mxGeometry relative="1" as="geometry" />
@@ -41,6 +41,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-119" target="dl_aElRPITHlCjHiOTnc-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-176" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-119" target="dl_aElRPITHlCjHiOTnc-173">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-119" value="博客报名管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
