@@ -202,11 +202,13 @@
             <mxPoint x="390.5" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-348" value="显示验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-342" target="dl_aElRPITHlCjHiOTnc-341">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-348" value="显示验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="881" />
+              <mxPoint x="280" y="780" />
             </Array>
+            <mxPoint x="390.5" y="780" as="sourcePoint" />
+            <mxPoint x="144.5" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-349" value="输入用户名密码和验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-341" target="dl_aElRPITHlCjHiOTnc-342">
