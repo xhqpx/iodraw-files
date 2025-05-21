@@ -31,7 +31,7 @@
             <mxPoint x="450" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-11">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-85" target="dl_aElRPITHlCjHiOTnc-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="360" as="sourcePoint" />
             <mxPoint x="450" y="520" as="targetPoint" />
@@ -152,7 +152,7 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-67" value="管理后台" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="727.5" y="1310" width="75" height="40" as="geometry" />
         </mxCell>
-        <object label="管理员" id="dl_aElRPITHlCjHiOTnc-84">
+        <object label="读者" id="dl_aElRPITHlCjHiOTnc-84">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
             <mxGeometry x="280" y="455" width="50" height="80" as="geometry" />
           </mxCell>
