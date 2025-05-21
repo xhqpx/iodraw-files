@@ -29,7 +29,7 @@
           <mxGeometry x="1400" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-942" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="225" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="175" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-943" value="博客文章评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1060" y="465" width="120" height="60" as="geometry" />
@@ -294,6 +294,9 @@
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-1010" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="dl_aElRPITHlCjHiOTnc-1009">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-1011" value="获得" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="240" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
