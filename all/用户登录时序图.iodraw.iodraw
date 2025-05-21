@@ -28,10 +28,10 @@
             <mxPoint x="1846.1999999999998" y="693" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-935" value="包含" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-945" target="dl_aElRPITHlCjHiOTnc-944">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-935" value="包含" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="885" y="573" as="sourcePoint" />
-            <mxPoint x="849.1600000000001" y="671" as="targetPoint" />
+            <mxPoint x="840" y="630.0000000000002" as="sourcePoint" />
+            <mxPoint x="1040" y="600.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-936" value="文章点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -56,7 +56,7 @@
           <mxGeometry x="920" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-945" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-946" value="敏感词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="155" width="120" height="60" as="geometry" />
@@ -279,6 +279,9 @@
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-1001" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="dl_aElRPITHlCjHiOTnc-1000">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-1003" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="450" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
