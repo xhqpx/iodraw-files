@@ -159,9 +159,9 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-91" value="编辑活动" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="540" y="506" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-92" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-92" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-39">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="605.75" as="sourcePoint" />
+            <mxPoint x="340" y="510" as="sourcePoint" />
             <mxPoint x="360" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
