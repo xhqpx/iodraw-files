@@ -142,7 +142,12 @@
         </object>
         <object label="管理员" id="dl_aElRPITHlCjHiOTnc-87">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
-            <mxGeometry x="295" y="457" width="44" height="92" as="geometry" />
+            <mxGeometry x="295" y="585" width="44" height="92" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="管理员" id="dl_aElRPITHlCjHiOTnc-88">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+            <mxGeometry x="305" y="595" width="44" height="92" as="geometry" />
           </mxCell>
         </object>
       </root>
