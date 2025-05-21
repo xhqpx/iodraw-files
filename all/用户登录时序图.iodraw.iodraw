@@ -257,12 +257,12 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-995" value="报名" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="910" y="475" width="100" height="50" as="geometry" />
+          <mxGeometry x="900" y="440" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-996" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="790" y="475" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-998" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-998" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-995" target="dl_aElRPITHlCjHiOTnc-949">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="920" y="480" as="sourcePoint" />
             <mxPoint x="1080" y="480" as="targetPoint" />
