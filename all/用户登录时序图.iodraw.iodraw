@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-936" value="文章点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="1150" y="80" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-939" value="博客文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1482" y="310" width="120" height="60" as="geometry" />
@@ -110,7 +110,7 @@
           <mxGeometry x="1680" y="708.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-943" value="博客文章评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="1121" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-944" value="活动报名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="680" width="120" height="60" as="geometry" />
