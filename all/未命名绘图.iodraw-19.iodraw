@@ -41,13 +41,13 @@
           <mxGeometry x="390" y="300" width="110" height="480" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-10" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="405" y="340" width="75" height="40" as="geometry" />
+          <mxGeometry x="405" y="330" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-11" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="405" y="400" width="75" height="40" as="geometry" />
+          <mxGeometry x="405" y="380" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-12" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="405" y="460" width="75" height="40" as="geometry" />
+          <mxGeometry x="405" y="430" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-13" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="405" y="520" width="75" height="40" as="geometry" />
