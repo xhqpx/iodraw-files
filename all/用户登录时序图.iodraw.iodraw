@@ -98,7 +98,7 @@
           <mxGeometry x="1130" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-939" value="博客文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1290" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-940" value="标签" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1590" y="525" width="120" height="60" as="geometry" />
