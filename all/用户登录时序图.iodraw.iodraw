@@ -34,12 +34,6 @@
             <mxPoint x="900" y="689.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-926" value="发布" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-949" target="dl_aElRPITHlCjHiOTnc-939">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="130" as="sourcePoint" />
-            <mxPoint x="1444" y="352.9" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-927" value="发表" style="startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.75;exitY=1;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-949" target="dl_aElRPITHlCjHiOTnc-943">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="888" y="262.6" as="sourcePoint" />
@@ -135,8 +129,8 @@
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-951" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920" y="360" as="sourcePoint" />
-            <mxPoint x="1080" y="360" as="targetPoint" />
+            <mxPoint x="1070" y="460" as="sourcePoint" />
+            <mxPoint x="1230" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-952" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="dl_aElRPITHlCjHiOTnc-951">
