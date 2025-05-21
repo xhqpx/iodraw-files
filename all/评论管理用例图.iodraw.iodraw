@@ -135,7 +135,7 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-67" value="管理后台" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="727.5" y="1310" width="75" height="40" as="geometry" />
         </mxCell>
-        <object label="用户" id="dl_aElRPITHlCjHiOTnc-86">
+        <object label="用户1" id="dl_aElRPITHlCjHiOTnc-86">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
             <mxGeometry x="295" y="330" width="44" height="92" as="geometry" />
           </mxCell>
@@ -147,7 +147,7 @@
         </object>
         <object label="管理员" id="dl_aElRPITHlCjHiOTnc-88">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
-            <mxGeometry x="305" y="595" width="44" height="92" as="geometry" />
+            <mxGeometry x="295" y="454" width="44" height="92" as="geometry" />
           </mxCell>
         </object>
       </root>
