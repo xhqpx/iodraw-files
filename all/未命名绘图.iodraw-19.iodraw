@@ -134,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-30" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="40" height="130" as="geometry" />
+          <mxGeometry x="200" y="390" width="60" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
