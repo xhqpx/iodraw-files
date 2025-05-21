@@ -775,7 +775,7 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-942" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="708.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-943" value="文章点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-943" value="评论" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
