@@ -14,7 +14,7 @@
           <mxGeometry x="360" y="1320" width="90" height="1415" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-422" value="UserService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="747" y="1310" width="150" height="1415" as="geometry" />
+          <mxGeometry x="480" y="1320" width="90" height="1415" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-423" value="UserMapper" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="947" y="1310" width="150" height="1415" as="geometry" />
