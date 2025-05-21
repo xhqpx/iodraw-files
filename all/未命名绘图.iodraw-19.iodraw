@@ -128,7 +128,7 @@
           <mxGeometry x="285" y="656" width="49" height="24" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-36" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-weight: 400; text-align: center;&quot;&gt;用户管理&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="70" height="50" as="geometry" />
+          <mxGeometry x="430" y="300" width="70" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
