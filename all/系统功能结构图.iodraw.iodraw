@@ -115,19 +115,23 @@
             <mxPoint x="605.5" y="1690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-446" value="返回登录成功响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-421" target="dl_aElRPITHlCjHiOTnc-420">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-446" value="返回登录成功响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="487" y="2424" />
+              <mxPoint x="487" y="1720" />
             </Array>
+            <mxPoint x="605.5" y="1720" as="sourcePoint" />
+            <mxPoint x="344.5" y="1720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-447" value="存储令牌到localStorage" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-420" target="dl_aElRPITHlCjHiOTnc-420">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-447" value="存储令牌到localStorage" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="396" y="2478" />
-              <mxPoint x="396" y="2508" />
+              <mxPoint x="391.5" y="1739" />
+              <mxPoint x="391.5" y="1769" />
             </Array>
+            <mxPoint x="340" y="1739" as="sourcePoint" />
+            <mxPoint x="340" y="1769" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-448" value="跳转到首页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-420" target="dl_aElRPITHlCjHiOTnc-419">
