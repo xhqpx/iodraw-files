@@ -100,48 +100,6 @@
             <mxPoint x="820" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-437" value="抛出用户不存在异常" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-422" target="dl_aElRPITHlCjHiOTnc-421">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="726" y="1844" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-438" value="返回错误信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-421" target="dl_aElRPITHlCjHiOTnc-420">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="487" y="1898" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-439" value="显示错误提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-420" target="dl_aElRPITHlCjHiOTnc-419">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="257" y="1952" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-440" value="抛出密码错误异常" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-422" target="dl_aElRPITHlCjHiOTnc-421">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="726" y="2053" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-441" value="返回错误信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-421" target="dl_aElRPITHlCjHiOTnc-420">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="487" y="2107" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-442" value="显示错误提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-420" target="dl_aElRPITHlCjHiOTnc-419">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="257" y="2161" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-443" value="生成JWT令牌" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-422" target="dl_aElRPITHlCjHiOTnc-425">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
