@@ -52,12 +52,6 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-13" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="405" y="520" width="75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-14" value="分配权限" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="405" y="584.5" width="75" height="45.5" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-15" value="管理用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="405" y="650" width="90" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-16" value="管理后台" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="405" y="720" width="90" height="50" as="geometry" />
         </mxCell>
@@ -118,16 +112,16 @@
             <mxPoint x="450" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-14">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="620" as="sourcePoint" />
-            <mxPoint x="450" y="520" as="targetPoint" />
+            <mxPoint x="405" y="607.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-15">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="650" as="sourcePoint" />
-            <mxPoint x="450" y="520" as="targetPoint" />
+            <mxPoint x="405" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-31" value="普通用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
@@ -144,6 +138,15 @@
             <mxPoint x="340" y="680" as="sourcePoint" />
             <mxPoint x="510" y="520" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-39" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="415" y="530" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-40" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="425" y="540" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-41" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="435" y="550" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
