@@ -127,18 +127,20 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-447" value="存储令牌到localStorage" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="391.5" y="1739" />
-              <mxPoint x="391.5" y="1769" />
+              <mxPoint x="401.5" y="1739" />
+              <mxPoint x="401.5" y="1769" />
             </Array>
-            <mxPoint x="340" y="1739" as="sourcePoint" />
-            <mxPoint x="340" y="1769" as="targetPoint" />
+            <mxPoint x="350" y="1739" as="sourcePoint" />
+            <mxPoint x="350" y="1769" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-448" value="跳转到首页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-420" target="dl_aElRPITHlCjHiOTnc-419">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-448" value="跳转到首页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="257" y="2562" />
+              <mxPoint x="257" y="1790" />
             </Array>
+            <mxPoint x="344.5" y="1790" as="sourcePoint" />
+            <mxPoint x="144.5" y="1790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-449" value="登录流程结束" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
