@@ -799,7 +799,7 @@
             <mxPoint x="1616" y="435.16999999999996" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-934" value="关联" style="curved=1;startArrow=ERzeroToMany;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=0.7;exitY=1;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-940">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-934" value="关联" style="curved=1;startArrow=ERzeroToMany;startSize=10;;endArrow=ERmandOne;endSize=10;;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-941" target="dl_aElRPITHlCjHiOTnc-940">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1877" y="344" />
@@ -827,6 +827,9 @@
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-941" value="文章标签关系表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-942" value="博客文章" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1502" y="330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
