@@ -90,7 +90,7 @@
         </object>
         <object label="管理员" id="dl_aElRPITHlCjHiOTnc-51">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-            <mxGeometry x="550" y="387" width="56" height="116" as="geometry" />
+            <mxGeometry x="270" y="670" width="56" height="116" as="geometry" />
           </mxCell>
         </object>
       </root>
