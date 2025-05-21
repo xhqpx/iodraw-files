@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-31" value="普通用户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=SIMSUN;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="270" y="520" width="63" height="25" as="geometry" />
+          <mxGeometry x="268.5" y="520" width="63" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-32" value="管理员" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=SIMSUN;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="275.5" y="700" width="52" height="25" as="geometry" />
