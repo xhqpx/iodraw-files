@@ -80,7 +80,7 @@
         </object>
         <object label="管理员" id="dl_aElRPITHlCjHiOTnc-51">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-            <mxGeometry x="220" y="570" width="50" height="80" as="geometry" />
+            <mxGeometry x="280" y="570" width="50" height="80" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="dl_aElRPITHlCjHiOTnc-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
@@ -154,10 +154,10 @@
         </mxCell>
         <object label="管理员" id="dl_aElRPITHlCjHiOTnc-84">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-            <mxGeometry x="230" y="580" width="50" height="80" as="geometry" />
+            <mxGeometry x="280" y="455" width="50" height="80" as="geometry" />
           </mxCell>
         </object>
-        <object label="管理员" id="dl_aElRPITHlCjHiOTnc-85">
+        <object label="用户" id="dl_aElRPITHlCjHiOTnc-85">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
             <mxGeometry x="280" y="340" width="50" height="80" as="geometry" />
           </mxCell>
