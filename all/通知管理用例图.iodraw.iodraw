@@ -53,16 +53,16 @@
           <mxGeometry x="50" y="462.5" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-137" value="通&lt;div&gt;知&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="472.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="245" y="560" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-138" value="通&lt;div&gt;知&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="482.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="300" y="560" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-139" value="通&lt;div&gt;知&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="492.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="383.5" y="560" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-140" value="通&lt;div&gt;知&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="355" y="520" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="340" y="550" width="30" height="147.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
