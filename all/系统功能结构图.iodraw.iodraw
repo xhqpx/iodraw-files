@@ -229,12 +229,14 @@
             <mxPoint x="604.5" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-351" value="验证验证码" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-343" target="dl_aElRPITHlCjHiOTnc-343">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-351" value="验证验证码" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="656" y="1043" />
-              <mxPoint x="656" y="1073" />
+              <mxPoint x="655" y="850" />
+              <mxPoint x="655" y="880" />
             </Array>
+            <mxPoint x="603.5" y="850" as="sourcePoint" />
+            <mxPoint x="603.5" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-352" value="查询用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-343" target="dl_aElRPITHlCjHiOTnc-344">
