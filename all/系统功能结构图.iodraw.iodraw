@@ -28,10 +28,10 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-430" value="输入用户名和密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="254" y="1400" />
+              <mxPoint x="253.5" y="1422" />
             </Array>
-            <mxPoint x="144.5" y="1400" as="sourcePoint" />
-            <mxPoint x="344.5" y="1400" as="targetPoint" />
+            <mxPoint x="144" y="1422" as="sourcePoint" />
+            <mxPoint x="344" y="1422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-431" value="发送登录请求(POST /login)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
