@@ -58,6 +58,9 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-121" target="dl_aElRPITHlCjHiOTnc-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-121" target="dl_aElRPITHlCjHiOTnc-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-121" value="博客评论管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="370" width="80" height="40" as="geometry" />
         </mxCell>
@@ -134,7 +137,7 @@
           <mxGeometry x="630" y="476.25" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-169" value="评&lt;div&gt;论&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="462.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="580" y="452.5" width="30" height="147.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
