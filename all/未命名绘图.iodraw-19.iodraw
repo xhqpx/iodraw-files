@@ -139,8 +139,8 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-33" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;用户管理&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="580" y="490" width="170" height="140" as="geometry" />
+        <mxCell id="dl_aElRPITHlCjHiOTnc-36" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 12px; font-weight: 400; text-align: center;&quot;&gt;用户管理&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="300" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
