@@ -32,16 +32,19 @@
           <mxGeometry x="400" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-120" value="博客活动管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="500" width="80" height="40" as="geometry" />
+          <mxGeometry x="275" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-121" value="博客评论管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="370" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-122" value="博客管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="380" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-123" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-133" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
