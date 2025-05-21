@@ -145,7 +145,7 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-954" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="dl_aElRPITHlCjHiOTnc-953">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-955" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-955" value="操作" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1100" y="180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-956" value="发布" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
