@@ -5,16 +5,16 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dl_aElRPITHlCjHiOTnc-419" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1320" width="80" height="1415" as="geometry" />
+          <mxGeometry x="70" y="1310" width="150" height="1415" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-420" value="前端页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1320" width="80" height="1415" as="geometry" />
+          <mxGeometry x="270" y="1310" width="150" height="1415" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-421" value="LoginController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1320" width="90" height="1415" as="geometry" />
+          <mxGeometry x="531" y="1310" width="150" height="1415" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-422" value="UserService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1320" width="150" height="1415" as="geometry" />
+          <mxGeometry x="747" y="1310" width="150" height="1415" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-423" value="UserMapper" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
           <mxGeometry x="947" y="1310" width="150" height="1415" as="geometry" />
@@ -37,11 +37,13 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-429" value="[登录成功]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="dl_aElRPITHlCjHiOTnc-426">
           <mxGeometry y="423" width="1299" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-430" value="输入用户名和密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-419" target="dl_aElRPITHlCjHiOTnc-420">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-430" value="输入用户名和密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="254" y="1419" />
+              <mxPoint x="254" y="1400" />
             </Array>
+            <mxPoint x="144.5" y="1400" as="sourcePoint" />
+            <mxPoint x="344.5" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-431" value="发送登录请求(POST /login)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-420" target="dl_aElRPITHlCjHiOTnc-421">
