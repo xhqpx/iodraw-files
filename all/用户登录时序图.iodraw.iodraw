@@ -988,7 +988,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-928" value="点赞" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.63;entryX=0.33;entryY=0;rounded=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-693">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-928" value="点赞" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.63;entryX=0;entryY=0.25;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-693" target="dl_aElRPITHlCjHiOTnc-936">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1282" y="344" />
@@ -1050,12 +1050,6 @@
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-936" value="文章点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1270" y="730" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-937" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-840" target="dl_aElRPITHlCjHiOTnc-936">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-938" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-706" target="dl_aElRPITHlCjHiOTnc-936">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
