@@ -50,12 +50,12 @@
             <mxPoint x="756.2" y="671" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-926" value="发布" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=1;exitY=0.6;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-939">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-926" value="发布" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-939">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1378" y="285" />
             </Array>
-            <mxPoint x="850" y="182" as="sourcePoint" />
+            <mxPoint x="880" y="130" as="sourcePoint" />
             <mxPoint x="1444" y="352.9" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -176,8 +176,8 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-948" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-949" value="敏感词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="dl_aElRPITHlCjHiOTnc-949" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
