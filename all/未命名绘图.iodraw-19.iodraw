@@ -93,6 +93,75 @@
             <mxGeometry x="270" y="670" width="56" height="116" as="geometry" />
           </mxCell>
         </object>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-52" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="310" width="110" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-53" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="340" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-54" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="390" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-55" value="修改密码" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="443" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-56" value="修改个人信息" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="493" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-57" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="sourcePoint" />
+            <mxPoint x="460" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-58" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="460" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-59" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="410" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="430" as="sourcePoint" />
+            <mxPoint x="460" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="590" as="sourcePoint" />
+            <mxPoint x="415" y="617.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-62" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="610" as="sourcePoint" />
+            <mxPoint x="415" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-63" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-weight: 400; text-align: center;&quot;&gt;用户管理&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="434" y="310" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="630" as="sourcePoint" />
+            <mxPoint x="415" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-65" value="分配权限" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="550" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-66" value="管理用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="600" width="75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-67" value="管理后台" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="650" width="75" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
