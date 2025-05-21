@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-94" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="355" y="1040" width="110" height="400" as="geometry" />
+          <mxGeometry x="355" y="1040" width="110" height="190" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-95" value="搜索结果" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="372.5" y="1070" width="75" height="40" as="geometry" />
@@ -185,7 +185,7 @@
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-99" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=10;" edge="1" parent="1" target="dl_aElRPITHlCjHiOTnc-95">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="305" y="1090" as="sourcePoint" />
+            <mxPoint x="305" y="1110" as="sourcePoint" />
             <mxPoint x="355.0020519852025" y="1027.2367286566473" as="targetPoint" />
           </mxGeometry>
         </mxCell>
