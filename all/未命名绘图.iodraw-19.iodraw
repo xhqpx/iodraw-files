@@ -41,7 +41,7 @@
           <mxGeometry x="390" y="300" width="120" height="480" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-10" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="405" y="340" width="90" height="50" as="geometry" />
+          <mxGeometry x="405" y="340" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-11" value="注册账号" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="405" y="400" width="74" height="35" as="geometry" />
