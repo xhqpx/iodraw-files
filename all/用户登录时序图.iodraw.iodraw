@@ -116,16 +116,16 @@
           <mxGeometry x="750" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-945" value="活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="469" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-946" value="敏感词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-947" value="通知公告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="469" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-948" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-949" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="400" width="120" height="60" as="geometry" />
