@@ -238,11 +238,11 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-984" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="dl_aElRPITHlCjHiOTnc-983">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-985" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="325" width="100" height="50" as="geometry" />
+        <mxCell id="dl_aElRPITHlCjHiOTnc-985" value="发表" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="560" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-986" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="335" width="100" height="50" as="geometry" />
+          <mxGeometry x="1210" y="580" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
