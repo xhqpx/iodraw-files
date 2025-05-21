@@ -97,18 +97,21 @@
             <mxPoint x="1420" y="1630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-444" value="返回令牌" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-425" target="dl_aElRPITHlCjHiOTnc-422">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-444" value="返回令牌" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1134" y="2316" />
+              <mxPoint x="1134" y="1670" />
             </Array>
+            <mxPoint x="1421.5" y="1670" as="sourcePoint" />
+            <mxPoint x="821.5" y="1670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-445" value="返回用户信息和令牌" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-422" target="dl_aElRPITHlCjHiOTnc-421">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.1528" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="726" y="2370" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-446" value="返回登录成功响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-421" target="dl_aElRPITHlCjHiOTnc-420">
