@@ -46,18 +46,22 @@
             <mxPoint x="344.5" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-431" value="发送登录请求(POST /login)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-420" target="dl_aElRPITHlCjHiOTnc-421">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-431" value="发送登录请求(POST /login)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="484" y="1473" />
+              <mxPoint x="484" y="1430" />
             </Array>
+            <mxPoint x="344.5" y="1430" as="sourcePoint" />
+            <mxPoint x="605.5" y="1430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-432" value="调用login方法" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-421" target="dl_aElRPITHlCjHiOTnc-422">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-432" value="调用login方法" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="723" y="1527" />
+              <mxPoint x="723" y="1460" />
             </Array>
+            <mxPoint x="605.5" y="1460" as="sourcePoint" />
+            <mxPoint x="821.5" y="1460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-433" value="查询用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-422" target="dl_aElRPITHlCjHiOTnc-423">
