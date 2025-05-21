@@ -98,7 +98,7 @@
           <mxGeometry x="40" y="452.5" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-135" value="文&lt;div&gt;章&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;&lt;div&gt;布&lt;/div&gt;&lt;div&gt;编&lt;/div&gt;&lt;div&gt;辑&lt;/div&gt;&lt;div&gt;删&lt;/div&gt;&lt;div&gt;除&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="450" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="380" y="450" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-136" value="日&lt;div&gt;志&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="452.5" width="30" height="147.5" as="geometry" />
@@ -116,22 +116,22 @@
           <mxGeometry x="245" y="452.5" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-144" value="文&lt;div&gt;章&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;类&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="452.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="420" y="450" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-145" value="文&lt;div&gt;章&lt;/div&gt;&lt;div&gt;标&lt;/div&gt;&lt;div&gt;签&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="452.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="460" y="440" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-146" value="活&lt;div&gt;动&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="827" y="410" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-147" value="文&lt;div&gt;章&lt;/div&gt;&lt;div&gt;点&lt;/div&gt;&lt;div&gt;赞&lt;/div&gt;&lt;div&gt;搜&lt;/div&gt;&lt;div&gt;索&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="452.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="510" y="437" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-148" value="评&lt;div&gt;论&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;&lt;div&gt;布&lt;/div&gt;&lt;div&gt;删&lt;/div&gt;&lt;div&gt;除&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="452.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="560" y="437" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-149" value="评&lt;div&gt;论&lt;/div&gt;&lt;div&gt;审&lt;/div&gt;&lt;div&gt;核&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="452.5" width="30" height="147.5" as="geometry" />
+          <mxGeometry x="610" y="437" width="30" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-150" value="活&lt;div&gt;动&lt;/div&gt;&lt;div&gt;状&lt;/div&gt;&lt;div&gt;态&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="770" y="420" width="30" height="147.5" as="geometry" />
