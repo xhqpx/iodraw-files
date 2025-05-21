@@ -53,10 +53,10 @@
           <mxGeometry x="405" y="370" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-14" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="415" y="380" width="90" height="50" as="geometry" />
+          <mxGeometry x="375" y="585" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-15" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="390" width="90" height="50" as="geometry" />
+          <mxGeometry x="375" y="650" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-16" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="730" width="90" height="50" as="geometry" />
