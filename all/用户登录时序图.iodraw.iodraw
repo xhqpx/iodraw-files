@@ -279,7 +279,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-923" value="管理" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-693">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-923" value="管理" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.72;rounded=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-693" target="dl_aElRPITHlCjHiOTnc-946">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="555" y="344" />
@@ -421,6 +421,9 @@
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-946" value="敏感词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-947" value="敏感词" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
