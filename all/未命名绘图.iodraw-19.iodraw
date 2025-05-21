@@ -146,7 +146,7 @@
           <mxGeometry x="407.5" y="640" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-42" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="484" width="30" height="60" as="geometry" />
+          <mxGeometry x="44" y="433" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-43" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="334" width="30" height="60" as="geometry" />
