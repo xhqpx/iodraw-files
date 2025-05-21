@@ -22,8 +22,8 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-122" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="490" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-123" value="系统管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="500" width="80" height="40" as="geometry" />
+        <mxCell id="dl_aElRPITHlCjHiOTnc-123" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
