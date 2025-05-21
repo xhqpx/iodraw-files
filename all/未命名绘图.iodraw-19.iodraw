@@ -148,8 +148,10 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-42" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="433" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-43" target="dl_aElRPITHlCjHiOTnc-42">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dl_aElRPITHlCjHiOTnc-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-43" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="334" width="30" height="60" as="geometry" />
