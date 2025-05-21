@@ -142,7 +142,12 @@
         </mxCell>
         <object label="用户" id="dl_aElRPITHlCjHiOTnc-86">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
-            <mxGeometry x="276" y="318" width="44" height="112" as="geometry" />
+            <mxGeometry x="295" y="330" width="44" height="92" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="用户" id="dl_aElRPITHlCjHiOTnc-87">
+          <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
+            <mxGeometry x="305" y="340" width="44" height="92" as="geometry" />
           </mxCell>
         </object>
       </root>
