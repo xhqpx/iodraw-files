@@ -52,7 +52,7 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-36" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px; font-weight: 400; text-align: center;&quot;&gt;评论管理&lt;/span&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="424" y="300" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dl_aElRPITHlCjHiOTnc-39" value="编辑活动" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="dl_aElRPITHlCjHiOTnc-39" value="发布通知" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="407.5" y="530" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-40" value="文章批量管理" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
@@ -154,7 +154,7 @@
           <mxGeometry x="411.5" y="580" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-90" value="编辑活动" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="530" y="420" width="75" height="40" as="geometry" />
+          <mxGeometry x="411.5" y="637" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-91" value="编辑活动" style="ellipse;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="540" y="506" width="75" height="40" as="geometry" />
