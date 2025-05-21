@@ -7,6 +7,12 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-114" target="dl_aElRPITHlCjHiOTnc-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-114" target="dl_aElRPITHlCjHiOTnc-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dl_aElRPITHlCjHiOTnc-114" target="dl_aElRPITHlCjHiOTnc-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-114" value="个人博客系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="260" width="110" height="40" as="geometry" />
         </mxCell>
@@ -14,7 +20,7 @@
           <mxGeometry x="80" y="380" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-119" value="博客报名活动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="390" y="340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dl_aElRPITHlCjHiOTnc-120" value="博客活动管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="500" width="80" height="40" as="geometry" />
