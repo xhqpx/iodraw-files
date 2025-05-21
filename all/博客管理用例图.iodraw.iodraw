@@ -142,7 +142,7 @@
         </mxCell>
         <object label="用户" id="dl_aElRPITHlCjHiOTnc-86">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
-            <mxGeometry x="276" y="318" width="74" height="152" as="geometry" />
+            <mxGeometry x="276" y="318" width="44" height="112" as="geometry" />
           </mxCell>
         </object>
       </root>
