@@ -61,6 +61,9 @@
         <mxCell id="dl_aElRPITHlCjHiOTnc-16" value="登录系统" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="720" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="dl_aElRPITHlCjHiOTnc-17" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
