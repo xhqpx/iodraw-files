@@ -139,11 +139,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-290" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-268">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-290" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="819" y="989" />
+              <mxPoint x="824.5" y="690" />
             </Array>
+            <mxPoint x="609.3333333333335" y="690" as="sourcePoint" />
+            <mxPoint x="1321" y="690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-291" value="返回过滤结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-268" target="0HU06kgkGGuAJTMURiZS-265">
