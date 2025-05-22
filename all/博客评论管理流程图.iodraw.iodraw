@@ -53,7 +53,7 @@
           <mxGeometry x="426" y="846" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-496" value="保存修改" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="632" y="846" width="126" height="48" as="geometry" />
+          <mxGeometry x="970" y="630" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-497" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="617" y="944" width="156" height="48" as="geometry" />
@@ -136,8 +136,11 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-525" value="验证失败" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.37;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-494" target="0HU06kgkGGuAJTMURiZS-495">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-527" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-494" target="0HU06kgkGGuAJTMURiZS-496">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-527" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="989.9971428571426" y="523.3571428571429" as="sourcePoint" />
+            <mxPoint x="992.1399999999995" y="688" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-528" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-496" target="0HU06kgkGGuAJTMURiZS-497">
           <mxGeometry relative="1" as="geometry" />
