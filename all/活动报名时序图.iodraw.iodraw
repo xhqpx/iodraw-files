@@ -300,6 +300,15 @@
             <mxPoint x="846" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-311" value="返回评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="683" y="840" />
+            </Array>
+            <mxPoint x="846" y="840" as="sourcePoint" />
+            <mxPoint x="600" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
