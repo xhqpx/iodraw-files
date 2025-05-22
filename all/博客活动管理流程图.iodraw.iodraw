@@ -56,7 +56,7 @@
           <mxGeometry x="761" y="1276" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-565" value="确认取消?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1068" y="986" width="120" height="120" as="geometry" />
+          <mxGeometry x="918" y="400" width="142" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-566" value="取消操作" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="970" y="1276" width="124" height="48" as="geometry" />
