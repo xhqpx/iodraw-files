@@ -34,7 +34,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-149" value="[文章不完整]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-147">
           <mxGeometry y="430" width="1253" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-150" value="进入发布文章页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-140" target="0HU06kgkGGuAJTMURiZS-141">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-150" value="进入获得发布页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-140" target="0HU06kgkGGuAJTMURiZS-141">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="211" y="129" />
