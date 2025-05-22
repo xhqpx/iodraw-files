@@ -137,7 +137,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-423" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-396" target="0HU06kgkGGuAJTMURiZS-398">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.135" y="63" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-424" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-398" target="0HU06kgkGGuAJTMURiZS-399">
           <mxGeometry relative="1" as="geometry" />
