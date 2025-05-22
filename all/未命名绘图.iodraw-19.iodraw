@@ -122,18 +122,22 @@
             <mxPoint x="1548.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-46" value="获取缓存验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-30" target="0HU06kgkGGuAJTMURiZS-28">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-46" value="获取缓存验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1361" y="635" />
+              <mxPoint x="1361" y="460" />
             </Array>
+            <mxPoint x="1548.5" y="460" as="sourcePoint" />
+            <mxPoint x="1148.5" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-47" value="返回验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-28" target="0HU06kgkGGuAJTMURiZS-30">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-47" value="返回验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1358" y="689" />
+              <mxPoint x="1358.5" y="500" />
             </Array>
+            <mxPoint x="1149" y="500" as="sourcePoint" />
+            <mxPoint x="1549" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-48" value="返回验证结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-30" target="0HU06kgkGGuAJTMURiZS-26">
