@@ -29,10 +29,13 @@
           <mxGeometry x="800" y="110" width="1535" height="197" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-878" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="995" y="-240" width="125" height="48" as="geometry" />
+          <mxGeometry x="1010" y="-35.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-879" value="博客文章管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1337" y="-192" width="126" height="48" as="geometry" />
+          <mxGeometry x="1190" y="-35.5" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-969" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-880" target="0HU06kgkGGuAJTMURiZS-967">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-880" value="评论管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1750" y="-30" width="125" height="48" as="geometry" />
