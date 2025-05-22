@@ -11,10 +11,10 @@
           <mxGeometry x="650" y="420" width="151" height="42" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-596" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="653" y="537" width="167" height="63" as="geometry" />
+          <mxGeometry x="642" y="490" width="167" height="63" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-597" value="输入敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="330" y="720" width="140" height="48" as="geometry" />
+          <mxGeometry x="414" y="630" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-598" value="选择要删除的敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="516" y="875" width="205" height="48" as="geometry" />
@@ -61,8 +61,11 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-618" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-595" target="0HU06kgkGGuAJTMURiZS-596">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-619" value="添加" style="startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-596" target="0HU06kgkGGuAJTMURiZS-597">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-619" value="添加" style="startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573.7372881355932" y="480.99508474576277" as="sourcePoint" />
+            <mxPoint x="403" y="584.69" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-620" value="删除" style="startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-596" target="0HU06kgkGGuAJTMURiZS-598">
           <mxGeometry relative="1" as="geometry" />
