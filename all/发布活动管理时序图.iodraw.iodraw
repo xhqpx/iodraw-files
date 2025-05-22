@@ -51,10 +51,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-234" value="获取活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-221" target="0HU06kgkGGuAJTMURiZS-222">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.5786" y="33" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="404" y="183" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-235" value="查询活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-222" target="0HU06kgkGGuAJTMURiZS-224">
