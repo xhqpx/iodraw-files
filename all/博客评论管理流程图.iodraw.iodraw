@@ -23,7 +23,7 @@
           <mxGeometry x="1146" y="281" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-485" value="显示活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="740" width="156" height="48" as="geometry" />
+          <mxGeometry x="1370" y="750" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-487" value="填写活动信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="578" y="352" width="158" height="48" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="670" y="592" width="110" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-491" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="647" y="657" width="163" height="43" as="geometry" />
+          <mxGeometry x="643.5" y="657" width="163" height="43" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-492" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="936" y="730" width="94" height="48" as="geometry" />
@@ -130,7 +130,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-521" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-490" target="0HU06kgkGGuAJTMURiZS-491">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-522" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.44;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-491" target="0HU06kgkGGuAJTMURiZS-492">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-522" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.44;rounded=0;fontFamily=SIMSUN;fontSize=15;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-491" target="0HU06kgkGGuAJTMURiZS-492">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-523" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-483" target="0HU06kgkGGuAJTMURiZS-493">
