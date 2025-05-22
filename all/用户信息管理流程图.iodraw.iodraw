@@ -68,7 +68,7 @@
           <mxGeometry x="1050" y="560" width="104" height="36" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-403" value="更新博客列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1039" y="1014" width="156" height="48" as="geometry" />
+          <mxGeometry x="1024" y="630" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-404" value="浏览博客列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1162" y="310" width="157" height="48" as="geometry" />
@@ -172,7 +172,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-428" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-401" target="0HU06kgkGGuAJTMURiZS-394">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-429" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-400" target="0HU06kgkGGuAJTMURiZS-402">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-429" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-400" target="0HU06kgkGGuAJTMURiZS-402">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-430" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-402" target="0HU06kgkGGuAJTMURiZS-403">
