@@ -155,10 +155,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-298" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="919" y="860" />
+              <mxPoint x="915.17" y="1020" />
             </Array>
-            <mxPoint x="603.8333333333335" y="860" as="sourcePoint" />
-            <mxPoint x="1554.5" y="860" as="targetPoint" />
+            <mxPoint x="600.0033333333334" y="1020" as="sourcePoint" />
+            <mxPoint x="1550.67" y="1020" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-299" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
