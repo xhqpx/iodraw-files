@@ -23,10 +23,10 @@
           <mxGeometry x="241.75" y="810" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-752" value="路径推进&#xa;指针下移" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="548.25" y="870" width="124" height="66" as="geometry" />
+          <mxGeometry x="495.25" y="850" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-754" value="命中替换&#xa;替换为****" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="546.5" y="1060" width="132" height="66" as="geometry" />
+          <mxGeometry x="492.5" y="1040" width="132" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-755" value="位置更新&#xa;向后移动检测点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="526.5" y="1160" width="172" height="66" as="geometry" />
@@ -104,7 +104,7 @@
           <mxGeometry x="490" y="760" width="134.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-773" value="到达词尾？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="544" y="960" width="134.5" height="50" as="geometry" />
+          <mxGeometry x="490" y="950" width="134.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
