@@ -44,7 +44,7 @@
           <mxGeometry x="510" y="710" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-561" value="更新报名状态" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="487" y="790" width="156" height="48" as="geometry" />
+          <mxGeometry x="503.5" y="790" width="123" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-562" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="888" y="1374" width="94" height="48" as="geometry" />
