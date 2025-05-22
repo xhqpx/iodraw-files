@@ -262,7 +262,7 @@
               <mxPoint x="1866" y="120" />
             </Array>
             <mxPoint x="1766" y="28" as="sourcePoint" />
-            <mxPoint x="1770" y="102" as="targetPoint" />
+            <mxPoint x="1761" y="120" as="targetPoint" />
             <mxPoint x="-5" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
