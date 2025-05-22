@@ -53,7 +53,7 @@
           <mxGeometry x="620" y="560" width="104" height="36" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-398" value="保存修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="738" y="560" width="104" height="40" as="geometry" />
+          <mxGeometry x="738" y="670" width="104" height="36" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-399" value="更新博客列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="658" y="1014" width="156" height="48" as="geometry" />
@@ -139,8 +139,11 @@
             <mxPoint x="390.0001960784314" y="866" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-423" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-396" target="0HU06kgkGGuAJTMURiZS-398">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-423" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="846.3928571428571" y="494.0728571428571" as="sourcePoint" />
+            <mxPoint x="842" y="661.93" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-424" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-398" target="0HU06kgkGGuAJTMURiZS-399">
           <mxGeometry relative="1" as="geometry" />
