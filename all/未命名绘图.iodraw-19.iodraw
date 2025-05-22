@@ -113,11 +113,13 @@
             <mxPoint x="718" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-45" value="验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-26" target="0HU06kgkGGuAJTMURiZS-30">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-45" value="验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1142" y="581" />
+              <mxPoint x="1142" y="420" />
             </Array>
+            <mxPoint x="717.5" y="420" as="sourcePoint" />
+            <mxPoint x="1548.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-46" value="获取缓存验证码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-30" target="0HU06kgkGGuAJTMURiZS-28">
