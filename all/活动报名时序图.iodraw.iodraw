@@ -114,11 +114,13 @@
             <mxPoint x="123.83333333333326" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-285" value="输入评论内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-263" target="0HU06kgkGGuAJTMURiZS-264">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-285" value="输入评论内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="719" />
+              <mxPoint x="204" y="500" />
             </Array>
+            <mxPoint x="123.83333333333326" y="500" as="sourcePoint" />
+            <mxPoint x="358.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-286" value="实时字数统计" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-263">
@@ -275,6 +277,17 @@
             </Array>
             <mxPoint x="595" y="440" as="sourcePoint" />
             <mxPoint x="360" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-308" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
+          <mxGeometry x="-0.0023" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495.5" y="520" />
+              <mxPoint x="495.5" y="600" />
+            </Array>
+            <mxPoint x="360" y="520" as="sourcePoint" />
+            <mxPoint x="360" y="600" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
