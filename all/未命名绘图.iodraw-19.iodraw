@@ -258,13 +258,23 @@
               <mxPoint x="1822" y="41" />
               <mxPoint x="1875" y="35" />
               <mxPoint x="1937" y="35" />
-              <mxPoint x="1937" y="72" />
+              <mxPoint x="1988" y="55" />
               <mxPoint x="1953" y="102" />
               <mxPoint x="1866" y="120" />
             </Array>
             <mxPoint x="1770" y="46" as="sourcePoint" />
             <mxPoint x="1770" y="102" as="targetPoint" />
             <mxPoint x="-5" y="-40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-99" value="敏感词过滤验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="767" y="2822" />
+              <mxPoint x="767" y="2852" />
+            </Array>
+            <mxPoint x="715" y="2822" as="sourcePoint" />
+            <mxPoint x="715" y="2852" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
