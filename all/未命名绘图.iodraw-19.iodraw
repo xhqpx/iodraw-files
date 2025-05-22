@@ -41,7 +41,7 @@
           <mxGeometry x="30" width="706" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-36" value="[验证码验证不通过]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-34">
-          <mxGeometry y="642" width="736" height="3" as="geometry" />
+          <mxGeometry y="394.5" width="736" height="3" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-37" value="访问注册页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-24" target="0HU06kgkGGuAJTMURiZS-25">
           <mxGeometry relative="1" as="geometry">
