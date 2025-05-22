@@ -25,9 +25,6 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-106" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="84" y="1151" width="653" height="418" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-107" value="[验证通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-106">
-          <mxGeometry x="30" width="623" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-108" value="[验证不通过]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-106">
           <mxGeometry y="268" width="653" height="3" as="geometry" />
         </mxCell>
@@ -254,6 +251,9 @@
             <mxPoint x="530" y="1050" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-107" value="[验证通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1070" width="623" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
