@@ -8,7 +8,7 @@
           <mxGeometry x="-20" y="20" width="150" height="1644" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-101" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="235" y="20" width="150" height="1644" as="geometry" />
+          <mxGeometry x="210" y="20" width="150" height="1644" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-102" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="451" y="20" width="150" height="1644" as="geometry" />
