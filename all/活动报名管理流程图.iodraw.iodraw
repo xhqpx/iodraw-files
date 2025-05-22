@@ -38,7 +38,7 @@
           <mxGeometry x="678" y="910" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-606" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="850" width="120" height="120" as="geometry" />
+          <mxGeometry x="1241" y="850" width="129" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-607" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1150" width="125" height="48" as="geometry" />
