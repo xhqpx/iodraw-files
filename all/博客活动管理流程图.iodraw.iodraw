@@ -26,13 +26,13 @@
           <mxGeometry x="573" y="398" width="109" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-555" value="活动是否可报名" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="543.75" y="470" width="165" height="70" as="geometry" />
+          <mxGeometry x="545" y="470" width="165" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-556" value="提示活动已结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="578" y="887" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-557" value="填写报名信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="364" y="887" width="158" height="48" as="geometry" />
+          <mxGeometry x="420" y="600" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-558" value="信息验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="340" y="989" width="113" height="113" as="geometry" />
