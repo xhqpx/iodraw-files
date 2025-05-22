@@ -25,9 +25,6 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-485" value="显示活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1204" y="689" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-486" value="查看报名情况" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1514" y="434" width="156" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-487" value="填写活动信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="44" y="555" width="158" height="48" as="geometry" />
         </mxCell>
@@ -78,21 +75,6 @@
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-503" value="查看活动详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1204" y="944" width="157" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-504" value="显示报名列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1514" y="555" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-505" value="审核报名" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1536" y="657" width="112" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-506" value="更新报名状态" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1411" y="846" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-507" value="更新报名状态" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1617" y="846" width="156" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-508" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1514" y="944" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-509" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-479" target="0HU06kgkGGuAJTMURiZS-480">
           <mxGeometry relative="1" as="geometry" />
@@ -173,27 +155,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-538" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.35;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-503" target="0HU06kgkGGuAJTMURiZS-492">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-539" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-486" target="0HU06kgkGGuAJTMURiZS-504">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-540" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-504" target="0HU06kgkGGuAJTMURiZS-505">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-541" value="通过" style="startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-505" target="0HU06kgkGGuAJTMURiZS-506">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-542" value="拒绝" style="startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-505" target="0HU06kgkGGuAJTMURiZS-507">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-543" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.17;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-506" target="0HU06kgkGGuAJTMURiZS-508">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-544" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.82;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-507" target="0HU06kgkGGuAJTMURiZS-508">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-545" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.43;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-508" target="0HU06kgkGGuAJTMURiZS-492">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-546" value="用户2" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
