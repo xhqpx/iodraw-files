@@ -59,19 +59,22 @@
             <mxPoint x="725.5" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-153" value="返回模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-143" target="0HU06kgkGGuAJTMURiZS-142">
-          <mxGeometry x="-0.7463" y="-61" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="638" y="291" />
-            </Array>
-            <mxPoint x="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-154" value="返回文章模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-142" target="0HU06kgkGGuAJTMURiZS-141">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-153" value="返回模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="345" />
+              <mxPoint x="638" y="230" />
             </Array>
+            <mxPoint x="725.5" y="230" as="sourcePoint" />
+            <mxPoint x="524.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-154" value="返回文章模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="260" />
+            </Array>
+            <mxPoint x="525.5" y="260" as="sourcePoint" />
+            <mxPoint x="308.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-155" value="显示文章模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-141" target="0HU06kgkGGuAJTMURiZS-140">
