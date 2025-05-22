@@ -91,14 +91,17 @@
             <mxPoint x="720" y="331.74" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-410" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-410" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384" target="0HU06kgkGGuAJTMURiZS-387">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="889.5028205128203" y="239.99923076923082" as="sourcePoint" />
             <mxPoint x="916.49" y="339.23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-411" value="查看" style="startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384" target="0HU06kgkGGuAJTMURiZS-388">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-411" value="查看" style="startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="941.8467213114753" y="182.70983606557382" as="sourcePoint" />
+            <mxPoint x="1102.15" y="217.30000000000013" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-412" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-385" target="0HU06kgkGGuAJTMURiZS-389">
           <mxGeometry relative="1" as="geometry" />
