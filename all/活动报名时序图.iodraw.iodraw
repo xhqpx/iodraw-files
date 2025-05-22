@@ -35,7 +35,7 @@
           <mxGeometry y="70" width="422" height="3" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-273" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="290" y="740" width="1037" height="634" as="geometry" />
+          <mxGeometry x="270" y="740" width="1037" height="634" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-274" value="[评论合法]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-273">
           <mxGeometry x="30" width="1007" height="20" as="geometry" />
@@ -149,7 +149,7 @@
             <mxPoint x="846.6633333333331" y="1096.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-302" value="显示结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-302" value="显示评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="208.83" y="1167" />
