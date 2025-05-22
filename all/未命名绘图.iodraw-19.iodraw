@@ -86,7 +86,7 @@
             <mxPoint x="485.5" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-42" value="实时表单验证" style="verticalAlign=bottom;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-42" value="实时表单验证" style="verticalAlign=bottom;rounded=0;endArrow=block;fontSize=23;curved=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2212.32" y="188" as="sourcePoint" />
             <mxPoint x="1736" y="483" as="targetPoint" />
@@ -246,13 +246,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-98" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=22;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2239" y="168" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1822" y="72" />
               <mxPoint x="1822" y="102" />
             </Array>
             <mxPoint x="1770" y="72" as="sourcePoint" />
             <mxPoint x="1770" y="102" as="targetPoint" />
+            <mxPoint x="-5" y="-40" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
