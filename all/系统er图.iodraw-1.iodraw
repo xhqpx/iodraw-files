@@ -11,10 +11,10 @@
           <mxGeometry x="363" y="338" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-746" value="获取待处理文本" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="232" y="702" width="173" height="48" as="geometry" />
+          <mxGeometry x="363" y="420" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-747" value="遍历文本" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="256" y="825" width="125" height="48" as="geometry" />
+          <mxGeometry x="387" y="500" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-748" value="重置指针&#xa;字典树回到根节点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="946" width="188" height="66" as="geometry" />
