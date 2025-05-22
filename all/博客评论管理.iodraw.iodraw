@@ -20,7 +20,7 @@
           <mxGeometry x="180" y="360" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-322" value="验证用户名是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="850" y="270" width="193" height="193" as="geometry" />
+          <mxGeometry x="556" y="310" width="193" height="193" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-323" value="提示用户名不存在" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="383" y="796" width="188" height="48" as="geometry" />
@@ -59,9 +59,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-337" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.34;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-324" target="0HU06kgkGGuAJTMURiZS-325">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-338" value="" style="startArrow=none;endArrow=block;exitX=0.7;exitY=-0.01;entryX=1;entryY=0.76;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-325" target="0HU06kgkGGuAJTMURiZS-319">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-339" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-324" target="0HU06kgkGGuAJTMURiZS-326">
