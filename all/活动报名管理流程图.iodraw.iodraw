@@ -17,7 +17,7 @@
           <mxGeometry x="420" y="600" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-598" value="选择要删除的敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="690" width="205" height="48" as="geometry" />
+          <mxGeometry x="860" y="592" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-599" value="显示敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="653" y="600" width="148" height="40" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="490" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-604" value="更新敏感词库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="472" y="840" width="148" height="40" as="geometry" />
+          <mxGeometry x="486" y="840" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-605" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="678" y="910" width="94" height="48" as="geometry" />
