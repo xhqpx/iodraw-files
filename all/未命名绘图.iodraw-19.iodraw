@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="0J7OqR5ryFeeWGFa51bW">
-    <mxGraphModel dx="1822" dy="1065" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2227" dy="1302" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,14 +246,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-98" value="敏感词过滤验证" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="-0.2239" y="462" relative="1" as="geometry">
+          <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="757" y="2812" />
-              <mxPoint x="757" y="2842" />
+              <mxPoint x="1511" y="428" />
+              <mxPoint x="1511" y="458" />
             </Array>
-            <mxPoint x="705" y="2812" as="sourcePoint" />
-            <mxPoint x="705" y="2842" as="targetPoint" />
-            <mxPoint x="-362" y="-452" as="offset" />
+            <mxPoint x="1459" y="428" as="sourcePoint" />
+            <mxPoint x="1459" y="458" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
