@@ -270,6 +270,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-316" value="返回评论失败" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+          <mxGeometry x="-0.0048" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="443" y="1240" />
+            </Array>
+            <mxPoint x="605" y="1240" as="sourcePoint" />
+            <mxPoint x="360" y="1240" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
