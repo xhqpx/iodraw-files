@@ -283,7 +283,7 @@
             <mxPoint x="600" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-314" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-314" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-267">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="924.8299999999999" y="870" />
