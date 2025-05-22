@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-578" value="是" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-555" target="0HU06kgkGGuAJTMURiZS-557">
-          <mxGeometry x="0.0043" relative="1" as="geometry">
+          <mxGeometry x="-0.0546" y="-16" relative="1" as="geometry">
             <mxPoint x="419.99525423728835" y="490.0010169491526" as="sourcePoint" />
             <mxPoint x="285.08000000000004" y="555.34" as="targetPoint" />
             <mxPoint as="offset" />
@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-580" value="验证失败" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-558" target="0HU06kgkGGuAJTMURiZS-559">
-          <mxGeometry x="-0.3211" y="-27" relative="1" as="geometry">
+          <mxGeometry x="-0.3615" y="-37" relative="1" as="geometry">
             <mxPoint x="354.97" y="690" as="sourcePoint" />
             <mxPoint x="219.99941176470563" y="819" as="targetPoint" />
             <mxPoint as="offset" />
