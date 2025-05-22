@@ -269,9 +269,8 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-99" value="敏感词过滤验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1850" y="-110" />
-              <mxPoint x="1910" y="-100" />
-              <mxPoint x="1940" y="-60" />
+              <mxPoint x="1849" y="-101" />
+              <mxPoint x="1970" y="-60" />
             </Array>
             <mxPoint x="1680" y="-110" as="sourcePoint" />
             <mxPoint x="1680" y="-60" as="targetPoint" />
