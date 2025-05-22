@@ -113,7 +113,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-772" value="存在子节点" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="543" y="760" width="134.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-773" value="到达词尾" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=SIMSUN;" vertex="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-773" value="到达词尾？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="544" y="960" width="134.5" height="50" as="geometry" />
         </mxCell>
       </root>
