@@ -32,7 +32,7 @@
           <mxGeometry x="850" y="494.5" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-326" value="登录成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="900" y="982" width="125" height="48" as="geometry" />
+          <mxGeometry x="639" y="640" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-327" value="跳转到首页" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="892" y="1080" width="141" height="48" as="geometry" />
@@ -73,7 +73,7 @@
             <mxPoint x="1123.9999999999995" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-339" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-324">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-339" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-324" target="0HU06kgkGGuAJTMURiZS-326">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="720" y="700.0000000000002" as="sourcePoint" />
             <mxPoint x="922" y="1134.0000000000002" as="targetPoint" />
