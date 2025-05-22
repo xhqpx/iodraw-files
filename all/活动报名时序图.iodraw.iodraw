@@ -123,13 +123,6 @@
             <mxPoint x="358.5" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-286" value="实时字数统计" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-263">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="207" y="773" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-287" value="表情转换" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-263">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -279,7 +272,7 @@
             <mxPoint x="360" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-308" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-308" value="实时统计字数" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="495.5" y="520" />
