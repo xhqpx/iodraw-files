@@ -35,10 +35,10 @@
           <mxGeometry x="1241" y="-35.5" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-880" value="评论管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1829" y="-35.5" width="125" height="48" as="geometry" />
+          <mxGeometry x="1440" y="-35.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-881" value="活动管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="-30" width="126" height="48" as="geometry" />
+          <mxGeometry x="1628" y="-35.5" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-882" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="-35.5" width="125" height="48" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="1465" y="233" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-886" value="活动报名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="-30" width="125" height="48" as="geometry" />
+          <mxGeometry x="1820" y="-35.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-887" value="数据统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="220" width="125" height="48" as="geometry" />
