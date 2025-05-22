@@ -172,11 +172,8 @@
             <mxPoint x="534.25" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-248" value="创建报名记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-223" target="0HU06kgkGGuAJTMURiZS-224">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-248" value="创建报名记录" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-99.96000000000004" y="851" />
-            </Array>
             <mxPoint x="-169.99846153846147" y="640" as="sourcePoint" />
             <mxPoint x="47.539999999999964" y="640" as="targetPoint" />
           </mxGeometry>
