@@ -187,13 +187,13 @@
             <mxPoint x="1325.5" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-171" value="发布活动通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;entryX=0.54;entryY=0.592;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-142">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-171" value="发布活动通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-142">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1139" y="1040" />
+              <mxPoint x="1197" y="1080.58" />
             </Array>
-            <mxPoint x="1326.5" y="1040" as="sourcePoint" />
-            <mxPoint x="550" y="1040" as="targetPoint" />
+            <mxPoint x="1384.5" y="1080.58" as="sourcePoint" />
+            <mxPoint x="590" y="1080.004" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-172" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
