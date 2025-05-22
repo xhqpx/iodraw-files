@@ -47,7 +47,7 @@
           <mxGeometry x="1000" y="758" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-609" value="更新敏感词库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="972" y="840" width="156" height="48" as="geometry" />
+          <mxGeometry x="986" y="840" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-610" value="浏览敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="642" y="678" width="168" height="42" as="geometry" />
@@ -112,8 +112,11 @@
             <mxPoint x="1236.29" y="1169.26" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-631" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.34;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-607" target="0HU06kgkGGuAJTMURiZS-605">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-631" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.34;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="972" y="1059.9999999999998" as="sourcePoint" />
+            <mxPoint x="750" y="1186.3199999999997" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-632" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-606" target="0HU06kgkGGuAJTMURiZS-608">
           <mxGeometry relative="1" as="geometry">
