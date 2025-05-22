@@ -14,7 +14,7 @@
           <mxGeometry x="850" y="520" width="196" height="360" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-872" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1066" y="520" width="225" height="320" as="geometry" />
+          <mxGeometry x="1066" y="520" width="225" height="280" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-873" value="安全与权限" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1310" y="520" width="212" height="320" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="1116" y="656" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-905" value="缓存系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1116" y="767" width="124" height="48" as="geometry" />
+          <mxGeometry x="1118" y="740" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-906" value="日志记录" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="885" y="580" width="125" height="48" as="geometry" />
