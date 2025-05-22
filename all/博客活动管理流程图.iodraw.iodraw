@@ -28,7 +28,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-555" value="活动是否可报名" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="382" y="654" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-556" value="提示活动已结束或已满" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-556" value="提示活动已结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="578" y="887" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-557" value="填写报名信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
