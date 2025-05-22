@@ -20,7 +20,7 @@
           <mxGeometry x="355.5" y="590" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-750" value="移动检测&#xa;取下一字符" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="260" y="980" width="140" height="66" as="geometry" />
+          <mxGeometry x="310" y="780" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-751" value="存在子节点?" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="860" width="147" height="48" as="geometry" />
