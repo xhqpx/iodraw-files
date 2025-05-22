@@ -194,11 +194,13 @@
             <mxPoint x="486" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-54" value="显示注册成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-25" target="0HU06kgkGGuAJTMURiZS-24">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-54" value="显示注册成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="382" y="1161" />
+              <mxPoint x="382" y="770" />
             </Array>
+            <mxPoint x="485.5" y="770" as="sourcePoint" />
+            <mxPoint x="254.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-55" value="跳到登录页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-25" target="0HU06kgkGGuAJTMURiZS-24">
