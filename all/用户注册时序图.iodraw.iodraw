@@ -211,14 +211,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-138" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-138" value="敏感词过滤验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="925.5" y="1010" />
-              <mxPoint x="925.5" y="1090" />
+              <mxPoint x="1415.5" y="850" />
+              <mxPoint x="1415.5" y="930" />
             </Array>
-            <mxPoint x="790" y="1010" as="sourcePoint" />
-            <mxPoint x="790" y="1090" as="targetPoint" />
+            <mxPoint x="1280" y="850" as="sourcePoint" />
+            <mxPoint x="1280" y="930" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
