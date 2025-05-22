@@ -86,10 +86,10 @@
           <mxGeometry x="1100" y="377.5" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-896" value="RESTful API" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1584.5" y="593" width="141" height="48" as="geometry" />
+          <mxGeometry x="1570" y="580" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-897" value="WebSocket" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1578" y="644" width="139" height="48" as="geometry" />
+          <mxGeometry x="1572" y="656" width="139" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-898" value="文件上传" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1760" y="718" width="125" height="48" as="geometry" />
