@@ -59,7 +59,7 @@
           <mxGeometry x="1689" y="327" width="146" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-892" value="Spring Boot应用" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="850" y="228" width="174" height="48" as="geometry" />
+          <mxGeometry x="900" y="150" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-893" value="控制器层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1148" y="80" width="124" height="48" as="geometry" />
