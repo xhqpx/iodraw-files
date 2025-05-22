@@ -106,10 +106,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-773" value="到达词尾？" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="490" y="950" width="134.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-775" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-773">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-775" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-773">
           <mxGeometry x="-0.033" y="-21" relative="1" as="geometry">
             <mxPoint x="800" y="980" as="sourcePoint" />
-            <mxPoint x="730" y="1075" as="targetPoint" />
+            <mxPoint x="520" y="720" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
