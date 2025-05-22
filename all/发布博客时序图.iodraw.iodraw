@@ -265,7 +265,7 @@
             <mxPoint x="527" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-180" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-180" value="数据验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
           <mxGeometry x="0.0028" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="665.5" y="770" />
