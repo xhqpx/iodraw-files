@@ -255,13 +255,13 @@
             <mxPoint x="835" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-306" value="显示评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-306" value="返回评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-266">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="217" y="675" />
+              <mxPoint x="683" y="370" />
             </Array>
-            <mxPoint x="369" y="675" as="sourcePoint" />
-            <mxPoint x="134" y="675" as="targetPoint" />
+            <mxPoint x="835" y="370" as="sourcePoint" />
+            <mxPoint x="600" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
