@@ -123,18 +123,22 @@
             <mxPoint x="309.5" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-161" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-142" target="0HU06kgkGGuAJTMURiZS-143">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-161" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="635" y="723" />
+              <mxPoint x="639.68" y="630" />
             </Array>
+            <mxPoint x="530.0035294117646" y="630" as="sourcePoint" />
+            <mxPoint x="730.18" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-162" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-143" target="0HU06kgkGGuAJTMURiZS-142">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-162" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="638" y="777" />
+              <mxPoint x="638" y="660" />
             </Array>
+            <mxPoint x="725.5" y="660" as="sourcePoint" />
+            <mxPoint x="525.3235294117646" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-163" value="返回保存状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-142" target="0HU06kgkGGuAJTMURiZS-141">
