@@ -89,10 +89,11 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-42" value="实时表单验证" style="verticalAlign=bottom;rounded=0;endArrow=block;fontSize=23;curved=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1884" y="189" />
               <mxPoint x="2115" y="183" />
               <mxPoint x="1916" y="272" />
             </Array>
-            <mxPoint x="1769" y="198" as="sourcePoint" />
+            <mxPoint x="1756" y="183" as="sourcePoint" />
             <mxPoint x="1756" y="268" as="targetPoint" />
           </mxGeometry>
         </mxCell>
