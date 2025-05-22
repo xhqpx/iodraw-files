@@ -86,7 +86,7 @@
             <mxPoint x="485.5" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-42" value="实时表单验证" style="verticalAlign=bottom;edgeStyle=isometricEdgeStyle;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-42" value="实时表单验证" style="verticalAlign=bottom;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2398.32" y="171" as="sourcePoint" />
             <mxPoint x="1922" y="466" as="targetPoint" />
