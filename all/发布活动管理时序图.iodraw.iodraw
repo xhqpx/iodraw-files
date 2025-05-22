@@ -270,10 +270,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-262" value="显示报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="213.04" y="1130" />
+              <mxPoint x="203.04" y="1220" />
             </Array>
-            <mxPoint x="330.54" y="1130" as="sourcePoint" />
-            <mxPoint x="100.00153846153857" y="1130" as="targetPoint" />
+            <mxPoint x="320.54" y="1220" as="sourcePoint" />
+            <mxPoint x="90.00153846153857" y="1220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
