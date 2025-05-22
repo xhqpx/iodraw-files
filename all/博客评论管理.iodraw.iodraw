@@ -85,21 +85,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-341" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-327" target="0HU06kgkGGuAJTMURiZS-328">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-345" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-345" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="320" y="460" as="sourcePoint" />
             <mxPoint x="420" y="460" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-348" value="是" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
-          <mxGeometry x="-0.0256" y="114" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="255.5" y="404.5" />
-              <mxPoint x="255.5" y="484.5" />
-            </Array>
-            <mxPoint x="120" y="404.5" as="sourcePoint" />
-            <mxPoint x="120" y="484.5" as="targetPoint" />
-            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
