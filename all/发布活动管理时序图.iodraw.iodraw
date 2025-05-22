@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="20" width="150" height="1718" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-221" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="210" y="30" width="150" height="1718" as="geometry" />
+          <mxGeometry x="220" y="20" width="150" height="1718" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-222" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="420" y="20" width="150" height="1718" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1020" y="20" width="150" height="1718" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-226" value="报名验证系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="20" width="150" height="1718" as="geometry" />
+          <mxGeometry x="1350" y="20" width="150" height="1718" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-227" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="484" y="257" width="422" height="310" as="geometry" />
