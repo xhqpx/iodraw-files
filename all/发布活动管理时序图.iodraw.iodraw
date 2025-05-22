@@ -136,11 +136,13 @@
             <mxPoint x="534.5" y="589.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-244" value="检查报名资格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-222" target="0HU06kgkGGuAJTMURiZS-226">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-244" value="检查报名资格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="904" y="827" />
+              <mxPoint x="904" y="610" />
             </Array>
+            <mxPoint x="534.2500000000002" y="610" as="sourcePoint" />
+            <mxPoint x="1424.5" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-245" value="查询用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-226" target="0HU06kgkGGuAJTMURiZS-223">
