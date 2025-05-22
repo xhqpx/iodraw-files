@@ -26,10 +26,10 @@
           <mxGeometry x="400" y="678" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-602" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="56" y="1207" width="157" height="48" as="geometry" />
+          <mxGeometry x="190" y="990" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-603" value="添加敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="470" y="790" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-604" value="更新敏感词库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="255" y="1306" width="156" height="48" as="geometry" />
