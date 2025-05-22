@@ -73,7 +73,7 @@
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-459" value="回复" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-442">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="650" y="230" as="sourcePoint" />
+            <mxPoint x="750" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-460" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-440" target="0HU06kgkGGuAJTMURiZS-443">
