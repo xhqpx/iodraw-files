@@ -268,10 +268,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-312" value="保存评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="810" />
+              <mxPoint x="680" y="950" />
             </Array>
-            <mxPoint x="610" y="810" as="sourcePoint" />
-            <mxPoint x="856" y="810" as="targetPoint" />
+            <mxPoint x="600" y="950" as="sourcePoint" />
+            <mxPoint x="846" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
