@@ -41,7 +41,7 @@
           <mxGeometry x="443.5" y="500" width="156.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-450" value="提交回复" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="645" y="496" width="135" height="44" as="geometry" />
+          <mxGeometry x="621" y="563" width="135" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-451" value="更新评论列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="452" y="1004" width="156" height="48" as="geometry" />
@@ -97,8 +97,11 @@
             <mxPoint x="175.99941176470563" y="916" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-468" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-448" target="0HU06kgkGGuAJTMURiZS-450">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-468" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="873.0492957746483" y="410.00323943661977" as="sourcePoint" />
+            <mxPoint x="833" y="534.13" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-469" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-450" target="0HU06kgkGGuAJTMURiZS-451">
           <mxGeometry relative="1" as="geometry" />
