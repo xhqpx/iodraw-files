@@ -245,7 +245,7 @@
             <mxPoint x="254.5" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-98" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=22;endSize=6;shadow=1;sourcePerimeterSpacing=0;strokeWidth=3;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-98" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=22;endSize=6;shadow=1;sourcePerimeterSpacing=0;strokeWidth=0;" edge="1" parent="1">
           <mxGeometry x="0.2239" y="431" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1763" y="186" />
