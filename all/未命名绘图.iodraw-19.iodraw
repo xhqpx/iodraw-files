@@ -239,11 +239,13 @@
             <mxPoint x="486" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-59" value="显示验证码错误提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-25" target="0HU06kgkGGuAJTMURiZS-24">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-59" value="显示验证码错误提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="382" y="1535" />
+              <mxPoint x="382" y="1050" />
             </Array>
+            <mxPoint x="485.5" y="1050" as="sourcePoint" />
+            <mxPoint x="254.5" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
