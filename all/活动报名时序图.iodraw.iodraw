@@ -246,7 +246,7 @@
             <mxPoint x="595" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-304" value="访问文章页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-304" value="查询评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-266">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="320" />
