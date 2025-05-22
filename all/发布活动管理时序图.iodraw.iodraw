@@ -32,7 +32,7 @@
           <mxGeometry x="30" width="392" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-229" value="[缓存未命中]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-227">
-          <mxGeometry y="106" width="422" height="3" as="geometry" />
+          <mxGeometry y="90" width="422" height="3" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-230" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="284" y="1009" width="822" height="580" as="geometry" />
