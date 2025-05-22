@@ -164,10 +164,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-299" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1022" y="1030" />
+              <mxPoint x="1022" y="1056.17" />
             </Array>
-            <mxPoint x="1554.5" y="1030" as="sourcePoint" />
-            <mxPoint x="844.833333333333" y="1030" as="targetPoint" />
+            <mxPoint x="1554.5" y="1056.17" as="sourcePoint" />
+            <mxPoint x="844.833333333333" y="1056.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-300" value="返回评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-264">
@@ -281,6 +281,15 @@
             </Array>
             <mxPoint x="846" y="990" as="sourcePoint" />
             <mxPoint x="600" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-314" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="924.8299999999999" y="870" />
+            </Array>
+            <mxPoint x="609.6633333333334" y="870" as="sourcePoint" />
+            <mxPoint x="1560.3300000000002" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
