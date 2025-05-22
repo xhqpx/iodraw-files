@@ -20,7 +20,7 @@
           <mxGeometry x="488" y="280" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-354" value="确认删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="719" y="210" width="126" height="48" as="geometry" />
+          <mxGeometry x="724" y="210" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-355" value="结束" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="593.5" y="660" width="94" height="48" as="geometry" />
@@ -63,8 +63,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-368" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-351" target="0HU06kgkGGuAJTMURiZS-354">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-368" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-351" target="0HU06kgkGGuAJTMURiZS-354">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="706.6660655737707" y="179.9998360655737" as="sourcePoint" />
+            <mxPoint x="867.33" y="174.59" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-369" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.39;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-352" target="0HU06kgkGGuAJTMURiZS-355">
           <mxGeometry relative="1" as="geometry" />
