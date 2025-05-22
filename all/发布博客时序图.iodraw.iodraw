@@ -183,11 +183,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-168" value="保存活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-142" target="0HU06kgkGGuAJTMURiZS-143">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-168" value="保存活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry x="-0.0009" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="635" y="1148" />
+              <mxPoint x="635" y="890" />
             </Array>
+            <mxPoint x="525.3235294117646" y="890" as="sourcePoint" />
+            <mxPoint x="725.5" y="890" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
