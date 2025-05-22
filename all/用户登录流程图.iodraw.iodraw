@@ -17,7 +17,7 @@
           <mxGeometry x="280" y="210" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-353" value="进入修改界面" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="488" y="280" width="152" height="30" as="geometry" />
+          <mxGeometry x="490.5" y="280" width="152" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-354" value="确认删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="724" y="210" width="126" height="48" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="593.5" y="660" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-356" value="验证修改信息" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="493" y="400" width="147" height="60" as="geometry" />
+          <mxGeometry x="493.5" y="340" width="147" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-357" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="430" y="490" width="126" height="48" as="geometry" />
