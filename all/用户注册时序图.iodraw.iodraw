@@ -256,7 +256,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-139" value="内容格式验证" style="curved=1;endArrow=block;rounded=0;fontSize=21;" edge="1" parent="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665.5" y="970" />
+              <mxPoint x="666" y="970" />
               <mxPoint x="665.5" y="1050" />
             </Array>
             <mxPoint x="530" y="970" as="sourcePoint" />
