@@ -213,18 +213,22 @@
             <mxPoint x="53.5" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-132" value="返回验证不通过提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-102" target="0HU06kgkGGuAJTMURiZS-101">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-132" value="返回验证不通过提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="1495" />
+              <mxPoint x="430" y="1320" />
             </Array>
+            <mxPoint x="525.5" y="1320" as="sourcePoint" />
+            <mxPoint x="308.5" y="1320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-133" value="显示验证不通过提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-101" target="0HU06kgkGGuAJTMURiZS-100">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-133" value="显示验证不通过提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="214" y="1549" />
+              <mxPoint x="214" y="1360" />
             </Array>
+            <mxPoint x="309.5" y="1360" as="sourcePoint" />
+            <mxPoint x="53.5" y="1360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-136" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
