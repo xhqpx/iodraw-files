@@ -26,7 +26,7 @@
           <mxGeometry x="990" y="240" width="118" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-389" value="填写博客信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="84" y="625" width="158" height="48" as="geometry" />
+          <mxGeometry x="460" y="388" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-390" value="信息验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="60" y="727" width="113" height="113" as="geometry" />
