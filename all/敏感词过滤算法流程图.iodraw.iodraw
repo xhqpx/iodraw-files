@@ -23,7 +23,7 @@
           <mxGeometry x="1542" y="520" width="378" height="320" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-875" value="" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="850" y="148.5" width="430" height="287" as="geometry" />
+          <mxGeometry x="850" y="120" width="430" height="315.5" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-876" value="前端架构" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1500" y="115.5" width="578" height="320" as="geometry" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-891" value="Axios请求库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1535" y="362.5" width="146" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-978" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-892" target="0HU06kgkGGuAJTMURiZS-893">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-892" value="Spring Boot应用" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="874" y="255.5" width="174" height="48" as="geometry" />
