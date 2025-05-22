@@ -104,7 +104,7 @@
           <mxGeometry x="1353.5" y="650" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-902" value="敏感词过滤" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1346.5" y="750" width="142" height="48" as="geometry" />
+          <mxGeometry x="1345" y="740" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-903" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1101.5" y="580" width="155" height="48" as="geometry" />
