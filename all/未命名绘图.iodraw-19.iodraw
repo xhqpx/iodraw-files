@@ -26,7 +26,7 @@
           <mxGeometry x="1474" y="40" width="150" height="1610" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-31" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="240" y="630" width="716" height="472" as="geometry" />
+          <mxGeometry x="244" y="590" width="716" height="472" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-32" value="[用户名可用]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-31">
           <mxGeometry x="30" width="686" height="20" as="geometry" />
@@ -203,11 +203,13 @@
             <mxPoint x="254.5" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-55" value="跳到登录页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-25" target="0HU06kgkGGuAJTMURiZS-24">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-55" value="跳到登录页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="382" y="1215" />
+              <mxPoint x="382" y="810" />
             </Array>
+            <mxPoint x="485.5" y="810" as="sourcePoint" />
+            <mxPoint x="254.5" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-56" value="返回用户名已存在提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-26" target="0HU06kgkGGuAJTMURiZS-25">
