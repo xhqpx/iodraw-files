@@ -23,13 +23,13 @@
           <mxGeometry x="653" y="600" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-601" value="验证敏感词" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="400" y="688" width="150" height="50" as="geometry" />
+          <mxGeometry x="400" y="678" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-602" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="56" y="1207" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-603" value="添加敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="263" y="1207" width="140" height="48" as="geometry" />
+          <mxGeometry x="470" y="790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-604" value="更新敏感词库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="255" y="1306" width="156" height="48" as="geometry" />
@@ -91,7 +91,7 @@
             <mxPoint x="-30.000000000000085" y="1179" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-626" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-626" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-601" target="0HU06kgkGGuAJTMURiZS-603">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="543.3698630136987" y="789.9967123287669" as="sourcePoint" />
             <mxPoint x="350" y="1276.12" as="targetPoint" />
