@@ -14,7 +14,7 @@
           <mxGeometry x="704" y="200" width="163" height="63" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-551" value="选择活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="400" y="434" width="125" height="48" as="geometry" />
+          <mxGeometry x="418" y="370" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-552" value="查看已报名活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="753" y="1021" width="172" height="48" as="geometry" />
@@ -82,8 +82,11 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-572" value="查看" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-550" target="0HU06kgkGGuAJTMURiZS-552">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-573" value="取消" style="startArrow=none;endArrow=block;exitX=1;exitY=0.69;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-550" target="0HU06kgkGGuAJTMURiZS-553">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-573" value="取消" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-550" target="0HU06kgkGGuAJTMURiZS-553">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="939.0579710144925" y="230.00391304347815" as="sourcePoint" />
+            <mxPoint x="1222" y="876.83" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-574" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-551" target="0HU06kgkGGuAJTMURiZS-554">
           <mxGeometry relative="1" as="geometry" />
