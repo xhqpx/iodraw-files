@@ -17,10 +17,10 @@
           <mxGeometry x="516" y="240" width="114" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-386" value="选择要编辑的博客" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="658" y="240" width="190" height="48" as="geometry" />
+          <mxGeometry x="658" y="240" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-387" value="选择要删除的博客" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="927" y="625" width="190" height="48" as="geometry" />
+          <mxGeometry x="814" y="240" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-388" value="显示博客列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1245" y="759" width="156" height="48" as="geometry" />
