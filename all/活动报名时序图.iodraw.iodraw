@@ -155,10 +155,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-298" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="917" y="1060" />
+              <mxPoint x="917" y="1050" />
             </Array>
-            <mxPoint x="601.8333333333335" y="1060" as="sourcePoint" />
-            <mxPoint x="1552.5" y="1060" as="targetPoint" />
+            <mxPoint x="601.8333333333335" y="1050" as="sourcePoint" />
+            <mxPoint x="1552.5" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-299" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
@@ -263,19 +263,19 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-312" value="查询文章作者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="681.83" y="990" />
+              <mxPoint x="681.83" y="970" />
             </Array>
-            <mxPoint x="601.83" y="990" as="sourcePoint" />
-            <mxPoint x="847.83" y="990" as="targetPoint" />
+            <mxPoint x="601.83" y="970" as="sourcePoint" />
+            <mxPoint x="847.83" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-313" value="返回作者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="684.83" y="1030" />
+              <mxPoint x="684.83" y="1010" />
             </Array>
-            <mxPoint x="847.83" y="1030" as="sourcePoint" />
-            <mxPoint x="601.83" y="1030" as="targetPoint" />
+            <mxPoint x="847.83" y="1010" as="sourcePoint" />
+            <mxPoint x="601.83" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-314" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-267">
