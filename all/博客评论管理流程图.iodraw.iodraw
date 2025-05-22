@@ -29,7 +29,7 @@
           <mxGeometry x="616" y="352" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-488" value="信息验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="616" y="455" width="144" height="55" as="geometry" />
+          <mxGeometry x="616" y="455" width="134" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-489" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="44" y="846" width="157" height="48" as="geometry" />
@@ -109,8 +109,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-516" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-482" target="0HU06kgkGGuAJTMURiZS-487">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-517" value="" style="startArrow=none;endArrow=block;exitX=0.35;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-487" target="0HU06kgkGGuAJTMURiZS-488">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-517" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-488">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="672" y="400" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-518" value="验证失败" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.38;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-488" target="0HU06kgkGGuAJTMURiZS-489">
           <mxGeometry relative="1" as="geometry" />
