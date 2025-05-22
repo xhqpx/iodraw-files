@@ -20,7 +20,7 @@
           <mxGeometry x="710.25" y="308" width="150.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-553" value="选择要取消的活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="890" y="310" width="160" height="38" as="geometry" />
+          <mxGeometry x="930" y="308" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-554" value="查看活动详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="524" y="398" width="109" height="40" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1080" y="585" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-568" value="更新报名状态" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1144" y="1276" width="156" height="48" as="geometry" />
+          <mxGeometry x="1030" y="720" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-569" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-548" target="0HU06kgkGGuAJTMURiZS-549">
           <mxGeometry relative="1" as="geometry" />
