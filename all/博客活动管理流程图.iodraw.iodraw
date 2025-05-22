@@ -23,7 +23,7 @@
           <mxGeometry x="890" y="310" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-554" value="查看活动详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="571" y="400" width="115" height="48" as="geometry" />
+          <mxGeometry x="571" y="400" width="109" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-555" value="活动是否可报名" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="382" y="654" width="161" height="161" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="888" y="1374" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-563" value="显示报名列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="708" y="420" width="156" height="48" as="geometry" />
+          <mxGeometry x="708.75" y="400" width="152" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-564" value="查看报名详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="761" y="1276" width="157" height="48" as="geometry" />
