@@ -256,13 +256,13 @@
           <mxGeometry x="-0.0716" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1819" y="23" />
-              <mxPoint x="1920" y="28" />
+              <mxPoint x="1930" y="20" />
               <mxPoint x="1958" y="61" />
               <mxPoint x="1930" y="100" />
               <mxPoint x="1876" y="106" />
               <mxPoint x="1819" y="106" />
             </Array>
-            <mxPoint x="1840" y="28" as="sourcePoint" />
+            <mxPoint x="1766" y="28" as="sourcePoint" />
             <mxPoint x="1761" y="106" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
