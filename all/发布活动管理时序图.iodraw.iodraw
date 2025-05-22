@@ -174,8 +174,8 @@
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-248" value="创建报名记录" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540.0015384615385" y="830" as="sourcePoint" />
-            <mxPoint x="757.54" y="830" as="targetPoint" />
+            <mxPoint x="540.0015384615385" y="790" as="sourcePoint" />
+            <mxPoint x="757.54" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-250" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-222" target="0HU06kgkGGuAJTMURiZS-224">
