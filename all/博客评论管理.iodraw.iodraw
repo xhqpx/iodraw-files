@@ -7,6 +7,9 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-318" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="415" y="20" width="93" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-343" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-319" target="0HU06kgkGGuAJTMURiZS-320">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-319" value="输入用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="368" y="118" width="188" height="48" as="geometry" />
         </mxCell>
@@ -38,9 +41,6 @@
           <mxGeometry x="915" y="1178" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-329" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-318" target="0HU06kgkGGuAJTMURiZS-319">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-330" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-319" target="0HU06kgkGGuAJTMURiZS-320">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-331" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.44;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-320" target="0HU06kgkGGuAJTMURiZS-321">
