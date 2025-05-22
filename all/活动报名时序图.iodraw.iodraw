@@ -41,7 +41,7 @@
           <mxGeometry x="30" width="1007" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-275" value="[评论不合法]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-273">
-          <mxGeometry x="1.83" y="578" width="1037" height="3" as="geometry" />
+          <mxGeometry x="15" y="440" width="1037" height="3" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-276" value="访问文章页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-263" target="0HU06kgkGGuAJTMURiZS-264">
           <mxGeometry relative="1" as="geometry">
