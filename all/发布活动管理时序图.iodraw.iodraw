@@ -198,11 +198,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-254" value="创建提醒记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-225" target="0HU06kgkGGuAJTMURiZS-223">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-254" value="创建提醒记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="907" y="1414" />
+              <mxPoint x="907" y="1070" />
             </Array>
+            <mxPoint x="1194.5" y="1070" as="sourcePoint" />
+            <mxPoint x="750.9615384615386" y="1070" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-255" value="返回报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-222" target="0HU06kgkGGuAJTMURiZS-221">
