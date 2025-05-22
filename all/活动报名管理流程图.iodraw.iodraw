@@ -38,13 +38,13 @@
           <mxGeometry x="774" y="1404" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-606" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="559" y="994" width="120" height="120" as="geometry" />
+          <mxGeometry x="1241" y="850" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-607" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="461" y="1306" width="125" height="48" as="geometry" />
+          <mxGeometry x="1200" y="1150" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-608" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="651" y="1207" width="125" height="48" as="geometry" />
+          <mxGeometry x="1370" y="1121" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-609" value="更新敏感词库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="636" y="1306" width="156" height="48" as="geometry" />
@@ -67,7 +67,7 @@
             <mxPoint x="403" y="584.69" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-620" value="删除" style="startArrow=none;endArrow=block;exitX=0.01;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-620" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-596" target="0HU06kgkGGuAJTMURiZS-598">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810.0017171717174" y="489.999090909091" as="sourcePoint" />
             <mxPoint x="1243.33" y="642.5899999999998" as="targetPoint" />
