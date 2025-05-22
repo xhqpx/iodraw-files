@@ -184,10 +184,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-168" value="保存文章" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-142" target="0HU06kgkGGuAJTMURiZS-143">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0009" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="635" y="1148" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-169" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-143" target="0HU06kgkGGuAJTMURiZS-142">
@@ -274,16 +275,6 @@
             </Array>
             <mxPoint x="530" y="770" as="sourcePoint" />
             <mxPoint x="530" y="850" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-181" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
-          <mxGeometry x="-0.0009" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="648" y="1057" />
-            </Array>
-            <mxPoint x="736" y="1057" as="sourcePoint" />
-            <mxPoint x="535" y="1057" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
