@@ -68,11 +68,13 @@
             <mxPoint x="486" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-40" value="显示注册表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-25" target="0HU06kgkGGuAJTMURiZS-24">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-40" value="显示注册表单" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="382" y="311" />
+              <mxPoint x="382" y="250" />
             </Array>
+            <mxPoint x="485.5" y="250" as="sourcePoint" />
+            <mxPoint x="254.5" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-41" value="填写注册信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-24" target="0HU06kgkGGuAJTMURiZS-25">
