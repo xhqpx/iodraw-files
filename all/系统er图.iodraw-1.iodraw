@@ -26,10 +26,10 @@
           <mxGeometry x="387" y="840" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-754" value="命中替换&#xa;替换为****" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="492.5" y="1040" width="132" height="66" as="geometry" />
+          <mxGeometry x="384.75" y="1020" width="132" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-755" value="位置更新&#xa;向后移动检测点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="472.5" y="1140" width="172" height="66" as="geometry" />
+          <mxGeometry x="363" y="1120" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-756" value="继续" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-747" target="0HU06kgkGGuAJTMURiZS-748">
           <mxGeometry x="0.0476" y="-30" relative="1" as="geometry">
