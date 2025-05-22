@@ -26,7 +26,7 @@
           <mxGeometry x="1474" y="40" width="150" height="1610" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-31" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
-          <mxGeometry x="244" y="918" width="716" height="472" as="geometry" />
+          <mxGeometry x="240" y="630" width="716" height="472" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-32" value="[用户名可用]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-31">
           <mxGeometry x="30" width="686" height="20" as="geometry" />
@@ -158,11 +158,13 @@
             <mxPoint x="948.5" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-50" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-27" target="0HU06kgkGGuAJTMURiZS-26">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-50" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="845" y="898" />
+              <mxPoint x="845" y="620" />
             </Array>
+            <mxPoint x="948.5" y="620" as="sourcePoint" />
+            <mxPoint x="717.5" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-51" value="创建用户记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-26" target="0HU06kgkGGuAJTMURiZS-27">
