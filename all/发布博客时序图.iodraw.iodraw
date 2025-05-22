@@ -77,11 +77,13 @@
             <mxPoint x="308.5" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-155" value="显示文章模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-141" target="0HU06kgkGGuAJTMURiZS-140">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-155" value="显示文章模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="214" y="399" />
+              <mxPoint x="214" y="300" />
             </Array>
+            <mxPoint x="309.5" y="300" as="sourcePoint" />
+            <mxPoint x="93.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-156" value="上传文章配图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-140" target="0HU06kgkGGuAJTMURiZS-145">
