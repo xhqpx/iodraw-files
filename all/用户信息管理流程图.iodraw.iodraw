@@ -59,7 +59,7 @@
           <mxGeometry x="729" y="630" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-400" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="901.5" y="386" width="136" height="50" as="geometry" />
+          <mxGeometry x="893.5" y="470" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-401" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="909.5" y="560" width="104" height="36" as="geometry" />
@@ -163,7 +163,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-426" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-387" target="0HU06kgkGGuAJTMURiZS-400">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-427" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-400">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-427" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-400" target="0HU06kgkGGuAJTMURiZS-401">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="948.6565656565658" y="458.6837373737374" as="sourcePoint" />
             <mxPoint x="900" y="820" as="targetPoint" />
