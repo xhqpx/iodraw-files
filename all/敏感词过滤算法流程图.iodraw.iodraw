@@ -32,13 +32,13 @@
           <mxGeometry x="995" y="-240" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-879" value="博客文章管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-35.5" width="126" height="48" as="geometry" />
+          <mxGeometry x="1337" y="-192" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-880" value="评论管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="-35.5" width="125" height="48" as="geometry" />
+          <mxGeometry x="1750" y="-30" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-881" value="活动管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1313" y="-35.5" width="126" height="48" as="geometry" />
+          <mxGeometry x="1582" y="-48" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-882" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="840" y="-35.5" width="125" height="48" as="geometry" />
