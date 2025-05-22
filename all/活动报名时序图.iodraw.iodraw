@@ -233,7 +233,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-303" value="访问文章页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-265">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-303" value="获取评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="440" y="150" />
