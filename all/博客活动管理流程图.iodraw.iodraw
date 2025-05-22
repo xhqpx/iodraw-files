@@ -91,9 +91,6 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-576" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.32;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-555" target="0HU06kgkGGuAJTMURiZS-556">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-577" value="" style="startArrow=none;endArrow=block;exitX=0.53;exitY=0;entryX=0.25;entryY=1.02;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-556" target="0HU06kgkGGuAJTMURiZS-549">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-578" value="是" style="startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-555" target="0HU06kgkGGuAJTMURiZS-557">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
