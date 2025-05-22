@@ -75,20 +75,6 @@
             <mxPoint x="605.6633333333335" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-280" value="查询评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-266">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="619" y="439" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-281" value="返回评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-266" target="0HU06kgkGGuAJTMURiZS-265">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="622" y="493" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-282" value="更新缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
