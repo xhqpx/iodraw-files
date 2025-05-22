@@ -133,10 +133,13 @@
             <mxPoint x="885.63" y="577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-525" value="验证失败" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.37;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-494" target="0HU06kgkGGuAJTMURiZS-495">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-525" value="验证失败" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-494" target="0HU06kgkGGuAJTMURiZS-495">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="904.5" y="478" as="sourcePoint" />
+            <mxPoint x="405.9901960784314" y="839" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-527" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-527" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-494" target="0HU06kgkGGuAJTMURiZS-496">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="989.9971428571426" y="523.3571428571429" as="sourcePoint" />
             <mxPoint x="992.1399999999995" y="688" as="targetPoint" />
