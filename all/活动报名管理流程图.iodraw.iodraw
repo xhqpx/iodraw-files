@@ -14,7 +14,7 @@
           <mxGeometry x="653" y="537" width="145" height="145" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-597" value="输入敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="64" y="875" width="140" height="48" as="geometry" />
+          <mxGeometry x="330" y="720" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-598" value="选择要删除的敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="516" y="875" width="205" height="48" as="geometry" />
