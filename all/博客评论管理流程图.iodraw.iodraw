@@ -171,6 +171,9 @@
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-532" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-499" target="0HU06kgkGGuAJTMURiZS-492">
           <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1163" y="730" />
+            </Array>
             <mxPoint x="1236.5" y="568" as="sourcePoint" />
             <mxPoint x="1010" y="820.48" as="targetPoint" />
           </mxGeometry>
