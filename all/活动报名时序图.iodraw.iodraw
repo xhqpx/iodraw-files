@@ -26,7 +26,7 @@
           <mxGeometry x="1480" y="20" width="150" height="1826" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-270" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="499" y="257" width="422" height="310" as="geometry" />
+          <mxGeometry x="630" y="180" width="422" height="310" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-271" value="[缓存命中]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-270">
           <mxGeometry x="30" width="392" height="20" as="geometry" />
