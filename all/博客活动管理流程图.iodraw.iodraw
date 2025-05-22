@@ -84,7 +84,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-572" value="查看" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-550" target="0HU06kgkGGuAJTMURiZS-552">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.2444" y="-15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-573" value="取消" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-550" target="0HU06kgkGGuAJTMURiZS-553">
           <mxGeometry x="-0.1525" y="12" relative="1" as="geometry">
