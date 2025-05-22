@@ -56,7 +56,7 @@
           <mxGeometry x="755" y="560" width="104" height="36" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-399" value="更新博客列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="658" y="1014" width="156" height="48" as="geometry" />
+          <mxGeometry x="729" y="630" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-400" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="854" y="388" width="136" height="50" as="geometry" />
