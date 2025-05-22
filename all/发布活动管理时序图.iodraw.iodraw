@@ -154,11 +154,13 @@
             <mxPoint x="751.25" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-246" value="返回用户数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-223" target="0HU06kgkGGuAJTMURiZS-226">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-246" value="返回用户数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1004" y="935" />
+              <mxPoint x="1004" y="680" />
             </Array>
+            <mxPoint x="751.25" y="680" as="sourcePoint" />
+            <mxPoint x="1424.5" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-247" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-226" target="0HU06kgkGGuAJTMURiZS-222">
