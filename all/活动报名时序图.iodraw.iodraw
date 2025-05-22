@@ -246,6 +246,15 @@
             <mxPoint x="595" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-304" value="访问文章页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="224" y="149" />
+            </Array>
+            <mxPoint x="144" y="149" as="sourcePoint" />
+            <mxPoint x="379" y="149" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
