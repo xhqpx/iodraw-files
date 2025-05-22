@@ -8,10 +8,10 @@
           <mxGeometry x="520" y="30" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-350" value="进入用户信息管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="130" y="118" width="190" height="48" as="geometry" />
+          <mxGeometry x="471.5" y="118" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-351" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="152" y="217" width="145" height="145" as="geometry" />
+          <mxGeometry x="494" y="200" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-352" value="显示用户信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="20" y="850" width="157" height="48" as="geometry" />
