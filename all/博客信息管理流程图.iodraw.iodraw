@@ -38,10 +38,10 @@
           <mxGeometry x="597.75" y="400" width="153.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-449" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="443.5" y="500" width="157" height="48" as="geometry" />
+          <mxGeometry x="443.5" y="500" width="156.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-450" value="提交回复" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="468" y="906" width="125" height="48" as="geometry" />
+          <mxGeometry x="645" y="496" width="135" height="44" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-451" value="更新评论列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="452" y="1004" width="156" height="48" as="geometry" />
