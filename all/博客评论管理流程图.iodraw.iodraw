@@ -32,13 +32,13 @@
           <mxGeometry x="590" y="440" width="134" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-489" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="490" y="592" width="140" height="38" as="geometry" />
+          <mxGeometry x="520" y="592" width="140" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-490" value="发布活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="660" y="592" width="110" height="38" as="geometry" />
+          <mxGeometry x="670" y="592" width="110" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-491" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="235" y="944" width="156" height="48" as="geometry" />
+          <mxGeometry x="647" y="657" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-492" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="936" y="730" width="94" height="48" as="geometry" />
