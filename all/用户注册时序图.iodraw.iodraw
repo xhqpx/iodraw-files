@@ -211,7 +211,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-135" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-135" value="" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="925.5" y="1010" />
