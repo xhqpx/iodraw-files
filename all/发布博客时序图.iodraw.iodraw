@@ -114,7 +114,7 @@
             <mxPoint x="93.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-159" value="编辑文章内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-159" value="活动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="211" y="550" />
@@ -236,7 +236,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-177" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
-          <mxGeometry x="-0.0023" relative="1" as="geometry">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="445.5" y="430" />
               <mxPoint x="445.5" y="510" />
