@@ -29,7 +29,7 @@
           <mxGeometry x="458" y="388" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-390" value="信息验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="540" width="113" height="113" as="geometry" />
+          <mxGeometry x="470" y="540" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-391" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="916" width="157" height="48" as="geometry" />
@@ -109,7 +109,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-412" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-385" target="0HU06kgkGGuAJTMURiZS-389">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-413" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-389">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-413" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-389" target="0HU06kgkGGuAJTMURiZS-390">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390.00470588235294" y="456" as="sourcePoint" />
             <mxPoint x="402.74" y="560" as="targetPoint" />
