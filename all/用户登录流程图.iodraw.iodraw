@@ -23,7 +23,7 @@
           <mxGeometry x="724" y="210" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-355" value="结束" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="593.5" y="660" width="94" height="48" as="geometry" />
+          <mxGeometry x="593.5" y="600" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-356" value="验证修改信息" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="493.5" y="340" width="147" height="60" as="geometry" />
@@ -56,9 +56,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-366" value="查看" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-351" target="0HU06kgkGGuAJTMURiZS-352">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1858" y="24" relative="1" as="geometry">
             <mxPoint x="413.7526881720428" y="171.8709677419355" as="sourcePoint" />
             <mxPoint x="245.00000000000023" y="158" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-367" value="修改" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-351" target="0HU06kgkGGuAJTMURiZS-353">
