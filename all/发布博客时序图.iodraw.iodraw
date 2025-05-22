@@ -187,11 +187,13 @@
             <mxPoint x="525.3235294117646" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-170" value="发送通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-142" target="0HU06kgkGGuAJTMURiZS-146">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-170" value="发送通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-145">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="935" y="1256" />
+              <mxPoint x="935" y="950" />
             </Array>
+            <mxPoint x="524.5" y="950" as="sourcePoint" />
+            <mxPoint x="1325.5" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-171" value="缓存通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-146" target="0HU06kgkGGuAJTMURiZS-144">
