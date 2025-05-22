@@ -20,7 +20,7 @@
           <mxGeometry x="1015" y="690" width="205" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-599" value="显示敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="570" y="900" width="172" height="48" as="geometry" />
+          <mxGeometry x="653" y="600" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-601" value="验证敏感词" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="990" width="129" height="129" as="geometry" />
