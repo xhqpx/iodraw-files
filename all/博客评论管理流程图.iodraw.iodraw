@@ -23,7 +23,7 @@
           <mxGeometry x="1146" y="281" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-485" value="显示活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="640" width="156" height="48" as="geometry" />
+          <mxGeometry x="1360" y="740" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-487" value="填写活动信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="578" y="352" width="158" height="48" as="geometry" />
@@ -100,7 +100,7 @@
             <mxPoint x="1041" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-514" value="查看" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-514" value="查看" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-485">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1310" y="430" as="sourcePoint" />
             <mxPoint x="1577.44" y="657" as="targetPoint" />
