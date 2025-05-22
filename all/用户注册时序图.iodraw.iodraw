@@ -195,18 +195,22 @@
             <mxPoint x="524.5" y="1169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-130" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-102" target="0HU06kgkGGuAJTMURiZS-101">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-130" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="1340" />
+              <mxPoint x="426.5" y="1200" />
             </Array>
+            <mxPoint x="522" y="1200" as="sourcePoint" />
+            <mxPoint x="305" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-131" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-101" target="0HU06kgkGGuAJTMURiZS-100">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-131" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="214" y="1394" />
+              <mxPoint x="214" y="1230" />
             </Array>
+            <mxPoint x="309.5" y="1230" as="sourcePoint" />
+            <mxPoint x="53.5" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-132" value="返回验证不通过提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-102" target="0HU06kgkGGuAJTMURiZS-101">
