@@ -44,7 +44,7 @@
           <mxGeometry x="880" y="1112" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-395" value="修改博客内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="466" y="625" width="157" height="48" as="geometry" />
+          <mxGeometry x="677.5" y="390" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-396" value="内容验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="438" y="727" width="112" height="112" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="658" y="1014" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-400" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="962" y="724" width="120" height="120" as="geometry" />
+          <mxGeometry x="854" y="400" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-401" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="864" y="1014" width="125" height="48" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-407" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-383" target="0HU06kgkGGuAJTMURiZS-384">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-408" value="发布" style="startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-408" value="发布" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="696.2931034482758" y="149.99793103448292" as="sourcePoint" />
             <mxPoint x="499.9999999999998" y="185.86000000000013" as="targetPoint" />
