@@ -50,13 +50,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-277" value="获取评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-265">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="411" y="183" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-278" value="查询评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -84,13 +77,6 @@
             <mxPoint x="1086.33" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-283" value="返回评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-264">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="414" y="611" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-284" value="显示评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -116,13 +102,6 @@
             </Array>
             <mxPoint x="123.83333333333326" y="640" as="sourcePoint" />
             <mxPoint x="358.5" y="640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-289" value="发送评论请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-265">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="411" y="935" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-290" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
