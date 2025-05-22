@@ -100,13 +100,13 @@
             <mxPoint x="966.41" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-240" value="返回活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-221">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-240" value="返回活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="463.32" y="550" />
+              <mxPoint x="463.32" y="490" />
             </Array>
-            <mxPoint x="540" y="550" as="sourcePoint" />
-            <mxPoint x="380" y="550" as="targetPoint" />
+            <mxPoint x="530" y="490" as="sourcePoint" />
+            <mxPoint x="324.63043478260875" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-241" value="显示活动详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-221" target="0HU06kgkGGuAJTMURiZS-220">
