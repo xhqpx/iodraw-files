@@ -133,13 +133,14 @@
             <mxPoint x="623" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-421" value="验证失败" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.37;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-396" target="0HU06kgkGGuAJTMURiZS-397">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-421" value="验证失败" style="startArrow=none;endArrow=block;entryX=0.37;entryY=-0.01;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="490" as="sourcePoint" />
+            <mxPoint x="390.0001960784314" y="866" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-423" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.7;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-396" target="0HU06kgkGGuAJTMURiZS-398">
-          <mxGeometry x="-0.135" y="63" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-424" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-398" target="0HU06kgkGGuAJTMURiZS-399">
           <mxGeometry relative="1" as="geometry" />
