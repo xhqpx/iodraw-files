@@ -20,7 +20,7 @@
           <mxGeometry x="130" y="264.5" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-322" value="验证用户名是否存在" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="605" y="192" width="165" height="88" as="geometry" />
+          <mxGeometry x="605" y="192" width="176.5" height="88" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-323" value="提示用户名不存在" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="850" y="264.5" width="188" height="48" as="geometry" />
