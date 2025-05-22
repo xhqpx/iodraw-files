@@ -274,13 +274,13 @@
             <mxPoint x="846" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-313" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-313" value="返回作者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="693" y="850" />
+              <mxPoint x="683" y="990" />
             </Array>
-            <mxPoint x="856" y="850" as="sourcePoint" />
-            <mxPoint x="610" y="850" as="targetPoint" />
+            <mxPoint x="846" y="990" as="sourcePoint" />
+            <mxPoint x="600" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
