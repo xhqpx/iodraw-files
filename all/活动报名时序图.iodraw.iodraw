@@ -146,10 +146,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-294" value="更新文章评论数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="720.83" y="900" />
+              <mxPoint x="720.83" y="910" />
             </Array>
-            <mxPoint x="605.6633333333335" y="900" as="sourcePoint" />
-            <mxPoint x="1086.33" y="900" as="targetPoint" />
+            <mxPoint x="605.6633333333335" y="910" as="sourcePoint" />
+            <mxPoint x="1086.33" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-298" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
