@@ -200,25 +200,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-134" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
-          <mxGeometry x="-0.0023" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="925.5" y="1010" />
-              <mxPoint x="925.5" y="1090" />
-            </Array>
-            <mxPoint x="790" y="1010" as="sourcePoint" />
-            <mxPoint x="790" y="1090" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-135" value="" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="925.5" y="1010" />
-              <mxPoint x="925.5" y="1090" />
+              <mxPoint x="1385.5" y="880" />
+              <mxPoint x="1385.5" y="960" />
             </Array>
-            <mxPoint x="790" y="1010" as="sourcePoint" />
-            <mxPoint x="790" y="1090" as="targetPoint" />
+            <mxPoint x="1250" y="880" as="sourcePoint" />
+            <mxPoint x="1250" y="960" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-137" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0HU06kgkGGuAJTMURiZS-135">
+          <mxGeometry x="-0.396" y="-15" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
