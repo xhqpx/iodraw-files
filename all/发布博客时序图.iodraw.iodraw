@@ -187,7 +187,7 @@
             <mxPoint x="525.3235294117646" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-170" value="发送通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-145">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-170" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-145">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="935" y="950" />
