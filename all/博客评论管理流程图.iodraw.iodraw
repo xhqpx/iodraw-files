@@ -10,8 +10,8 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-480" value="进入活动管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="902" y="100" width="158" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-481" value="用户1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="680" y="180" width="162" height="63" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-481" value="用户操作选择" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="899.5" y="170" width="162" height="63" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-482" value="进入发布界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="44" y="434" width="157" height="48" as="geometry" />
@@ -91,9 +91,9 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-513" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-481" target="0HU06kgkGGuAJTMURiZS-484">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-514" value="查看" style="startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-514" value="查看" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1099.9988235294118" y="236.83823529411757" as="sourcePoint" />
+            <mxPoint x="1310" y="430" as="sourcePoint" />
             <mxPoint x="1577.44" y="657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
