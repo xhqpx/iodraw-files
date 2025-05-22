@@ -265,6 +265,17 @@
             <mxPoint x="527" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-180" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="665.5" y="770" />
+              <mxPoint x="665.5" y="850" />
+            </Array>
+            <mxPoint x="530" y="770" as="sourcePoint" />
+            <mxPoint x="530" y="850" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
