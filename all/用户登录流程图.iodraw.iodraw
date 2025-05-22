@@ -14,7 +14,7 @@
           <mxGeometry x="493.5" y="180" width="146" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-352" value="显示用户信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="20" y="850" width="157" height="48" as="geometry" />
+          <mxGeometry x="260" y="600" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-353" value="进入修改界面" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="488" y="280" width="157" height="48" as="geometry" />
