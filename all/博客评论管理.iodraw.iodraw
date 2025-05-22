@@ -23,7 +23,7 @@
           <mxGeometry x="605" y="192" width="193" height="193" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-323" value="提示用户名不存在" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="383" y="796" width="188" height="48" as="geometry" />
+          <mxGeometry x="850" y="264.5" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-324" value="验证密码是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="621" y="732" width="177" height="177" as="geometry" />
