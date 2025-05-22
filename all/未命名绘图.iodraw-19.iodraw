@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="0J7OqR5ryFeeWGFa51bW">
-    <mxGraphModel dx="1542" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1542" dy="1302" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,6 +255,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-98" value="实时表单验证" style="curved=1;endArrow=block;rounded=0;fontSize=22;" edge="1" parent="1">
           <mxGeometry x="-0.2239" y="168" relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="1904" y="77" />
               <mxPoint x="1822" y="72" />
               <mxPoint x="1822" y="102" />
             </Array>
