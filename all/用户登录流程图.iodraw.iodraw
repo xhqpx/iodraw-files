@@ -29,10 +29,10 @@
           <mxGeometry x="493" y="400" width="147" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-357" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="414" y="490" width="157" height="48" as="geometry" />
+          <mxGeometry x="430" y="490" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-358" value="保存修改" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="593" y="490" width="126" height="48" as="geometry" />
+          <mxGeometry x="579" y="490" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-359" value="更新用户信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="338" y="850" width="157" height="48" as="geometry" />
