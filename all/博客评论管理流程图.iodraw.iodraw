@@ -62,7 +62,7 @@
           <mxGeometry x="1161" y="350" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-499" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="430" width="125" height="48" as="geometry" />
+          <mxGeometry x="1100" y="430" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-500" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1262" y="430" width="125" height="48" as="geometry" />
@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-514" value="查看" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-485">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1310" y="430" as="sourcePoint" />
+            <mxPoint x="1580" y="690" as="sourcePoint" />
             <mxPoint x="1577.44" y="657" as="targetPoint" />
           </mxGeometry>
         </mxCell>
