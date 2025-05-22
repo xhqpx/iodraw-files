@@ -245,7 +245,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-138" value="敏感词过滤验证" style="curved=1;endArrow=block;rounded=0;fontSize=21;" edge="1" parent="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665.5" y="870" />
+              <mxPoint x="640" y="870" />
               <mxPoint x="665.5" y="950" />
             </Array>
             <mxPoint x="530" y="870" as="sourcePoint" />
@@ -257,7 +257,7 @@
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="970" />
-              <mxPoint x="665.5" y="1050" />
+              <mxPoint x="640" y="1050" />
             </Array>
             <mxPoint x="530" y="970" as="sourcePoint" />
             <mxPoint x="530" y="1050" as="targetPoint" />
