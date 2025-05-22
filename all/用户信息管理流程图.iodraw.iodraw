@@ -41,7 +41,7 @@
           <mxGeometry x="523.63" y="730" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-394" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1112" width="94" height="48" as="geometry" />
+          <mxGeometry x="875" y="778" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-395" value="修改博客内容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="665" y="388" width="157" height="48" as="geometry" />
@@ -190,7 +190,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-433" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-404" target="0HU06kgkGGuAJTMURiZS-405">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-434" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.39;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-405" target="0HU06kgkGGuAJTMURiZS-394">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-434" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.39;rounded=0;edgeStyle=elbowEdgeStyle;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-405" target="0HU06kgkGGuAJTMURiZS-394">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
