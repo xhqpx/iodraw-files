@@ -32,7 +32,7 @@
           <mxGeometry x="485" y="561" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-358" value="保存修改" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="353" y="751" width="126" height="48" as="geometry" />
+          <mxGeometry x="290" y="640" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-359" value="更新用户信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="338" y="850" width="157" height="48" as="geometry" />
