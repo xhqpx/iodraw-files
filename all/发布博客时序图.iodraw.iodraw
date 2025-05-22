@@ -86,18 +86,22 @@
             <mxPoint x="93.5" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-156" value="上传文章配图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-140" target="0HU06kgkGGuAJTMURiZS-145">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-156" value="上传文章配图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="619" y="453" />
+              <mxPoint x="619" y="330" />
             </Array>
+            <mxPoint x="93.5" y="330" as="sourcePoint" />
+            <mxPoint x="1125.5" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-157" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-145" target="0HU06kgkGGuAJTMURiZS-141">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-157" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="507" />
+              <mxPoint x="730" y="370" />
             </Array>
+            <mxPoint x="1125.5" y="370" as="sourcePoint" />
+            <mxPoint x="308.5" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-158" value="显示预览图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-141" target="0HU06kgkGGuAJTMURiZS-140">
