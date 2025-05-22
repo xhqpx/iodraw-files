@@ -26,7 +26,7 @@
           <mxGeometry x="1350" y="20" width="150" height="1718" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-227" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="484" y="257" width="422" height="310" as="geometry" />
+          <mxGeometry x="540" y="210" width="422" height="310" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-228" value="[缓存命中]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-227">
           <mxGeometry x="30" width="392" height="20" as="geometry" />
@@ -68,11 +68,13 @@
             <mxPoint x="967.41" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-236" value="返回缓存数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-224" target="0HU06kgkGGuAJTMURiZS-222">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-236" value="返回缓存数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="707" y="338" />
+              <mxPoint x="713.32" y="280" />
             </Array>
+            <mxPoint x="970.82" y="280" as="sourcePoint" />
+            <mxPoint x="540.0018181818185" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-237" value="查询活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-222" target="0HU06kgkGGuAJTMURiZS-223">
