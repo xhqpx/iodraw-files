@@ -212,11 +212,13 @@
             <mxPoint x="254.5" y="810" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-56" value="返回用户名已存在提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-26" target="0HU06kgkGGuAJTMURiZS-25">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-56" value="返回用户名已存在提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="614" y="1316" />
+              <mxPoint x="614.5" y="865.5" />
             </Array>
+            <mxPoint x="718" y="865.5" as="sourcePoint" />
+            <mxPoint x="486" y="865.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-57" value="显示用户名已存在提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-25" target="0HU06kgkGGuAJTMURiZS-24">
