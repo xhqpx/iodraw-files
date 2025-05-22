@@ -32,10 +32,10 @@
           <mxGeometry x="473.25" y="480" width="127.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-391" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="360" y="630" width="157" height="48" as="geometry" />
+          <mxGeometry x="420" y="630" width="97" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-392" value="发布博客" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="539" y="630" width="126" height="48" as="geometry" />
+          <mxGeometry x="539" y="630" width="101" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-393" value="更新博客列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="276" y="1014" width="156" height="48" as="geometry" />
