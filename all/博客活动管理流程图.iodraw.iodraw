@@ -29,7 +29,7 @@
           <mxGeometry x="545" y="470" width="165" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-556" value="提示活动已结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="578" y="887" width="220" height="48" as="geometry" />
+          <mxGeometry x="630" y="600" width="122" height="43" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-557" value="填写报名信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="420" y="600" width="120" height="40" as="geometry" />
@@ -98,7 +98,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-576" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.32;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-555" target="0HU06kgkGGuAJTMURiZS-556">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-0.789" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-578" value="是" style="startArrow=none;endArrow=block;exitX=0.41;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-555" target="0HU06kgkGGuAJTMURiZS-557">
           <mxGeometry relative="1" as="geometry" />
