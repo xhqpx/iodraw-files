@@ -10,7 +10,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-728" value="id" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="220" y="581" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-729" value="描述" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fontFamily=SIMSUN;" vertex="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-729" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="151" y="760" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-730" value="敏感词类型" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fontFamily=SIMSUN;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-736" value="敏感词" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="345" y="628" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-737" value="描述" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fontFamily=SIMSUN;" vertex="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-737" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;fontSize=17;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="87" y="637" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
