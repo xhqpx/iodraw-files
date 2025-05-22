@@ -334,6 +334,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-968" value="评论管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="-210" width="125" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
