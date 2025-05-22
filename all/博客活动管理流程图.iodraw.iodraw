@@ -62,7 +62,7 @@
           <mxGeometry x="890" y="481" width="110" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-567" value="执行取消" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="472" width="100" height="48" as="geometry" />
+          <mxGeometry x="1030" y="482" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-568" value="更新报名状态" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1030" y="720" width="156" height="48" as="geometry" />
