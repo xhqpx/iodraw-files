@@ -11,10 +11,10 @@
           <mxGeometry x="751.5" y="90" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-384" value="选择操作类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="758" y="180" width="142" height="60" as="geometry" />
+          <mxGeometry x="759.5" y="170" width="142" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-385" value="进入发布界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="84" y="504" width="157" height="48" as="geometry" />
+          <mxGeometry x="516" y="240" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-386" value="选择要编辑的博客" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="504" width="190" height="48" as="geometry" />
