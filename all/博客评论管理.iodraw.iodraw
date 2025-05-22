@@ -26,7 +26,7 @@
           <mxGeometry x="880" y="221" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-324" value="验证密码是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="624" y="334" width="187" height="87" as="geometry" />
+          <mxGeometry x="624" y="334" width="215" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-325" value="提示密码错误" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="836" y="398.5" width="157" height="48" as="geometry" />
