@@ -238,12 +238,21 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-177" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
           <mxGeometry x="0.0028" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665.5" y="490" />
-              <mxPoint x="665.5" y="570" />
+              <mxPoint x="445.5" y="470" />
+              <mxPoint x="445.5" y="550" />
             </Array>
-            <mxPoint x="530" y="490" as="sourcePoint" />
-            <mxPoint x="530" y="570" as="targetPoint" />
+            <mxPoint x="310" y="470" as="sourcePoint" />
+            <mxPoint x="310" y="550" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-179" value="获取活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="437" y="170" />
+            </Array>
+            <mxPoint x="318.5" y="170" as="sourcePoint" />
+            <mxPoint x="535.5" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
