@@ -101,7 +101,7 @@
           <mxGeometry x="1354.5" y="580" width="123" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-901" value="权限控制" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1355" y="656" width="125" height="48" as="geometry" />
+          <mxGeometry x="1355" y="670" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-902" value="敏感词过滤" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1346.5" y="750" width="142" height="48" as="geometry" />
@@ -116,7 +116,7 @@
           <mxGeometry x="1116" y="767" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-906" value="日志记录" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="885" y="545" width="125" height="48" as="geometry" />
+          <mxGeometry x="885" y="580" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-907" value="性能监控" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="885" y="644" width="125" height="48" as="geometry" />
