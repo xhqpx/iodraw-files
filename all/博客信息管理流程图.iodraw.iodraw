@@ -64,7 +64,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-457" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-439" target="0HU06kgkGGuAJTMURiZS-440">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-458" value="查看" style="startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-458" value="查看" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-440" target="0HU06kgkGGuAJTMURiZS-441">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="525.3150684931509" y="200.00205479452057" as="sourcePoint" />
             <mxPoint x="289.9999999999998" y="262.55" as="targetPoint" />
