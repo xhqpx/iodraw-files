@@ -41,7 +41,7 @@
           <mxGeometry x="1289" y="-220" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-882" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1712" y="-202" width="125" height="48" as="geometry" />
+          <mxGeometry x="848.5" y="-35.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-883" value="用户注册登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1904" y="233" width="157" height="48" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry x="1465" y="233" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-886" value="活动报名" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="233" width="125" height="48" as="geometry" />
+          <mxGeometry x="1290" y="-35.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-887" value="数据统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1040" y="220" width="125" height="48" as="geometry" />
@@ -333,9 +333,6 @@
               <mxPoint x="1171" y="480" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-968" value="评论管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="-210" width="125" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
