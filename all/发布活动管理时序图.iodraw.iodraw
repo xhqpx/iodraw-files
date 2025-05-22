@@ -214,10 +214,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-256" value="返回报名失败原因" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-222" target="0HU06kgkGGuAJTMURiZS-221">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.3873" y="-279" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="407" y="1569" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-257" value="显示报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
@@ -263,7 +264,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-232" value="[检查不通过]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1140" width="822" height="3" as="geometry" />
+          <mxGeometry x="540" y="1140" width="822" height="3" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
