@@ -26,7 +26,7 @@
           <mxGeometry x="886" y="108.5" width="430" height="287" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-876" value="前端架构" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="80" width="578" height="320" as="geometry" />
+          <mxGeometry x="1480" y="115.5" width="578" height="320" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-878" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-35.5" width="125" height="48" as="geometry" />
@@ -47,16 +47,16 @@
           <mxGeometry x="1750" y="-35.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-888" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1718" y="105" width="124" height="48" as="geometry" />
+          <mxGeometry x="1544" y="140.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-889" value="Vuejs框架" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1714" y="228" width="132" height="48" as="geometry" />
+          <mxGeometry x="1540" y="263.5" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-890" value="ElementUI组件库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="2015" y="327" width="182" height="48" as="geometry" />
+          <mxGeometry x="1841" y="362.5" width="182" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-891" value="Axios请求库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1689" y="327" width="146" height="48" as="geometry" />
+          <mxGeometry x="1515" y="362.5" width="146" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-892" value="Spring Boot应用" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="926" y="220.5" width="174" height="48" as="geometry" />
@@ -120,14 +120,14 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-936" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-889" target="0HU06kgkGGuAJTMURiZS-890">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2106" y="302" />
+              <mxPoint x="1932" y="337.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-937" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-889" target="0HU06kgkGGuAJTMURiZS-891">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1762" y="302" />
+              <mxPoint x="1588" y="337.5" />
             </Array>
           </mxGeometry>
         </mxCell>
