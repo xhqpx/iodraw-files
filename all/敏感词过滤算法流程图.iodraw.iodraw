@@ -32,7 +32,7 @@
           <mxGeometry x="995" y="-240" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-879" value="博客文章管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1289" y="-35.5" width="126" height="48" as="geometry" />
+          <mxGeometry x="1000" y="-35.5" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-880" value="评论管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1440" y="-35.5" width="125" height="48" as="geometry" />
