@@ -203,11 +203,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-172" value="缓存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-144" target="0HU06kgkGGuAJTMURiZS-146">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-172" value="发布活动通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1135" y="1364" />
+              <mxPoint x="1130.5" y="1000" />
             </Array>
+            <mxPoint x="520" y="1000" as="sourcePoint" />
+            <mxPoint x="1321" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-173" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-142" target="0HU06kgkGGuAJTMURiZS-141">
