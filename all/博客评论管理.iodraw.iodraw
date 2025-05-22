@@ -14,7 +14,7 @@
           <mxGeometry x="368" y="118" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-320" value="验证输入是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="373.5" y="200" width="177" height="177" as="geometry" />
+          <mxGeometry x="373.5" y="200" width="176.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-321" value="提示输入不能为空" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="130" y="264.5" width="188" height="48" as="geometry" />
