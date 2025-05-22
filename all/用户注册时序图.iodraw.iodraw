@@ -171,11 +171,13 @@
             <mxPoint x="309.5" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-126" value="提交文章数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-101" target="0HU06kgkGGuAJTMURiZS-102">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-126" value="提交文章数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="427" y="1047" />
+              <mxPoint x="427" y="860" />
             </Array>
+            <mxPoint x="308.5" y="860" as="sourcePoint" />
+            <mxPoint x="525.5" y="860" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-128" value="标记文章已发布" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-102" target="0HU06kgkGGuAJTMURiZS-103">
@@ -234,11 +236,11 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-138" value="敏感词过滤验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
           <mxGeometry x="-0.0023" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665.5" y="1071" />
-              <mxPoint x="665.5" y="1151" />
+              <mxPoint x="665.5" y="870" />
+              <mxPoint x="665.5" y="950" />
             </Array>
-            <mxPoint x="530" y="1071" as="sourcePoint" />
-            <mxPoint x="530" y="1151" as="targetPoint" />
+            <mxPoint x="530" y="870" as="sourcePoint" />
+            <mxPoint x="530" y="950" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
