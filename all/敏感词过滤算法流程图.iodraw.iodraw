@@ -119,13 +119,13 @@
           <mxGeometry x="885" y="580" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-907" value="性能监控" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="885" y="644" width="125" height="48" as="geometry" />
+          <mxGeometry x="885" y="660" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-908" value="错误追踪" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="885" y="767" width="126" height="48" as="geometry" />
+          <mxGeometry x="885" y="740" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-909" value="数据备份" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="885" y="890" width="126" height="48" as="geometry" />
+          <mxGeometry x="884" y="820" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-935" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-888" target="0HU06kgkGGuAJTMURiZS-889">
           <mxGeometry relative="1" as="geometry">
