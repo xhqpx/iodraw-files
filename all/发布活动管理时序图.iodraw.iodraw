@@ -35,7 +35,7 @@
           <mxGeometry y="90" width="422" height="3" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-230" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="284" y="1009" width="822" height="580" as="geometry" />
+          <mxGeometry x="550" y="720" width="822" height="580" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-231" value="[检查通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-230">
           <mxGeometry x="30" width="792" height="20" as="geometry" />
@@ -176,13 +176,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="604" y="1090" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-249" value="更新活动参与人数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-222" target="0HU06kgkGGuAJTMURiZS-223">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="604" y="1144" />
             </Array>
           </mxGeometry>
         </mxCell>
