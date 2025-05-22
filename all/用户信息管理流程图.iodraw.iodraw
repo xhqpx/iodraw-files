@@ -83,15 +83,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-408" value="发布" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384" target="0HU06kgkGGuAJTMURiZS-385">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0195" y="-10" relative="1" as="geometry">
             <mxPoint x="677.5" y="130.0000000000001" as="sourcePoint" />
             <mxPoint x="512" y="240" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-409" value="编辑" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384" target="0HU06kgkGGuAJTMURiZS-386">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0273" y="-12" relative="1" as="geometry">
             <mxPoint x="743.050724637681" y="230.00086956521739" as="sourcePoint" />
             <mxPoint x="720" y="331.74" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-410" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384" target="0HU06kgkGGuAJTMURiZS-387">
