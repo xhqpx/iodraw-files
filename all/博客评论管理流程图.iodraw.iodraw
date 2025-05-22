@@ -59,7 +59,7 @@
           <mxGeometry x="617" y="944" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-498" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="370" width="120" height="120" as="geometry" />
+          <mxGeometry x="1135" y="350" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-499" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="823" y="944" width="125" height="48" as="geometry" />
@@ -151,8 +151,11 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-532" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-499" target="0HU06kgkGGuAJTMURiZS-492">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-533" value="是" style="startArrow=none;endArrow=block;exitX=0.99;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-498" target="0HU06kgkGGuAJTMURiZS-500">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-533" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-498">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1288.5" y="398" as="sourcePoint" />
+            <mxPoint x="1110" y="856.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-534" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-500" target="0HU06kgkGGuAJTMURiZS-501">
           <mxGeometry relative="1" as="geometry" />
