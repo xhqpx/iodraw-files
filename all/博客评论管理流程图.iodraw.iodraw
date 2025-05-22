@@ -50,7 +50,7 @@
           <mxGeometry x="916" y="430" width="134" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-495" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="790" y="580" width="157" height="48" as="geometry" />
+          <mxGeometry x="800" y="510" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-496" value="保存修改" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="994" y="510" width="126" height="48" as="geometry" />
@@ -133,7 +133,7 @@
             <mxPoint x="885.63" y="577" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-525" value="验证失败" style="startArrow=none;endArrow=block;entryX=0.572;entryY=0.057;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;edgeStyle=elbowEdgeStyle;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-494" target="0HU06kgkGGuAJTMURiZS-495">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-525" value="验证失败" style="startArrow=none;endArrow=block;entryX=0.572;entryY=0.057;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-494" target="0HU06kgkGGuAJTMURiZS-495">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="823" y="450" as="sourcePoint" />
             <mxPoint x="775.5" y="572" as="targetPoint" />
