@@ -11,7 +11,7 @@
           <mxGeometry x="902" y="100" width="158" height="42" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-481" value="用户1" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="900" y="180" width="162" height="63" as="geometry" />
+          <mxGeometry x="680" y="180" width="162" height="63" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-482" value="进入发布界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="44" y="434" width="157" height="48" as="geometry" />
@@ -112,8 +112,11 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-514" value="查看" style="startArrow=none;endArrow=block;exitX=1;exitY=0.68;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-481" target="0HU06kgkGGuAJTMURiZS-485">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-515" value="报名管理" style="startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-481" target="0HU06kgkGGuAJTMURiZS-486">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-515" value="报名管理" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-546">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1200.00406779661" y="139.99508474576277" as="sourcePoint" />
+            <mxPoint x="1962.3600000000001" y="357.69" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-516" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-482" target="0HU06kgkGGuAJTMURiZS-487">
           <mxGeometry relative="1" as="geometry" />
@@ -200,7 +203,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-546" value="用户2" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="142" width="162" height="63" as="geometry" />
+          <mxGeometry x="1000" y="190" width="162" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
