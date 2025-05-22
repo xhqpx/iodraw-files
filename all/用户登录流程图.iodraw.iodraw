@@ -29,7 +29,7 @@
           <mxGeometry x="493" y="400" width="147" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-357" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="146" y="751" width="157" height="48" as="geometry" />
+          <mxGeometry x="485" y="561" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-358" value="保存修改" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="353" y="751" width="126" height="48" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-367" value="修改" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-351" target="0HU06kgkGGuAJTMURiZS-353">
-          <mxGeometry x="-1" y="-16" relative="1" as="geometry">
+          <mxGeometry y="-16" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
