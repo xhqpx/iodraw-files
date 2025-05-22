@@ -11,7 +11,7 @@
           <mxGeometry x="1330" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-651" value="博客标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="805" width="120" height="60" as="geometry" />
+          <mxGeometry x="1390" y="790" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-652" value="博客标签关系表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1580" y="770" width="133" height="60" as="geometry" />
@@ -328,7 +328,7 @@
             <mxPoint x="1220" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-725" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-651" target="0HU06kgkGGuAJTMURiZS-652">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-725" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-651" target="0HU06kgkGGuAJTMURiZS-652">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1060" y="760" as="sourcePoint" />
             <mxPoint x="1220" y="760" as="targetPoint" />
