@@ -92,7 +92,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-673" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=18;" connectable="0" vertex="1" parent="0HU06kgkGGuAJTMURiZS-672">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="10" y="5" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-674" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-667" target="0HU06kgkGGuAJTMURiZS-650">
           <mxGeometry relative="1" as="geometry">
