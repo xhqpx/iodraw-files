@@ -71,7 +71,7 @@
           <mxGeometry x="1039" y="1014" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-404" value="浏览博客列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1165" y="358" width="157" height="48" as="geometry" />
+          <mxGeometry x="1162" y="310" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-405" value="查看博客详情" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1245" y="1014" width="157" height="48" as="geometry" />
@@ -178,7 +178,7 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-431" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.99;entryY=0.26;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-403" target="0HU06kgkGGuAJTMURiZS-394">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-432" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-432" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-388" target="0HU06kgkGGuAJTMURiZS-404">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1160" y="250" as="sourcePoint" />
             <mxPoint x="1354.5" y="320" as="targetPoint" />
