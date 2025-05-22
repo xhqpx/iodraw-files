@@ -26,7 +26,7 @@
           <mxGeometry x="1220" y="640" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-487" value="填写活动信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="44" y="555" width="158" height="48" as="geometry" />
+          <mxGeometry x="665" y="350" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-488" value="信息验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="657" width="113" height="113" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="934" y="1042" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-493" value="修改活动内容" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="426" y="555" width="157" height="48" as="geometry" />
+          <mxGeometry x="899.5" y="350" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-494" value="内容验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="397" y="657" width="112" height="112" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="617" y="944" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-498" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="921" y="654" width="120" height="120" as="geometry" />
+          <mxGeometry x="1190" y="370" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-499" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="823" y="944" width="125" height="48" as="geometry" />
