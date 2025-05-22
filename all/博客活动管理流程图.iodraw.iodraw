@@ -17,10 +17,10 @@
           <mxGeometry x="555" y="310" width="115" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-552" value="查看已报名活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="699.5" y="300" width="160.5" height="50" as="geometry" />
+          <mxGeometry x="699.5" y="310" width="150.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-553" value="选择要取消的活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="890" y="300" width="189" height="48" as="geometry" />
+          <mxGeometry x="890" y="310" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-554" value="查看活动详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="384" y="533" width="157" height="48" as="geometry" />
