@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0HU06kgkGGuAJTMURiZS-967" value="功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-967" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="770" y="-110" width="1535" height="197" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-871" value="系统监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
