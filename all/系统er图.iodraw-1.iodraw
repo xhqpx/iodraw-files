@@ -20,7 +20,7 @@
           <mxGeometry x="355.5" y="590" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-750" value="移动检测&#xa;取下一字符" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="310" y="780" width="140" height="66" as="geometry" />
+          <mxGeometry x="310" y="880" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-751" value="存在子节点?" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="530" y="780" width="147" height="48" as="geometry" />
@@ -88,7 +88,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-771" value="字符匹配" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="380" y="690" width="134.5" height="50" as="geometry" />
+          <mxGeometry x="381.75" y="690" width="134.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
