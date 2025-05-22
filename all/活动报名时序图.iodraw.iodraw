@@ -1,272 +1,235 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="0J7OqR5ryFeeWGFa51bW">
-    <mxGraphModel dx="2045" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2045" dy="1196" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="0HU06kgkGGuAJTMURiZS-220" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="150" height="1718" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-263" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="150" height="1826" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-221" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="250" y="20" width="150" height="1718" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-264" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="150" height="1826" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-222" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="460" y="20" width="150" height="1718" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-265" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="435" y="20" width="150" height="1826" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-223" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="677" y="20" width="150" height="1718" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-266" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="635" y="20" width="150" height="1826" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-224" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="890" y="20" width="150" height="1718" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-267" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="835" y="20" width="150" height="1826" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-225" value="通知系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="20" width="150" height="1718" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-268" value="敏感词过滤" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="20" width="150" height="1826" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-226" value="报名验证系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="20" width="150" height="1718" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-269" value="通知系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="20" width="150" height="1826" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-227" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="540" y="210" width="422" height="310" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-270" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="499" y="257" width="422" height="310" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-228" value="[缓存命中]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-227">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-271" value="[缓存命中]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-270">
           <mxGeometry x="30" width="392" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-229" value="[缓存未命中]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-227">
-          <mxGeometry y="90" width="422" height="3" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-272" value="[缓存未命中]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-270">
+          <mxGeometry y="106" width="422" height="3" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-230" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="550" y="720" width="822" height="580" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-273" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="284" y="1063" width="1037" height="634" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-231" value="[检查通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-230">
-          <mxGeometry x="30" width="792" height="20" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-274" value="[评论合法]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-273">
+          <mxGeometry x="30" width="1007" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-233" value="访问活动详情页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-220" target="0HU06kgkGGuAJTMURiZS-221">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-275" value="[评论不合法]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;" vertex="1" parent="0HU06kgkGGuAJTMURiZS-273">
+          <mxGeometry y="538" width="1037" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-276" value="访问文章页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-263" target="0HU06kgkGGuAJTMURiZS-264">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="204" y="129" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-234" value="获取活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-277" value="获取评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404" y="160" />
+              <mxPoint x="411" y="183" />
             </Array>
-            <mxPoint x="323.68181818181847" y="160" as="sourcePoint" />
-            <mxPoint x="534.5" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-235" value="查询活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-278" value="查询评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-267">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="706.91" y="200" />
+              <mxPoint x="719" y="237" />
             </Array>
-            <mxPoint x="536.5918181818184" y="200" as="sourcePoint" />
-            <mxPoint x="967.41" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-236" value="返回缓存数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-279" value="返回缓存数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-267" target="0HU06kgkGGuAJTMURiZS-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="713.32" y="280" />
+              <mxPoint x="722" y="338" />
             </Array>
-            <mxPoint x="970.82" y="280" as="sourcePoint" />
-            <mxPoint x="540.0018181818185" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-239" value="更新缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-280" value="查询评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-266">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="705.91" y="460" />
+              <mxPoint x="619" y="439" />
             </Array>
-            <mxPoint x="535.5918181818184" y="460" as="sourcePoint" />
-            <mxPoint x="966.41" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-240" value="返回活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-281" value="返回评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-266" target="0HU06kgkGGuAJTMURiZS-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="463.32" y="490" />
+              <mxPoint x="622" y="493" />
             </Array>
-            <mxPoint x="530" y="490" as="sourcePoint" />
-            <mxPoint x="324.63043478260875" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-241" value="显示活动详情" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-282" value="更新缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-267">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="207" y="520" />
+              <mxPoint x="719" y="547" />
             </Array>
-            <mxPoint x="324.5" y="520" as="sourcePoint" />
-            <mxPoint x="94.25000000000023" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-242" value="点击报名按钮" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-283" value="返回评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-264">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="204" y="560" />
+              <mxPoint x="414" y="611" />
             </Array>
-            <mxPoint x="94.25000000000023" y="560" as="sourcePoint" />
-            <mxPoint x="324.5" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-243" value="请求报名" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-284" value="显示评论列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-263">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="404" y="590" />
+              <mxPoint x="207" y="665" />
             </Array>
-            <mxPoint x="324.2500000000002" y="589.9999999999998" as="sourcePoint" />
-            <mxPoint x="534.5" y="589.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-244" value="检查报名资格" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-285" value="输入评论内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-263" target="0HU06kgkGGuAJTMURiZS-264">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="904" y="610" />
+              <mxPoint x="204" y="719" />
             </Array>
-            <mxPoint x="534.2500000000002" y="610" as="sourcePoint" />
-            <mxPoint x="1424.5" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-245" value="查询用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-286" value="实时字数统计" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-263">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1007" y="650" />
+              <mxPoint x="207" y="773" />
             </Array>
-            <mxPoint x="1424.5" y="650" as="sourcePoint" />
-            <mxPoint x="751.25" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-246" value="返回用户数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-287" value="表情转换" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-263">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1004" y="680" />
+              <mxPoint x="207" y="827" />
             </Array>
-            <mxPoint x="751.25" y="680" as="sourcePoint" />
-            <mxPoint x="1424.5" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-247" value="返回检查结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-288" value="提交评论" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-263" target="0HU06kgkGGuAJTMURiZS-264">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="907" y="710" />
+              <mxPoint x="204" y="881" />
             </Array>
-            <mxPoint x="1424.5" y="710" as="sourcePoint" />
-            <mxPoint x="534.25" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-248" value="创建报名记录" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540.0015384615385" y="790" as="sourcePoint" />
-            <mxPoint x="757.54" y="790" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-250" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-289" value="发送评论请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="705.77" y="878.23" />
+              <mxPoint x="411" y="935" />
             </Array>
-            <mxPoint x="535.7315384615385" y="878.23" as="sourcePoint" />
-            <mxPoint x="966.27" y="878.23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-251" value="发送报名成功通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-290" value="敏感词过滤" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-268">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="804" y="930" />
+              <mxPoint x="819" y="989" />
             </Array>
-            <mxPoint x="533.9615384615386" y="930" as="sourcePoint" />
-            <mxPoint x="1194.5" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-252" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-291" value="返回过滤结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-268" target="0HU06kgkGGuAJTMURiZS-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="907" y="970" />
+              <mxPoint x="822" y="1043" />
             </Array>
-            <mxPoint x="1194.5" y="970" as="sourcePoint" />
-            <mxPoint x="750.9615384615386" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-254" value="创建提醒记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-292" value="保存评论数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-266">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="907" y="1050" />
+              <mxPoint x="619" y="1144" />
             </Array>
-            <mxPoint x="1194.5" y="1050" as="sourcePoint" />
-            <mxPoint x="750.9615384615386" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-255" value="返回报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-293" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-266" target="0HU06kgkGGuAJTMURiZS-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="403.04" y="1080" />
+              <mxPoint x="622" y="1198" />
             </Array>
-            <mxPoint x="530.54" y="1080" as="sourcePoint" />
-            <mxPoint x="320.0015384615386" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-256" value="返回报名失败" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-294" value="更新评论缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-267">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="403.04" y="1190" />
+              <mxPoint x="719" y="1252" />
             </Array>
-            <mxPoint x="530.54" y="1190" as="sourcePoint" />
-            <mxPoint x="320.0015384615386" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-257" value="显示报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-295" value="更新文章评论数" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-266">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="203.04" y="1120" />
+              <mxPoint x="619" y="1306" />
             </Array>
-            <mxPoint x="320.54" y="1120" as="sourcePoint" />
-            <mxPoint x="90.00153846153857" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-258" value="返回活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-296" value="查询文章作者" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-266">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="623" y="420" />
+              <mxPoint x="619" y="1360" />
             </Array>
-            <mxPoint x="751" y="420" as="sourcePoint" />
-            <mxPoint x="540" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-259" value="查询活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-297" value="返回作者信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-266" target="0HU06kgkGGuAJTMURiZS-265">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="620" y="370" />
+              <mxPoint x="622" y="1414" />
             </Array>
-            <mxPoint x="540" y="370" as="sourcePoint" />
-            <mxPoint x="751" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-260" value="报名成功" style="verticalAlign=bottom;elbow=vertical;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540.0015384615385" y="840" as="sourcePoint" />
-            <mxPoint x="757.54" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-261" value="发送活动提醒" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-298" value="发送评论通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-269">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800.04" y="1009.23" />
+              <mxPoint x="919" y="1468" />
             </Array>
-            <mxPoint x="530.0015384615385" y="1009.23" as="sourcePoint" />
-            <mxPoint x="1190.54" y="1009.23" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-232" value="[检查不通过]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontFamily=SIMSUN;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1140" width="822" height="3" as="geometry" />
-        </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-262" value="显示报名失败" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-299" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-269" target="0HU06kgkGGuAJTMURiZS-266">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="203.04" y="1220" />
+              <mxPoint x="1022" y="1522" />
             </Array>
-            <mxPoint x="320.54" y="1220" as="sourcePoint" />
-            <mxPoint x="90.00153846153857" y="1220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-300" value="返回评论成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-264">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1576" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-301" value="返回评论不合法原因" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-265" target="0HU06kgkGGuAJTMURiZS-264">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1677" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-302" value="显示结果" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-264" target="0HU06kgkGGuAJTMURiZS-263">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="207" y="1741" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
