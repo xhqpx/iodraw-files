@@ -150,14 +150,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-127" value="敏感词过滤验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-102" target="0HU06kgkGGuAJTMURiZS-102">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="577" y="1101" />
-              <mxPoint x="577" y="1131" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-128" value="标记文章已发布" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-102" target="0HU06kgkGGuAJTMURiZS-103">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
