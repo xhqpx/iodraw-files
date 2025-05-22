@@ -331,8 +331,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-965" value="功能模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="800" y="-100" width="1535" height="197" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-966" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="-70" width="750" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
