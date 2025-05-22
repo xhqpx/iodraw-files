@@ -50,7 +50,7 @@
           <mxGeometry x="1325" y="1280" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-610" value="浏览敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1030.5" width="173" height="48" as="geometry" />
+          <mxGeometry x="642" y="678" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-611" value="查看敏感词详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="636" y="1140" width="173" height="48" as="geometry" />
