@@ -227,10 +227,19 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-258" value="返回活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="417" y="621" />
+              <mxPoint x="623" y="420" />
             </Array>
-            <mxPoint x="545" y="621" as="sourcePoint" />
-            <mxPoint x="334" y="621" as="targetPoint" />
+            <mxPoint x="751" y="420" as="sourcePoint" />
+            <mxPoint x="540" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0HU06kgkGGuAJTMURiZS-259" value="请求报名" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="783" />
+            </Array>
+            <mxPoint x="334" y="783" as="sourcePoint" />
+            <mxPoint x="545" y="783" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
