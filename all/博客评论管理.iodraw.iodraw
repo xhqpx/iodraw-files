@@ -26,10 +26,10 @@
           <mxGeometry x="850" y="264.5" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-324" value="验证密码是否正确" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="621" y="732" width="177" height="177" as="geometry" />
+          <mxGeometry x="613" y="430" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-325" value="提示密码错误" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="693" y="982" width="157" height="48" as="geometry" />
+          <mxGeometry x="335" y="561" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-326" value="登录成功" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="900" y="982" width="125" height="48" as="geometry" />
@@ -67,8 +67,11 @@
             <mxPoint x="730" y="753.1000000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-337" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.34;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-324" target="0HU06kgkGGuAJTMURiZS-325">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-337" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.34;entryY=-0.01;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522.63" y="456" as="sourcePoint" />
+            <mxPoint x="210.0025490196075" y="410" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-339" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-324" target="0HU06kgkGGuAJTMURiZS-326">
           <mxGeometry relative="1" as="geometry" />
