@@ -53,7 +53,7 @@
           <mxGeometry x="790" y="530" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-496" value="保存修改" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="994" y="530" width="126" height="48" as="geometry" />
+          <mxGeometry x="1027" y="530" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-497" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="617" y="944" width="156" height="48" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="1161" y="350" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-499" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="430" width="125" height="48" as="geometry" />
+          <mxGeometry x="1105" y="430" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-500" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1262" y="430" width="125" height="48" as="geometry" />
@@ -139,9 +139,9 @@
             <mxPoint x="775.5" y="572" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-527" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-494" target="0HU06kgkGGuAJTMURiZS-496">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-527" value="验证成功" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="1" target="0HU06kgkGGuAJTMURiZS-496">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="989.9971428571426" y="523.3571428571429" as="sourcePoint" />
+            <mxPoint x="1050" y="458" as="sourcePoint" />
             <mxPoint x="992.1399999999995" y="688" as="targetPoint" />
           </mxGeometry>
         </mxCell>
