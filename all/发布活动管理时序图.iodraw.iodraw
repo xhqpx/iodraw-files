@@ -210,10 +210,10 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-255" value="返回报名成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="373.04" y="1390" />
+              <mxPoint x="403.04" y="1080" />
             </Array>
-            <mxPoint x="500.54" y="1390" as="sourcePoint" />
-            <mxPoint x="290.0015384615386" y="1390" as="targetPoint" />
+            <mxPoint x="530.54" y="1080" as="sourcePoint" />
+            <mxPoint x="320.0015384615386" y="1080" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-256" value="返回报名失败原因" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontFamily=SIMSUN;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-222" target="0HU06kgkGGuAJTMURiZS-221">
