@@ -20,10 +20,10 @@
           <mxGeometry x="690" y="310" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-387" value="选择要删除的博客" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="814" y="240" width="126" height="48" as="geometry" />
+          <mxGeometry x="840" y="310" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-388" value="显示博客列表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="962" y="240" width="118" height="48" as="geometry" />
+          <mxGeometry x="990" y="240" width="118" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-389" value="填写博客信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="84" y="625" width="158" height="48" as="geometry" />
@@ -85,8 +85,11 @@
         <mxCell id="0HU06kgkGGuAJTMURiZS-408" value="发布" style="startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384" target="0HU06kgkGGuAJTMURiZS-385">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-409" value="编辑" style="startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384" target="0HU06kgkGGuAJTMURiZS-386">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="0HU06kgkGGuAJTMURiZS-409" value="编辑" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="743.050724637681" y="230.00086956521739" as="sourcePoint" />
+            <mxPoint x="720" y="331.74" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-410" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-384" target="0HU06kgkGGuAJTMURiZS-387">
           <mxGeometry relative="1" as="geometry" />
