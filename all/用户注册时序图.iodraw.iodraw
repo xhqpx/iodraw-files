@@ -162,11 +162,13 @@
             <mxPoint x="305.0033333333335" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HU06kgkGGuAJTMURiZS-125" value="点击发布文章" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-100" target="0HU06kgkGGuAJTMURiZS-101">
+        <mxCell id="0HU06kgkGGuAJTMURiZS-125" value="点击发布文章" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="211" y="993" />
+              <mxPoint x="211" y="830" />
             </Array>
+            <mxPoint x="53.5" y="830" as="sourcePoint" />
+            <mxPoint x="309.5" y="830" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-126" value="提交文章数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="0HU06kgkGGuAJTMURiZS-101" target="0HU06kgkGGuAJTMURiZS-102">
