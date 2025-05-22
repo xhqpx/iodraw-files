@@ -26,7 +26,7 @@
           <mxGeometry x="548.25" y="870" width="124" height="66" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-753" value="到达词尾?" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="333" y="1442" width="130" height="48" as="geometry" />
+          <mxGeometry x="545.25" y="970" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-754" value="命中替换&#xa;替换为****" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="332" y="1563" width="132" height="66" as="geometry" />
