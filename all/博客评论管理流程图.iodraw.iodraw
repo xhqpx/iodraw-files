@@ -44,10 +44,10 @@
           <mxGeometry x="934" y="1042" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-493" value="修改活动内容" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="899.5" y="350" width="157" height="48" as="geometry" />
+          <mxGeometry x="904.5" y="350" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-494" value="内容验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="397" y="657" width="112" height="112" as="geometry" />
+          <mxGeometry x="886" y="545" width="112" height="112" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-495" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="426" y="846" width="157" height="48" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1076" y="430" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-500" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1014" y="846" width="125" height="48" as="geometry" />
+          <mxGeometry x="1235.5" y="430" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="0HU06kgkGGuAJTMURiZS-501" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="998" y="944" width="156" height="48" as="geometry" />
