@@ -1,9 +1,259 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="qEgoUbeB9vaP5YyrjtZi">
-    <mxGraphModel dx="2330" dy="1363" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="942" dy="553" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-179" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="-307.1162790697674" y="864.6743618277615" width="150" height="1722" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-180" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="-92.11627906976742" y="864.6743618277615" width="150" height="1722" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-181" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="123.88372093023258" y="864.6743618277615" width="150" height="1722" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-182" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="323.8837209302326" y="864.6743618277615" width="150" height="1722" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-183" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="523.8837209302326" y="864.6743618277615" width="150" height="1722" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-184" value="文件存储" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="723.8837209302326" y="864.6743618277615" width="150" height="1722" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-185" value="通知系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="923.8837209302326" y="864.6743618277615" width="150" height="1722" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-186" value="进入获得发布页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-179" target="Zap-5PkWZdPf2o2Z08Tt-180">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-116.11627906976742" y="973.6743618277615" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-187" value="获取活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99.88372093023258" y="1004.6743618277615" />
+            </Array>
+            <mxPoint x="-18.616279069767415" y="1004.6743618277615" as="sourcePoint" />
+            <mxPoint x="198.38372093023258" y="1004.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-188" value="查询模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="307.8837209302326" y="1034.6743618277615" />
+            </Array>
+            <mxPoint x="197.38372093023258" y="1034.6743618277615" as="sourcePoint" />
+            <mxPoint x="398.3837209302326" y="1034.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-189" value="返回模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310.8837209302326" y="1074.6743618277615" />
+            </Array>
+            <mxPoint x="398.3837209302326" y="1074.6743618277615" as="sourcePoint" />
+            <mxPoint x="197.38372093023258" y="1074.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-190" value="返回活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry x="-0.0046" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="102.88372093023258" y="1104.6743618277615" />
+            </Array>
+            <mxPoint x="198.38372093023258" y="1104.6743618277615" as="sourcePoint" />
+            <mxPoint x="-18.616279069767415" y="1104.6743618277615" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-191" value="显示活动页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-113.11627906976742" y="1144.6743618277615" />
+            </Array>
+            <mxPoint x="-17.616279069767415" y="1144.6743618277615" as="sourcePoint" />
+            <mxPoint x="-233.61627906976742" y="1144.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-192" value="上传活动配图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="291.8837209302326" y="1174.6743618277615" />
+            </Array>
+            <mxPoint x="-233.61627906976742" y="1174.6743618277615" as="sourcePoint" />
+            <mxPoint x="798.3837209302326" y="1174.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-193" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="402.8837209302326" y="1214.6743618277615" />
+            </Array>
+            <mxPoint x="798.3837209302326" y="1214.6743618277615" as="sourcePoint" />
+            <mxPoint x="-18.616279069767415" y="1214.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-194" value="显示预览图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-113.11627906976742" y="1254.6743618277615" />
+            </Array>
+            <mxPoint x="-17.616279069767415" y="1254.6743618277615" as="sourcePoint" />
+            <mxPoint x="-233.61627906976742" y="1254.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-195" value="编辑活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-116.11627906976742" y="1294.6743618277615" />
+            </Array>
+            <mxPoint x="-233.61627906976742" y="1294.6743618277615" as="sourcePoint" />
+            <mxPoint x="-17.616279069767415" y="1294.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-196" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="312.56372093023253" y="1474.6743618277615" />
+            </Array>
+            <mxPoint x="202.88725034199717" y="1474.6743618277615" as="sourcePoint" />
+            <mxPoint x="403.06372093023253" y="1474.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-197" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310.8837209302326" y="1504.6743618277615" />
+            </Array>
+            <mxPoint x="398.3837209302326" y="1504.6743618277615" as="sourcePoint" />
+            <mxPoint x="198.20725034199722" y="1504.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-198" value="返回保存状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="102.88372093023258" y="1534.6743618277615" />
+            </Array>
+            <mxPoint x="198.38372093023258" y="1534.6743618277615" as="sourcePoint" />
+            <mxPoint x="-17.792749658002776" y="1534.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-199" value="点击发布活动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-116.11627906976742" y="1574.6743618277615" />
+            </Array>
+            <mxPoint x="-232.79274965800255" y="1574.6743618277612" as="sourcePoint" />
+            <mxPoint x="-17.616279069767415" y="1574.6743618277612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-200" value="提交活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99.88372093023258" y="1604.6743618277615" />
+            </Array>
+            <mxPoint x="-17.792749658002776" y="1604.6743618277615" as="sourcePoint" />
+            <mxPoint x="198.38372093023258" y="1604.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-201" value="保存活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry x="-0.0009" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="307.8837209302326" y="1734.6743618277615" />
+            </Array>
+            <mxPoint x="198.20725034199722" y="1734.6743618277615" as="sourcePoint" />
+            <mxPoint x="398.3837209302326" y="1734.6743618277615" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-202" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310.8837209302326" y="1764.6743618277615" />
+            </Array>
+            <mxPoint x="398.3837209302326" y="1764.6743618277615" as="sourcePoint" />
+            <mxPoint x="198.20725034199722" y="1764.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-203" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1" target="Zap-5PkWZdPf2o2Z08Tt-184">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607.8837209302326" y="1794.6743618277615" />
+            </Array>
+            <mxPoint x="197.38372093023258" y="1794.6743618277615" as="sourcePoint" />
+            <mxPoint x="998.3837209302326" y="1794.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-204" value="发布活动通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870.8837209302326" y="1884.6743618277615" />
+            </Array>
+            <mxPoint x="999.3837209302326" y="1884.6743618277615" as="sourcePoint" />
+            <mxPoint x="198.38372093023258" y="1884.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-205" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="803.3837209302326" y="1844.6743618277615" />
+            </Array>
+            <mxPoint x="192.88372093023258" y="1844.6743618277615" as="sourcePoint" />
+            <mxPoint x="993.8837209302326" y="1844.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-206" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="102.88372093023258" y="1914.6743618277615" />
+            </Array>
+            <mxPoint x="198.38372093023258" y="1914.6743618277615" as="sourcePoint" />
+            <mxPoint x="-18.616279069767415" y="1914.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-207" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-113.11627906976742" y="1944.6743618277615" />
+            </Array>
+            <mxPoint x="-17.616279069767415" y="1944.6743618277615" as="sourcePoint" />
+            <mxPoint x="-233.61627906976742" y="1944.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-208" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="118.38372093023258" y="1314.6743618277615" />
+              <mxPoint x="118.38372093023258" y="1394.6743618277615" />
+            </Array>
+            <mxPoint x="-17.116279069767415" y="1314.6743618277615" as="sourcePoint" />
+            <mxPoint x="-17.116279069767415" y="1394.6743618277615" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-209" value="保存草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="101.38372093023258" y="1444.6743618277615" />
+            </Array>
+            <mxPoint x="-17.116279069767415" y="1444.6743618277615" as="sourcePoint" />
+            <mxPoint x="199.88372093023258" y="1444.6743618277615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-210" value="数据验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="338.3837209302326" y="1614.6743618277615" />
+              <mxPoint x="338.3837209302326" y="1694.6743618277615" />
+            </Array>
+            <mxPoint x="202.88372093023258" y="1614.6743618277615" as="sourcePoint" />
+            <mxPoint x="202.88372093023258" y="1694.6743618277615" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
