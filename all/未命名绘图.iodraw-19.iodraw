@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="ug18IPCglrqIxUx7f2sG">
-    <mxGraphModel dx="1204" dy="1572" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="870" dy="977" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,19 +8,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-22" value="" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="810" y="-50" width="1090" height="120" as="geometry" />
+          <mxGeometry x="809" y="11" width="1090" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-23" value="系统监控" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="840" y="550" width="196" height="360" as="geometry" />
+          <mxGeometry x="839" y="611" width="196" height="360" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-24" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="550" width="225" height="290" as="geometry" />
+          <mxGeometry x="1055" y="611" width="225" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-25" value="安全与权限" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="550" width="212" height="290" as="geometry" />
+          <mxGeometry x="1299" y="611" width="212" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-26" value="" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1532" y="550" width="378" height="290" as="geometry" />
+          <mxGeometry x="1531" y="611" width="378" height="290" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontFamily=SIMSUN;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-31" target="KDxve0_1OceYO3-VEseh-23">
           <mxGeometry relative="1" as="geometry" />
@@ -35,97 +35,97 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-31" value="" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="840" y="150" width="430" height="315.5" as="geometry" />
+          <mxGeometry x="839" y="211" width="430" height="315.5" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-32" value="前端架构" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1480" y="150" width="430" height="320" as="geometry" />
+          <mxGeometry x="1479" y="211" width="430" height="320" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-33" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="-5.5" width="125" height="48" as="geometry" />
+          <mxGeometry x="999" y="55.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-34" value="博客文章管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="-5.5" width="126" height="48" as="geometry" />
+          <mxGeometry x="1179" y="55.5" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-35" value="评论管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="-5.5" width="125" height="48" as="geometry" />
+          <mxGeometry x="1379" y="55.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-36" value="活动管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="-5.5" width="126" height="48" as="geometry" />
+          <mxGeometry x="1559" y="55.5" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-37" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="830" y="-5.5" width="125" height="48" as="geometry" />
+          <mxGeometry x="829" y="55.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-38" value="活动报名" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="-5.5" width="125" height="48" as="geometry" />
+          <mxGeometry x="1739" y="55.5" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-39" value="用户界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1512" y="170.5" width="124" height="48" as="geometry" />
+          <mxGeometry x="1511" y="231.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-40" value="Vuejs框架" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1508" y="283.75" width="132" height="48" as="geometry" />
+          <mxGeometry x="1507" y="344.75" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-41" value="ElementUI组件库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1694.5" y="390" width="182" height="48" as="geometry" />
+          <mxGeometry x="1693.5" y="451" width="182" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-42" value="Axios请求库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1501" y="390" width="146" height="48" as="geometry" />
+          <mxGeometry x="1500" y="451" width="146" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-43" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontFamily=SIMSUN;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-44" target="KDxve0_1OceYO3-VEseh-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-44" value="Spring Boot应用" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="864" y="285.5" width="174" height="48" as="geometry" />
+          <mxGeometry x="863" y="346.5" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-45" value="控制器层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1098" y="185.5" width="124" height="48" as="geometry" />
+          <mxGeometry x="1097" y="246.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-46" value="服务层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1106" y="284.5" width="108" height="48" as="geometry" />
+          <mxGeometry x="1105" y="345.5" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-47" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="407.5" width="141" height="48" as="geometry" />
+          <mxGeometry x="1089" y="468.5" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-48" value="RESTful API" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1560" y="610" width="141" height="48" as="geometry" />
+          <mxGeometry x="1559" y="671" width="141" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-49" value="WebSocket" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1562" y="686" width="139" height="48" as="geometry" />
+          <mxGeometry x="1561" y="747" width="139" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-50" value="文件上传" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="760" width="125" height="48" as="geometry" />
+          <mxGeometry x="1759" y="821" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-51" value="数据传输" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1568.5" y="760" width="126" height="48" as="geometry" />
+          <mxGeometry x="1567.5" y="821" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-52" value="JWT认证" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1342.5" y="610" width="123" height="48" as="geometry" />
+          <mxGeometry x="1341.5" y="671" width="123" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-53" value="权限控制" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1342.5" y="686" width="125" height="48" as="geometry" />
+          <mxGeometry x="1341.5" y="747" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-54" value="敏感词过滤" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="770" width="142" height="48" as="geometry" />
+          <mxGeometry x="1334" y="831" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-55" value="MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1091.5" y="610" width="155" height="48" as="geometry" />
+          <mxGeometry x="1090.5" y="671" width="155" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-56" value="文件存储" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="686" width="126" height="48" as="geometry" />
+          <mxGeometry x="1104" y="747" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-57" value="缓存系统" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1108" y="770" width="124" height="48" as="geometry" />
+          <mxGeometry x="1107" y="831" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-58" value="日志记录" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="875" y="610" width="125" height="48" as="geometry" />
+          <mxGeometry x="874" y="671" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-59" value="性能监控" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="875" y="700" width="125" height="48" as="geometry" />
+          <mxGeometry x="874" y="761" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-60" value="错误追踪" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="875" y="770" width="126" height="48" as="geometry" />
+          <mxGeometry x="874" y="831" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-61" value="数据备份" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="874" y="850" width="126" height="48" as="geometry" />
+          <mxGeometry x="873" y="911" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-62" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=20;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-39" target="KDxve0_1OceYO3-VEseh-40">
           <mxGeometry relative="1" as="geometry">
@@ -137,8 +137,8 @@
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-64" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=20;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-40" target="KDxve0_1OceYO3-VEseh-42">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1930.0011764705882" y="80" as="sourcePoint" />
-            <mxPoint x="2006.56" y="155.75" as="targetPoint" />
+            <mxPoint x="1929.0011764705882" y="141" as="sourcePoint" />
+            <mxPoint x="2005.56" y="216.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-65" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=20;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-45" target="KDxve0_1OceYO3-VEseh-46">
@@ -183,27 +183,27 @@
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;fontFamily=SIMSUN;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-22" target="KDxve0_1OceYO3-VEseh-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1020" y="201.25" as="sourcePoint" />
-            <mxPoint x="1444" y="276.75" as="targetPoint" />
+            <mxPoint x="1019" y="262.25" as="sourcePoint" />
+            <mxPoint x="1443" y="337.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-78" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;后端架构&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=20;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="901" y="218.5" width="100" height="40" as="geometry" />
+          <mxGeometry x="900" y="279.5" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-79" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;系统监控&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=20;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="888" y="560" width="100" height="40" as="geometry" />
+          <mxGeometry x="887" y="621" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-80" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;数据存储&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=20;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="1119" y="560" width="100" height="40" as="geometry" />
+          <mxGeometry x="1118" y="621" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-81" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;安全与权限&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=20;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="1344" y="560" width="124" height="40" as="geometry" />
+          <mxGeometry x="1343" y="621" width="124" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-82" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;接口与通信&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=20;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="1644" y="560" width="120" height="40" as="geometry" />
+          <mxGeometry x="1643" y="621" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-83" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 20px;&quot;&gt;&lt;span style=&quot;font-weight: normal; font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;功能模块&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;fontSize=20;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="-50" width="100" height="40" as="geometry" />
+          <mxGeometry x="1289" y="11" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
