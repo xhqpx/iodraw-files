@@ -1,38 +1,38 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="qEgoUbeB9vaP5YyrjtZi">
-    <mxGraphModel dx="2222" dy="665" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2256" dy="685" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-112" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-112" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="-40" y="592.5999755859375" width="150" height="1722" as="geometry" />
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-113" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-113" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="175" y="592.5999755859375" width="150" height="1722" as="geometry" />
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-114" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-114" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="391" y="592.5999755859375" width="150" height="1722" as="geometry" />
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-115" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-115" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="591" y="592.5999755859375" width="150" height="1722" as="geometry" />
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-116" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-116" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="791" y="592.5999755859375" width="150" height="1722" as="geometry" />
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-117" value="文件存储" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-117" value="文件存储" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="991" y="592.5999755859375" width="150" height="1722" as="geometry" />
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-118" value="通知系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;" vertex="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-118" value="通知系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=23;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="1191" y="592.5999755859375" width="150" height="1722" as="geometry" />
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-119" value="进入获得发布页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-112" target="Zap-5PkWZdPf2o2Z08Tt-113">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-119" value="进入获得发布页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-112" target="Zap-5PkWZdPf2o2Z08Tt-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="151" y="701.5999755859375" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-120" value="获取活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-120" value="获取活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="367" y="732.5999755859375" />
@@ -41,7 +41,7 @@
             <mxPoint x="465.5" y="732.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-121" value="查询模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-121" value="查询模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="575" y="762.5999755859375" />
@@ -50,7 +50,7 @@
             <mxPoint x="665.5" y="762.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-122" value="返回模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-122" value="返回模板数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="578" y="802.5999755859375" />
@@ -59,7 +59,7 @@
             <mxPoint x="464.5" y="802.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-123" value="返回活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-123" value="返回活动模板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry x="-0.0046" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="832.5999755859375" />
@@ -69,7 +69,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-124" value="显示活动页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-124" value="显示活动页面" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="154" y="872.5999755859375" />
@@ -78,7 +78,7 @@
             <mxPoint x="33.5" y="872.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-125" value="上传活动配图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-125" value="上传活动配图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="559" y="902.5999755859375" />
@@ -87,7 +87,7 @@
             <mxPoint x="1065.5" y="902.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-126" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-126" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="942.5999755859375" />
@@ -96,7 +96,7 @@
             <mxPoint x="248.5" y="942.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-127" value="显示预览图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-127" value="显示预览图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="154" y="982.5999755859375" />
@@ -105,7 +105,7 @@
             <mxPoint x="33.5" y="982.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-128" value="编辑活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-128" value="编辑活动信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="151" y="1022.5999755859375" />
@@ -114,7 +114,7 @@
             <mxPoint x="249.5" y="1022.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-129" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-129" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="579.68" y="1202.5999755859375" />
@@ -123,7 +123,7 @@
             <mxPoint x="670.18" y="1202.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-130" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-130" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="578" y="1232.5999755859375" />
@@ -132,7 +132,7 @@
             <mxPoint x="465.32352941176464" y="1232.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-131" value="返回保存状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-131" value="返回保存状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="1262.5999755859375" />
@@ -141,7 +141,7 @@
             <mxPoint x="249.32352941176464" y="1262.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-132" value="点击发布活动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-132" value="点击发布活动" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="151" y="1302.5999755859375" />
@@ -150,7 +150,7 @@
             <mxPoint x="249.5" y="1302.5999755859373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-133" value="提交活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-133" value="提交活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="367" y="1332.5999755859375" />
@@ -159,7 +159,7 @@
             <mxPoint x="465.5" y="1332.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-134" value="保存活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-134" value="保存活动数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry x="-0.0009" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="575" y="1462.5999755859375" />
@@ -169,7 +169,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-135" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-135" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="578" y="1492.5999755859375" />
@@ -178,7 +178,7 @@
             <mxPoint x="465.32352941176464" y="1492.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-136" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1" target="Zap-5PkWZdPf2o2Z08Tt-117">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-136" value="更新活动缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1" target="Zap-5PkWZdPf2o2Z08Tt-117">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="875" y="1522.5999755859375" />
@@ -187,7 +187,7 @@
             <mxPoint x="1265.5" y="1522.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-137" value="发布活动通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-137" value="发布活动通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1138" y="1612.5999755859375" />
@@ -196,7 +196,7 @@
             <mxPoint x="465.5" y="1612.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-138" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-138" value="创建通知记录" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1070.5" y="1572.5999755859375" />
@@ -205,7 +205,7 @@
             <mxPoint x="1261" y="1572.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-139" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-139" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="1642.5999755859375" />
@@ -214,7 +214,7 @@
             <mxPoint x="248.5" y="1642.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-140" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-140" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="154" y="1672.5999755859375" />
@@ -223,7 +223,7 @@
             <mxPoint x="33.5" y="1672.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-141" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-141" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry x="0.0028" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="385.5" y="1042.5999755859375" />
@@ -234,7 +234,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-142" value="保存草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-142" value="保存草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="368.5" y="1172.5999755859375" />
@@ -243,7 +243,7 @@
             <mxPoint x="467" y="1172.5999755859375" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-143" value="数据验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-143" value="数据验证" style="curved=1;endArrow=block;rounded=0;fontSize=23;fontFamily=SIMSUN;" edge="1" parent="1">
           <mxGeometry x="0.0028" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="605.5" y="1342.5999755859375" />
