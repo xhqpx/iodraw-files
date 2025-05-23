@@ -29,10 +29,10 @@
           <mxGeometry x="770" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-989" value="敏感词" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="720" y="676" width="120" height="60" as="geometry" />
+          <mxGeometry x="703" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-990" value="通知公告" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="600" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-991" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="860" y="680" width="120" height="60" as="geometry" />
@@ -113,7 +113,7 @@
           <mxGeometry x="870" y="760" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1011" value="发布" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="610" y="765" width="100" height="50" as="geometry" />
+          <mxGeometry x="590" y="765" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1012" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-1011" target="KDxve0_1OceYO3-VEseh-1008">
           <mxGeometry relative="1" as="geometry">
