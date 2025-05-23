@@ -41,7 +41,7 @@
           <mxGeometry x="67.11764346852021" y="1465.2353084788604" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-812" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="418.4876434685202" y="1513.2353084788604" width="94" height="48" as="geometry" />
+          <mxGeometry x="441.9876434685202" y="1499.9953084788604" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-813" value="修改博客内容" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="208.48764346852022" y="1123.2353084788604" width="157" height="48" as="geometry" />
