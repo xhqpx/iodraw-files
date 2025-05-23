@@ -38,7 +38,7 @@
           <mxGeometry x="93.48764346852022" y="1365.2353084788604" width="101" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-811" value="更新博客列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="67.11764346852021" y="1465.2353084788604" width="156" height="48" as="geometry" />
+          <mxGeometry x="67.11764346852021" y="1469.9953084788604" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-812" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="441.9876434685202" y="1499.9953084788604" width="94" height="48" as="geometry" />
@@ -134,9 +134,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-834" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-810" target="KDxve0_1OceYO3-VEseh-811">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-835" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.43;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-811" target="KDxve0_1OceYO3-VEseh-812">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-836" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-804" target="KDxve0_1OceYO3-VEseh-813">
