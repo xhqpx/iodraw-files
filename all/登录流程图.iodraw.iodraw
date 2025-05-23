@@ -14,7 +14,7 @@
           <mxGeometry x="1340" y="965" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-984" value="博客标签关系表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=SIMSUN;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="900" width="133" height="60" as="geometry" />
+          <mxGeometry x="1520" y="900" width="141" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-985" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;fontFamily=SIMSUN;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="1340" y="680" width="120" height="60" as="geometry" />
@@ -384,7 +384,7 @@
             <mxPoint x="958" y="988" as="sourcePoint" />
             <mxPoint x="1118" y="988" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1597" y="995" />
+              <mxPoint x="1602" y="995" />
             </Array>
           </mxGeometry>
         </mxCell>
