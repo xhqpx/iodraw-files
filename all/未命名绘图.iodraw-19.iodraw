@@ -14,7 +14,7 @@
           <mxGeometry x="299.5" y="557" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-855" value="验证输入" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="329" y="650" width="133" height="58" as="geometry" />
+          <mxGeometry x="329" y="660" width="133" height="58" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-856" value="提示输入错误" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="20" y="858" width="157" height="48" as="geometry" />
