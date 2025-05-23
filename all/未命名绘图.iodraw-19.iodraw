@@ -35,7 +35,7 @@
           <mxGeometry x="524" y="1030" width="162" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-862" value="跳转到首页" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="536" y="1121" width="134" height="39" as="geometry" />
+          <mxGeometry x="540" y="1110" width="134" height="39" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-863" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="559.5" y="1200" width="94" height="48" as="geometry" />
