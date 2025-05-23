@@ -38,7 +38,7 @@
           <mxGeometry x="840" y="150" width="430" height="315.5" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-32" value="前端架构" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="145.5" width="420" height="320" as="geometry" />
+          <mxGeometry x="1480" y="150" width="420" height="320" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-33" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-5.5" width="125" height="48" as="geometry" />
@@ -183,7 +183,7 @@
             <mxPoint x="1020" y="201.25" as="sourcePoint" />
             <mxPoint x="1444" y="276.75" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1355" y="306" />
+              <mxPoint x="1355" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
