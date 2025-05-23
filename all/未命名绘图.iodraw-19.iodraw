@@ -67,8 +67,11 @@
         <mxCell id="KDxve0_1OceYO3-VEseh-870" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-857" target="KDxve0_1OceYO3-VEseh-858">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-871" value="验证失败" style="startArrow=none;endArrow=block;exitX=0.02;exitY=1;entryX=0.64;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-858" target="KDxve0_1OceYO3-VEseh-859">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KDxve0_1OceYO3-VEseh-871" value="验证失败" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-858" target="KDxve0_1OceYO3-VEseh-859">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="382.38734693877586" y="881.9271428571432" as="sourcePoint" />
+            <mxPoint x="161" y="1146.07" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-873" value="验证成功" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-858" target="KDxve0_1OceYO3-VEseh-860">
           <mxGeometry relative="1" as="geometry">
