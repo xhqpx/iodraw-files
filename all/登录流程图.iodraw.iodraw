@@ -375,7 +375,9 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1076" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=left;verticalAlign=bottom;fontFamily=SIMSUN;fontSize=18;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="1410" y="910" as="geometry" />
+          <mxGeometry x="1412" y="911" as="geometry">
+            <mxPoint x="-25" y="8" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
