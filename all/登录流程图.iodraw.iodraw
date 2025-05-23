@@ -109,7 +109,7 @@
         <mxCell id="KDxve0_1OceYO3-VEseh-1007" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;rounded=0;" connectable="0" vertex="1" parent="KDxve0_1OceYO3-VEseh-1006">
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-1008" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="KDxve0_1OceYO3-VEseh-1008" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="703" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1009" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;rounded=0;strokeWidth=1.5;" vertex="1" parent="1">
@@ -181,7 +181,7 @@
             <mxPoint x="20" y="25" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-1022" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KDxve0_1OceYO3-VEseh-1022" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;rounded=0;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="865" y="845" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1023" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;strokeWidth=1.5;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-1022" target="KDxve0_1OceYO3-VEseh-1008">
