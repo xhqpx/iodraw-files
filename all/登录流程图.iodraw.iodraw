@@ -20,7 +20,7 @@
           <mxGeometry x="1340" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-986" value="博客文章评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1161" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="1161" y="1040" width="125" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-987" value="活动报名" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="1010" y="1040" width="120" height="60" as="geometry" />
