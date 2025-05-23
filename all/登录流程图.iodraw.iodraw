@@ -115,7 +115,7 @@
         <mxCell id="KDxve0_1OceYO3-VEseh-1011" value="发布" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="610" y="724" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-1012" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-1011">
+        <mxCell id="KDxve0_1OceYO3-VEseh-1012" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-1011" target="KDxve0_1OceYO3-VEseh-1008">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1020" y="794" as="sourcePoint" />
             <mxPoint x="730" y="799" as="targetPoint" />
