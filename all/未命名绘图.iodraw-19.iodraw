@@ -37,8 +37,11 @@
         <mxCell id="KDxve0_1OceYO3-VEseh-810" value="发布博客" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="93.48764346852022" y="1365.2353084788604" width="101" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="KDxve0_1OceYO3-VEseh-851" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-811" target="KDxve0_1OceYO3-VEseh-812">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-811" value="更新博客列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="67.11764346852021" y="1469.9953084788604" width="156" height="48" as="geometry" />
+          <mxGeometry x="67.11764346852021" y="1451.9953084788604" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-812" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="441.9876434685202" y="1499.9953084788604" width="94" height="48" as="geometry" />
