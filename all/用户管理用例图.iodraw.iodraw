@@ -345,7 +345,7 @@
             <mxPoint x="142" y="222" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-776" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-776" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Zap-5PkWZdPf2o2Z08Tt-701">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="361" y="644" as="sourcePoint" />
             <mxPoint x="521" y="644" as="targetPoint" />
