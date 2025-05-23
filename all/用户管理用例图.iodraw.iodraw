@@ -337,7 +337,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Zap-5PkWZdPf2o2Z08Tt-772" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=18;" connectable="0" vertex="1" parent="1">
-          <mxGeometry x="41.697515728697226" y="708.8887725127861" as="geometry" />
+          <mxGeometry x="41.697515728697226" y="708.8887725127861" as="geometry">
+            <mxPoint x="66" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-773" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=18;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="51.697515728697226" y="718.8887725127861" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
