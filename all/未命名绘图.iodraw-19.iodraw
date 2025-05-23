@@ -62,7 +62,7 @@
           <mxGeometry x="1512" y="170.5" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-40" value="Vuejs框架" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="293.5" width="132" height="48" as="geometry" />
+          <mxGeometry x="1508" y="283.75" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-41" value="ElementUI组件库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1740" y="392.5" width="182" height="48" as="geometry" />
