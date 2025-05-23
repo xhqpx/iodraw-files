@@ -161,7 +161,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1021" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=18;" connectable="0" vertex="1" parent="KDxve0_1OceYO3-VEseh-1020">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="10" y="25" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1022" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="880" y="845" width="100" height="50" as="geometry" />
@@ -316,7 +318,7 @@
             <mxPoint x="1170" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-1057" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-983" target="KDxve0_1OceYO3-VEseh-984">
+        <mxCell id="KDxve0_1OceYO3-VEseh-1057" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-983" target="KDxve0_1OceYO3-VEseh-984">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1480" y="1120" as="sourcePoint" />
             <mxPoint x="1540" y="1055" as="targetPoint" />
