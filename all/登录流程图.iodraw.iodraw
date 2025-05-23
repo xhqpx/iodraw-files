@@ -112,7 +112,7 @@
         <mxCell id="KDxve0_1OceYO3-VEseh-1008" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="703" y="840" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-1009" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KDxve0_1OceYO3-VEseh-1009" value="管理" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;rounded=0;strokeWidth=1.5;" vertex="1" parent="1">
           <mxGeometry x="713" y="765" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1010" value="记录" style="rhombus;whiteSpace=wrap;html=1;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;rounded=0;" vertex="1" parent="1">
