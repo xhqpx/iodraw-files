@@ -29,7 +29,7 @@
           <mxGeometry x="335" y="940" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-860" value="生成Token" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="540" y="940" width="133" height="48" as="geometry" />
+          <mxGeometry x="540" y="940" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-861" value="保存登录状态" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="528" y="1030" width="157" height="48" as="geometry" />
