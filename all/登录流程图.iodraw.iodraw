@@ -238,6 +238,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1010" y="1010" as="sourcePoint" />
             <mxPoint x="1170" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1168" y="980" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1036" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=18;" connectable="0" vertex="1" parent="KDxve0_1OceYO3-VEseh-1035">
