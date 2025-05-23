@@ -23,7 +23,7 @@
           <mxGeometry x="439.5" y="760" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-858" value="服务器验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="329" y="956" width="128" height="128" as="geometry" />
+          <mxGeometry x="454.5" y="840" width="128" height="128" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-859" value="显示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="161" y="1157" width="157" height="48" as="geometry" />
@@ -58,7 +58,7 @@
             <mxPoint x="20.000000000000014" y="811.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-869" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-855" target="KDxve0_1OceYO3-VEseh-857">
+        <mxCell id="KDxve0_1OceYO3-VEseh-869" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-855" target="KDxve0_1OceYO3-VEseh-857">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="661.5" y="729.9999999999998" as="sourcePoint" />
             <mxPoint x="660.0000000000005" y="870" as="targetPoint" />
