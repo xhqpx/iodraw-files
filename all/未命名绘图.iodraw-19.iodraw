@@ -14,7 +14,7 @@
           <mxGeometry x="299.5" y="557" width="188" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-855" value="验证输入" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="337" y="672" width="113" height="113" as="geometry" />
+          <mxGeometry x="329" y="650" width="133" height="58" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-856" value="提示输入错误" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="20" y="858" width="157" height="48" as="geometry" />
@@ -46,8 +46,11 @@
         <mxCell id="KDxve0_1OceYO3-VEseh-865" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-853" target="KDxve0_1OceYO3-VEseh-854">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-866" value="" style="startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-854" target="KDxve0_1OceYO3-VEseh-855">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KDxve0_1OceYO3-VEseh-866" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-854" target="KDxve0_1OceYO3-VEseh-855">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="578.3600000000001" y="640" as="sourcePoint" />
+            <mxPoint x="490.00000000000045" y="707" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-867" value="验证失败" style="startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.57;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-855" target="KDxve0_1OceYO3-VEseh-856">
           <mxGeometry relative="1" as="geometry" />
