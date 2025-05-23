@@ -1,9 +1,225 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="qEgoUbeB9vaP5YyrjtZi">
-    <mxGraphModel dx="2004" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="866" dy="364" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-467" value="开始" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="192" y="817.199951171875" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-468" value="进入活动管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="160" y="897.199951171875" width="158" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-469" value="用户操作选择" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="967.199951171875" width="162" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-470" value="进入发布界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="1078.199951171875" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-471" value="选择要编辑的活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="144" y="1078.199951171875" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-472" value="选择要删除的活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="404" y="1078.199951171875" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-473" value="显示活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="499" y="1697.199951171875" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-474" value="填写活动信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-164" y="1149.199951171875" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-475" value="信息验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-152" y="1237.199951171875" width="134" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-476" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-222" y="1389.199951171875" width="140" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-477" value="发布活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-72" y="1389.199951171875" width="110" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-478" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-98.5" y="1454.199951171875" width="163" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-479" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="194" y="1527.199951171875" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-480" value="修改活动内容" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="1147.199951171875" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-481" value="内容验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="174" y="1227.199951171875" width="134" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-482" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="48" y="1327.199951171875" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-483" value="保存修改" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="248" y="1327.199951171875" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-484" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="233" y="1406.199951171875" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-485" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="419" y="1147.199951171875" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-486" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="358" y="1227.199951171875" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-487" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1227.199951171875" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-488" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="504.5" y="1317.199951171875" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-489" value="浏览活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="499" y="1767.199951171875" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-490" value="查看活动详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="508" y="1837.199951171875" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-491" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-467" target="Zap-5PkWZdPf2o2Z08Tt-468">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-492" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-468" target="Zap-5PkWZdPf2o2Z08Tt-469">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-493" value="发布" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-469" target="Zap-5PkWZdPf2o2Z08Tt-470">
+          <mxGeometry x="-0.009" y="-14" relative="1" as="geometry">
+            <mxPoint x="103.67857142857156" y="987.194951171875" as="sourcePoint" />
+            <mxPoint x="-681.9999999999998" y="1216.319951171875" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-494" value="编辑" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-469" target="Zap-5PkWZdPf2o2Z08Tt-471">
+          <mxGeometry x="-0.1158" y="21" relative="1" as="geometry">
+            <mxPoint x="147.60655737704928" y="1047.2002790407273" as="sourcePoint" />
+            <mxPoint x="-262" y="1274.019951171875" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-495" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-469" target="Zap-5PkWZdPf2o2Z08Tt-472">
+          <mxGeometry x="0.0307" y="14" relative="1" as="geometry">
+            <mxPoint x="299" y="1030.199951171875" as="sourcePoint" />
+            <mxPoint x="299" y="1352.199951171875" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-496" value="查看" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="406.5" y="2057.199951171875" />
+            </Array>
+            <mxPoint x="766.5" y="1707.199951171875" as="sourcePoint" />
+            <mxPoint x="505.5" y="1917.199951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-497" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-470" target="Zap-5PkWZdPf2o2Z08Tt-474">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-498" value="" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-474" target="Zap-5PkWZdPf2o2Z08Tt-475">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-262" y="1220.199951171875" as="sourcePoint" />
+            <mxPoint x="-251" y="1275.199951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-499" value="验证失败" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-475" target="Zap-5PkWZdPf2o2Z08Tt-476">
+          <mxGeometry x="0.0522" y="-31" relative="1" as="geometry">
+            <mxPoint x="-229.02999999999997" y="1292.199951171875" as="sourcePoint" />
+            <mxPoint x="-782.0005882352941" y="1643.199951171875" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-500" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-475" target="Zap-5PkWZdPf2o2Z08Tt-477">
+          <mxGeometry x="0.0885" y="32" relative="1" as="geometry">
+            <mxPoint x="-18.00285714285735" y="1292.197094029018" as="sourcePoint" />
+            <mxPoint x="-409.36" y="1662.8399511718749" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-501" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-477" target="Zap-5PkWZdPf2o2Z08Tt-478">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-502" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.44;rounded=0;fontFamily=SIMSUN;fontSize=15;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-478" target="Zap-5PkWZdPf2o2Z08Tt-479">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-503" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-471" target="Zap-5PkWZdPf2o2Z08Tt-480">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-504" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-480" target="Zap-5PkWZdPf2o2Z08Tt-481">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160.00254901960795" y="1227.199951171875" as="sourcePoint" />
+            <mxPoint x="143.63" y="1374.199951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-505" value="验证失败" style="startArrow=none;endArrow=block;entryX=0.572;entryY=0.057;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-481" target="Zap-5PkWZdPf2o2Z08Tt-482">
+          <mxGeometry x="0.2329" y="-42" relative="1" as="geometry">
+            <mxPoint x="81" y="1247.199951171875" as="sourcePoint" />
+            <mxPoint x="33.5" y="1369.199951171875" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-506" value="验证成功" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="1" target="Zap-5PkWZdPf2o2Z08Tt-483">
+          <mxGeometry x="0.1231" y="34" relative="1" as="geometry">
+            <mxPoint x="308" y="1255.199951171875" as="sourcePoint" />
+            <mxPoint x="250.13999999999953" y="1485.199951171875" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-507" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-483" target="Zap-5PkWZdPf2o2Z08Tt-484">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-508" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-484" target="Zap-5PkWZdPf2o2Z08Tt-479">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201.99999999999955" y="1447.8799511718748" as="sourcePoint" />
+            <mxPoint x="85" y="1537.199951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-509" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-472" target="Zap-5PkWZdPf2o2Z08Tt-485">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-510" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-485" target="Zap-5PkWZdPf2o2Z08Tt-486">
+          <mxGeometry x="0.0399" y="-15" relative="1" as="geometry">
+            <mxPoint x="367.09595959595936" y="1197.2036885456123" as="sourcePoint" />
+            <mxPoint x="78" y="1753.8299511718747" as="targetPoint" />
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-511" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-486" target="Zap-5PkWZdPf2o2Z08Tt-479">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="421" y="1527.199951171875" />
+            </Array>
+            <mxPoint x="494.5" y="1365.199951171875" as="sourcePoint" />
+            <mxPoint x="268" y="1617.679951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-512" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-485" target="Zap-5PkWZdPf2o2Z08Tt-487">
+          <mxGeometry x="0.205" y="18" relative="1" as="geometry">
+            <mxPoint x="546.5" y="1195.199951171875" as="sourcePoint" />
+            <mxPoint x="368" y="1653.699951171875" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-513" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-487" target="Zap-5PkWZdPf2o2Z08Tt-488">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-514" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-488" target="Zap-5PkWZdPf2o2Z08Tt-479">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="628.4999999999995" y="1394.459951171875" as="sourcePoint" />
+            <mxPoint x="334" y="1556.939951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-515" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-473" target="Zap-5PkWZdPf2o2Z08Tt-489">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-516" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-489" target="Zap-5PkWZdPf2o2Z08Tt-490">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-517" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.35;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="726.5" y="2038.3999511718748" as="sourcePoint" />
+            <mxPoint x="328" y="1797.199951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
