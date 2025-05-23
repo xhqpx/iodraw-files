@@ -41,7 +41,7 @@
           <mxGeometry x="282.0033333333334" y="1088.0000203450522" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-130" value="取消删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="223.00333333333336" y="1212.0000203450522" width="125" height="48" as="geometry" />
+          <mxGeometry x="219.83333333333337" y="1212.0000203450522" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-131" value="执行删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="360.33333333333337" y="1212.0000203450522" width="125" height="48" as="geometry" />
