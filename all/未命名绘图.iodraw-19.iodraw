@@ -17,7 +17,7 @@
           <mxGeometry x="329" y="660" width="133" height="58" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-856" value="提示输入错误" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="20" y="858" width="157" height="48" as="geometry" />
+          <mxGeometry x="120" y="858" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-857" value="发送登录请求" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="315" y="858" width="158" height="48" as="geometry" />
@@ -58,8 +58,11 @@
             <mxPoint x="20.000000000000014" y="811.32" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-869" value="验证成功" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-855" target="KDxve0_1OceYO3-VEseh-857">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="KDxve0_1OceYO3-VEseh-869" value="验证成功" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="661.5" y="729.9999999999998" as="sourcePoint" />
+            <mxPoint x="660.0000000000005" y="870" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-870" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.51;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-857" target="KDxve0_1OceYO3-VEseh-858">
           <mxGeometry relative="1" as="geometry" />
