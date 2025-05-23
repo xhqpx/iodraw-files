@@ -35,7 +35,7 @@
           <mxGeometry x="569" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-991" value="操作日志" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="860" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="835" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-992" value="用户" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1010" y="840" width="120" height="60" as="geometry" />
@@ -137,9 +137,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="835" as="sourcePoint" />
             <mxPoint x="1210" y="830" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="920" y="835" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1016" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-1011" target="KDxve0_1OceYO3-VEseh-990">
