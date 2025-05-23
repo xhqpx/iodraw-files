@@ -38,7 +38,7 @@
           <mxGeometry x="840" y="150" width="430" height="315.5" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-32" value="前端架构" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1490" y="145.5" width="578" height="320" as="geometry" />
+          <mxGeometry x="1490" y="145.5" width="450" height="320" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-33" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1000" y="-5.5" width="125" height="48" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="1550" y="293.5" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-41" value="ElementUI组件库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1851" y="392.5" width="182" height="48" as="geometry" />
+          <mxGeometry x="1740" y="392.5" width="182" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-42" value="Axios请求库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1536" y="392.5" width="146" height="48" as="geometry" />
