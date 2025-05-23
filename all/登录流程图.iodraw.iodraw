@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KDxve0_1OceYO3-VEseh-981" value="博客文章点赞" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="680" width="141" height="60" as="geometry" />
+          <mxGeometry x="1129" y="680" width="152" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-982" value="博客文章" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1280" y="840" width="120" height="60" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="1520" y="900" width="133" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-985" value="文章分类" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1420" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="1455" y="667" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-986" value="博客文章评论" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1160" y="1028" width="120" height="60" as="geometry" />
