@@ -1,9 +1,272 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="qEgoUbeB9vaP5YyrjtZi">
-    <mxGraphModel dx="1856" dy="1085" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2256" dy="285" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-144" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-249.51851851851853" y="1044.9630081741898" width="150" height="1644" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-145" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="5.481481481481467" y="1044.9630081741898" width="150" height="1644" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-146" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="221.48148148148147" y="1044.9630081741898" width="150" height="1644" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-147" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="421.48148148148147" y="1044.9630081741898" width="150" height="1644" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-148" value="缓存" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="621.4814814814815" y="1044.9630081741898" width="150" height="1644" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-149" value="文件存储" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="821.4814814814815" y="1044.9630081741898" width="150" height="1644" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-150" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="-142.51851851851853" y="2084.96300817419" width="653" height="418" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-151" value="[验证不通过]" style="shape=line;dashed=1;whiteSpace=wrap;verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;align=center;strokeColor=#B3B3B3;fontSize=21;" vertex="1" parent="Zap-5PkWZdPf2o2Z08Tt-150">
+          <mxGeometry x="-27" y="180" width="653" height="3" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-152" value="进入发布文章页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-144" target="Zap-5PkWZdPf2o2Z08Tt-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-18.518518518518533" y="1153.9630081741898" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-153" value="获取分类和标签列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-145" target="Zap-5PkWZdPf2o2Z08Tt-146">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="197.48148148148147" y="1207.9630081741898" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-154" value="查询分类数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405.48148148148147" y="1244.9630081741898" />
+            </Array>
+            <mxPoint x="295.31481481481495" y="1244.9630081741898" as="sourcePoint" />
+            <mxPoint x="495.98148148148147" y="1244.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-155" value="返回分类数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408.48148148148147" y="1284.9630081741898" />
+            </Array>
+            <mxPoint x="495.98148148148147" y="1284.9630081741898" as="sourcePoint" />
+            <mxPoint x="295.31481481481495" y="1284.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-156" value="查询标签数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405.48148148148147" y="1324.9630081741898" />
+            </Array>
+            <mxPoint x="295.31481481481495" y="1324.9630081741898" as="sourcePoint" />
+            <mxPoint x="495.98148148148147" y="1324.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-157" value="返回标签数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408.48148148148147" y="1364.9630081741898" />
+            </Array>
+            <mxPoint x="495.98148148148147" y="1364.9630081741898" as="sourcePoint" />
+            <mxPoint x="295.31481481481495" y="1364.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-158" value="返回分类和标签列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200.48148148148147" y="1414.9630081741898" />
+            </Array>
+            <mxPoint x="295.98148148148147" y="1414.9630081741898" as="sourcePoint" />
+            <mxPoint x="79.31481481481495" y="1414.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-159" value="显示发布页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-15.518518518518533" y="1454.9630081741898" />
+            </Array>
+            <mxPoint x="79.98148148148192" y="1454.9630081741898" as="sourcePoint" />
+            <mxPoint x="-175.68518518518505" y="1454.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-160" value="上传文章配图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385.6514814814814" y="1484.9630081741898" />
+            </Array>
+            <mxPoint x="-179.51518518518503" y="1484.9630081741898" as="sourcePoint" />
+            <mxPoint x="892.1514814814811" y="1484.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-161" value="返回图片URL" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="500.48148148148147" y="1534.9630081741898" />
+            </Array>
+            <mxPoint x="895.9814814814811" y="1534.9630081741898" as="sourcePoint" />
+            <mxPoint x="79.31481481481495" y="1534.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-162" value="显示预览图" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-15.518518518518533" y="1574.9630081741898" />
+            </Array>
+            <mxPoint x="79.98148148148192" y="1574.9630081741898" as="sourcePoint" />
+            <mxPoint x="-175.68518518518505" y="1574.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-163" value="编辑文章内容" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-18.518518518518533" y="1614.9630081741898" />
+            </Array>
+            <mxPoint x="-175.68518518518505" y="1614.9630081741898" as="sourcePoint" />
+            <mxPoint x="79.98148148148192" y="1614.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-164" value="存储草稿" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405.48148148148147" y="1744.9630081741898" />
+            </Array>
+            <mxPoint x="295.31481481481495" y="1744.9630081741898" as="sourcePoint" />
+            <mxPoint x="495.98148148148147" y="1744.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-165" value="保存成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408.48148148148147" y="1784.9630081741898" />
+            </Array>
+            <mxPoint x="495.98148148148147" y="1784.96300817419" as="sourcePoint" />
+            <mxPoint x="295.31481481481495" y="1784.96300817419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-166" value="返回保存状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-146" target="Zap-5PkWZdPf2o2Z08Tt-145">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="196.65148148148148" y="1814.9630081741898" />
+            </Array>
+            <mxPoint x="292.1514814814814" y="1814.9630081741898" as="sourcePoint" />
+            <mxPoint x="75.48481481481497" y="1814.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-167" value="点击发布文章" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-18.518518518518533" y="1854.9630081741898" />
+            </Array>
+            <mxPoint x="-176.01851851851853" y="1854.9630081741898" as="sourcePoint" />
+            <mxPoint x="79.98148148148147" y="1854.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-168" value="提交文章数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="197.48148148148147" y="1884.9630081741898" />
+            </Array>
+            <mxPoint x="78.98148148148147" y="1884.9630081741898" as="sourcePoint" />
+            <mxPoint x="295.98148148148147" y="1884.9630081741898" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-169" value="标记文章已发布" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="405.48148148148147" y="2154.96300817419" />
+            </Array>
+            <mxPoint x="294.98148148148147" y="2154.96300817419" as="sourcePoint" />
+            <mxPoint x="495.98148148148147" y="2154.96300817419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-170" value="操作成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408.48148148148147" y="2193.96300817419" />
+            </Array>
+            <mxPoint x="495.98148148148147" y="2193.96300817419" as="sourcePoint" />
+            <mxPoint x="294.98148148148147" y="2193.96300817419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-171" value="返回发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="196.98148148148147" y="2224.96300817419" />
+            </Array>
+            <mxPoint x="292.48148148148147" y="2224.96300817419" as="sourcePoint" />
+            <mxPoint x="75.48148148148147" y="2224.96300817419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-172" value="显示发布成功" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-15.518518518518533" y="2254.96300817419" />
+            </Array>
+            <mxPoint x="79.98148148148147" y="2254.96300817419" as="sourcePoint" />
+            <mxPoint x="-176.01851851851853" y="2254.96300817419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-173" value="返回验证不通过提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200.48148148148147" y="2344.96300817419" />
+            </Array>
+            <mxPoint x="295.98148148148147" y="2344.96300817419" as="sourcePoint" />
+            <mxPoint x="78.98148148148147" y="2344.96300817419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-174" value="显示验证不通过提示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-15.518518518518533" y="2384.96300817419" />
+            </Array>
+            <mxPoint x="79.98148148148147" y="2384.96300817419" as="sourcePoint" />
+            <mxPoint x="-176.01851851851853" y="2384.96300817419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-175" value="自动保存草稿" style="curved=1;endArrow=block;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry x="-0.0023" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215.98148148148147" y="1634.9630081741898" />
+              <mxPoint x="215.98148148148147" y="1714.9630081741898" />
+            </Array>
+            <mxPoint x="80.48148148148147" y="1634.9630081741898" as="sourcePoint" />
+            <mxPoint x="80.48148148148147" y="1714.9630081741898" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-176" value="敏感词过滤验证" style="curved=1;endArrow=block;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry x="-0.0023" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410.48148148148147" y="1894.9630081741898" />
+              <mxPoint x="410.48148148148147" y="1974.9630081741898" />
+            </Array>
+            <mxPoint x="300.48148148148147" y="1894.9630081741898" as="sourcePoint" />
+            <mxPoint x="300.48148148148147" y="1974.9630081741898" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-177" value="内容格式验证" style="curved=1;endArrow=block;rounded=0;fontSize=21;" edge="1" parent="1">
+          <mxGeometry x="-0.0023" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410.48148148148147" y="1994.9630081741898" />
+              <mxPoint x="410.48148148148147" y="2074.96300817419" />
+            </Array>
+            <mxPoint x="300.48148148148147" y="1994.9630081741898" as="sourcePoint" />
+            <mxPoint x="300.48148148148147" y="2074.96300817419" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-178" value="[验证通过]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="30.481481481481467" y="2094.96300817419" width="623" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
