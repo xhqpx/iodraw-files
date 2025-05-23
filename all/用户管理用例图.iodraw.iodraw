@@ -1,9 +1,122 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="qEgoUbeB9vaP5YyrjtZi">
-    <mxGraphModel dx="2004" dy="1172" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2074" dy="364" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-556" value="创建字典树根节点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-64.5999755859375" y="983.199951171875" width="188" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-557" value="加载敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-56.5999755859375" y="1064.199951171875" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-558" value="获取待处理文本" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-56.5999755859375" y="1146.199951171875" width="173" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-559" value="遍历文本" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-32.5999755859375" y="1226.199951171875" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-560" value="重置指针&#xa;字典树回到根节点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-64.0999755859375" y="1316.199951171875" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-561" value="移动检测&#xa;取下一字符" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-219.5999755859375" y="1566.199951171875" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-562" value="路径推进&#xa;指针下移" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-32.5999755859375" y="1566.199951171875" width="124" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-563" value="命中替换&#xa;替换为****" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-34.8499755859375" y="1746.199951171875" width="132" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-564" value="位置更新&#xa;向后移动检测点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-56.5999755859375" y="1846.199951171875" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-565" value="继续" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-559" target="Zap-5PkWZdPf2o2Z08Tt-560">
+          <mxGeometry x="0.0476" y="-30" relative="1" as="geometry">
+            <mxPoint x="-149.5999755859375" y="1296.199951171875" as="sourcePoint" />
+            <mxPoint x="161.40002441406273" y="1381.479951171875" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-566" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-560" target="Zap-5PkWZdPf2o2Z08Tt-577">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="30.1500244140625" y="1416.199951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-567" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-577" target="Zap-5PkWZdPf2o2Z08Tt-561">
+          <mxGeometry x="-0.033" y="-21" relative="1" as="geometry">
+            <mxPoint x="-112.97703440946725" y="1466.199951171875" as="sourcePoint" />
+            <mxPoint x="-269.5995834290745" y="1716.199951171875" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-568" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-577" target="Zap-5PkWZdPf2o2Z08Tt-578">
+          <mxGeometry x="-0.3705" y="15" relative="1" as="geometry">
+            <mxPoint x="183.84002441406255" y="1418.6999511718748" as="sourcePoint" />
+            <mxPoint x="224.84002441406255" y="1463.6999511718748" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-569" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-578">
+          <mxGeometry x="0.0184" y="-15" relative="1" as="geometry">
+            <mxPoint x="-163.3499755859375" y="1496.1999511718752" as="sourcePoint" />
+            <mxPoint x="-149.5999755859375" y="1511.199951171875" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-570" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-578" target="Zap-5PkWZdPf2o2Z08Tt-562">
+          <mxGeometry y="-20" relative="1" as="geometry">
+            <mxPoint x="257.4000244140625" y="1549.879951171875" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-571" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-562" target="Zap-5PkWZdPf2o2Z08Tt-579">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="71.07349380181768" y="1676.199951171875" as="sourcePoint" />
+            <mxPoint x="70.4000244140625" y="1740.199951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-572" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-579" target="Zap-5PkWZdPf2o2Z08Tt-563">
+          <mxGeometry x="-0.2217" y="-22" relative="1" as="geometry">
+            <mxPoint x="190.6500244140625" y="1744.1999511718752" as="sourcePoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-573" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-563" target="Zap-5PkWZdPf2o2Z08Tt-564">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295.8900244140625" y="1836.199951171875" as="sourcePoint" />
+            <mxPoint x="257.6500244140625" y="1930.199951171875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-574" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-556" target="Zap-5PkWZdPf2o2Z08Tt-557">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-575" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-557" target="Zap-5PkWZdPf2o2Z08Tt-558">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-576" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-558" target="Zap-5PkWZdPf2o2Z08Tt-559">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-577" value="字符匹配" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="-37.8499755859375" y="1416.199951171875" width="134.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-578" value="存在子节点" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="-37.3499755859375" y="1486.199951171875" width="134.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-579" value="到达词尾？" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="-37.8499755859375" y="1666.199951171875" width="134.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Zap-5PkWZdPf2o2Z08Tt-580" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="Zap-5PkWZdPf2o2Z08Tt-579" target="Zap-5PkWZdPf2o2Z08Tt-577">
+          <mxGeometry x="-0.033" y="-21" relative="1" as="geometry">
+            <mxPoint x="362.4000244140625" y="1591.199951171875" as="sourcePoint" />
+            <mxPoint x="250.4000244140625" y="1716.199951171875" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="200.4000244140625" y="1691.199951171875" />
+              <mxPoint x="200.4000244140625" y="1441.199951171875" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
