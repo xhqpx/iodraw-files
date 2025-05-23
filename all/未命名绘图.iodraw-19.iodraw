@@ -154,7 +154,7 @@
         </mxCell>
         <object label="普通用户" id="Zap-5PkWZdPf2o2Z08Tt-36">
           <mxCell style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=10;" vertex="1" parent="1">
-            <mxGeometry x="280" y="340" width="50" height="80" as="geometry" />
+            <mxGeometry x="280" y="400" width="50" height="80" as="geometry" />
           </mxCell>
         </object>
       </root>
