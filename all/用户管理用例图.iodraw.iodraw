@@ -11,7 +11,7 @@
           <mxGeometry x="582.1600097656251" y="699.12001953125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zap-5PkWZdPf2o2Z08Tt-697" value="博客标签" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=SIMSUN;" vertex="1" parent="1">
-          <mxGeometry x="644.0000097656251" y="864.00001953125" width="120" height="60" as="geometry" />
+          <mxGeometry x="642.1600097656251" y="858.00001953125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Zap-5PkWZdPf2o2Z08Tt-698" value="博客标签关系表" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="850.0000097656251" y="759.12001953125" width="133" height="60" as="geometry" />
