@@ -256,7 +256,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1040" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=18;" connectable="0" vertex="1" parent="KDxve0_1OceYO3-VEseh-1039">
-          <mxGeometry x="1" relative="1" as="geometry" />
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-5" y="23" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1041" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-1038" target="KDxve0_1OceYO3-VEseh-992">
           <mxGeometry relative="1" as="geometry">
