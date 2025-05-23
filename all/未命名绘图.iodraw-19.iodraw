@@ -77,9 +77,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-873" value="验证成功" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-858" target="KDxve0_1OceYO3-VEseh-860">
-          <mxGeometry x="-0.6199" y="-15" relative="1" as="geometry">
+          <mxGeometry x="-0.6199" y="20" relative="1" as="geometry">
             <mxPoint x="630" y="910" as="sourcePoint" />
-            <mxPoint x="15" y="-15" as="offset" />
+            <mxPoint x="-7" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-874" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-860" target="KDxve0_1OceYO3-VEseh-861">
