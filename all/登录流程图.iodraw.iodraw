@@ -379,13 +379,10 @@
             <mxPoint x="-25" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KDxve0_1OceYO3-VEseh-1077" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=SIMSUN;fontSize=20;labelBorderColor=none;strokeWidth=1.5;" edge="1" parent="1" target="KDxve0_1OceYO3-VEseh-984">
+        <mxCell id="KDxve0_1OceYO3-VEseh-1077" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=SIMSUN;fontSize=20;labelBorderColor=none;strokeWidth=1.5;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="KDxve0_1OceYO3-VEseh-983" target="KDxve0_1OceYO3-VEseh-984">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1460" y="1040" as="sourcePoint" />
             <mxPoint x="1603.3759999999997" y="1002.2399999999998" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1602" y="1040" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="KDxve0_1OceYO3-VEseh-1078" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;fontSize=20;fontFamily=SIMSUN;labelBorderColor=none;rounded=0;" connectable="0" vertex="1" parent="KDxve0_1OceYO3-VEseh-1077">
