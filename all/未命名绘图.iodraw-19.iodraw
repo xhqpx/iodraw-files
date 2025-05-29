@@ -1,146 +1,120 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="9Azb-n-DH0oyDSk6vksa">
-    <mxGraphModel dx="1100" dy="-586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1100" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="70" y="1310" width="150" height="1415" as="geometry" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-21" value="创建字典树根节点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="358" y="200" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-2" value="前端页面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1310" width="150" height="1415" as="geometry" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-22" value="加载敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="366" y="281" width="173" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-3" value="LoginController" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="531" y="1310" width="150" height="1415" as="geometry" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-23" value="获取待处理文本" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="366" y="363" width="173" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-4" value="UserService" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="747" y="1310" width="150" height="1415" as="geometry" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-24" value="遍历文本" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="443" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-5" value="UserMapper" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="947" y="1310" width="150" height="1415" as="geometry" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-25" value="重置指针&#xa;字典树回到根节点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="533" width="188" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-6" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1147" y="1310" width="150" height="1415" as="geometry" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-26" value="移动检测&#xa;取下一字符" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="203" y="783" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-7" value="JwtUtil" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="1347" y="1310" width="150" height="1415" as="geometry" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-27" value="路径推进&#xa;指针下移" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="390" y="783" width="124" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-8" value="输入用户名和密码" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="253.5" y="1422" />
-            </Array>
-            <mxPoint x="144" y="1422" as="sourcePoint" />
-            <mxPoint x="344" y="1422" as="targetPoint" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-28" value="命中替换&#xa;替换为****" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="387.75" y="963" width="132" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-29" value="位置更新&#xa;向后移动检测点" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="366" y="1063" width="172" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-30" value="继续" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-24" target="GZ1Z9OrTAlW1TSzNLWIF-25">
+          <mxGeometry x="0.0476" y="-30" relative="1" as="geometry">
+            <mxPoint x="273" y="513" as="sourcePoint" />
+            <mxPoint x="584.0000000000002" y="598.28" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-9" value="发送登录请求(POST /login)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;entryDx=0;entryDy=0;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-25" target="GZ1Z9OrTAlW1TSzNLWIF-42">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="484.5" y="1445" />
-            </Array>
-            <mxPoint x="345" y="1445" as="sourcePoint" />
-            <mxPoint x="606" y="1445" as="targetPoint" />
+            <mxPoint x="452.75" y="633" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-10" value="调用login方法" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="723" y="1460" />
-            </Array>
-            <mxPoint x="605.5" y="1460" as="sourcePoint" />
-            <mxPoint x="821.5" y="1460" as="targetPoint" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-32" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-42" target="GZ1Z9OrTAlW1TSzNLWIF-26">
+          <mxGeometry x="-0.033" y="-21" relative="1" as="geometry">
+            <mxPoint x="309.62294117647025" y="683" as="sourcePoint" />
+            <mxPoint x="153.00039215686297" y="933" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-11" value="查询用户信息" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="931" y="1490" />
-            </Array>
-            <mxPoint x="821.5" y="1490" as="sourcePoint" />
-            <mxPoint x="1021.5" y="1490" as="targetPoint" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-33" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-42" target="GZ1Z9OrTAlW1TSzNLWIF-43">
+          <mxGeometry x="-0.3705" y="15" relative="1" as="geometry">
+            <mxPoint x="606.44" y="635.4999999999998" as="sourcePoint" />
+            <mxPoint x="647.44" y="680.4999999999998" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-12" value="执行SQL查询" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1131" y="1520" />
-            </Array>
-            <mxPoint x="1021.5" y="1520" as="sourcePoint" />
-            <mxPoint x="1221.5" y="1520" as="targetPoint" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-34" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-43">
+          <mxGeometry x="0.0184" y="-15" relative="1" as="geometry">
+            <mxPoint x="259.25" y="713.0000000000002" as="sourcePoint" />
+            <mxPoint x="273" y="728" as="targetPoint" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-13" value="返回用户数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1134" y="1560" />
-            </Array>
-            <mxPoint x="1221.5" y="1560" as="sourcePoint" />
-            <mxPoint x="1021.5" y="1560" as="targetPoint" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-35" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-43" target="GZ1Z9OrTAlW1TSzNLWIF-27">
+          <mxGeometry y="-20" relative="1" as="geometry">
+            <mxPoint x="680" y="766.6800000000001" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-14" value="返回用户对象" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=21;" edge="1" parent="1">
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-36" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-27" target="GZ1Z9OrTAlW1TSzNLWIF-44">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="932.5" y="1590" />
-            </Array>
-            <mxPoint x="1020" y="1590" as="sourcePoint" />
-            <mxPoint x="820" y="1590" as="targetPoint" />
+            <mxPoint x="493.6734693877552" y="893" as="sourcePoint" />
+            <mxPoint x="493" y="957" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-15" value="生成JWT令牌" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1129.5" y="1630" />
-            </Array>
-            <mxPoint x="820" y="1630" as="sourcePoint" />
-            <mxPoint x="1420" y="1630" as="targetPoint" />
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-37" value="是" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-44" target="GZ1Z9OrTAlW1TSzNLWIF-28">
+          <mxGeometry x="-0.2217" y="-22" relative="1" as="geometry">
+            <mxPoint x="613.25" y="961.0000000000002" as="sourcePoint" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-16" value="返回令牌" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=21;" edge="1" parent="1">
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-38" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-28" target="GZ1Z9OrTAlW1TSzNLWIF-29">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1134" y="1670" />
-            </Array>
-            <mxPoint x="1421.5" y="1670" as="sourcePoint" />
-            <mxPoint x="821.5" y="1670" as="targetPoint" />
+            <mxPoint x="718.49" y="1053" as="sourcePoint" />
+            <mxPoint x="680.25" y="1147" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-17" value="返回用户信息和令牌" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="726" y="1690" />
-            </Array>
-            <mxPoint x="821.5" y="1690" as="sourcePoint" />
-            <mxPoint x="605.5" y="1690" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-39" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-21" target="GZ1Z9OrTAlW1TSzNLWIF-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-18" value="返回登录成功响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="487" y="1720" />
-            </Array>
-            <mxPoint x="605.5" y="1720" as="sourcePoint" />
-            <mxPoint x="344.5" y="1720" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-40" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-22" target="GZ1Z9OrTAlW1TSzNLWIF-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-19" value="存储令牌到localStorage" style="curved=1;endArrow=block;rounded=0;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="401.5" y="1739" />
-              <mxPoint x="401.5" y="1769" />
-            </Array>
-            <mxPoint x="350" y="1739" as="sourcePoint" />
-            <mxPoint x="350" y="1769" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-41" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=18;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-23" target="GZ1Z9OrTAlW1TSzNLWIF-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-20" value="跳转到首页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fontSize=21;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-42" value="字符匹配" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="384.75" y="633" width="134.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-43" value="存在子节点" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="385.25" y="703" width="134.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-44" value="到达词尾？" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;fontFamily=SIMSUN;" vertex="1" parent="1">
+          <mxGeometry x="384.75" y="883" width="134.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GZ1Z9OrTAlW1TSzNLWIF-45" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=1;entryY=0.5;rounded=0;fontFamily=SIMSUN;fontSize=18;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GZ1Z9OrTAlW1TSzNLWIF-44" target="GZ1Z9OrTAlW1TSzNLWIF-42">
+          <mxGeometry x="-0.033" y="-21" relative="1" as="geometry">
+            <mxPoint x="785" y="808" as="sourcePoint" />
+            <mxPoint x="673" y="933" as="targetPoint" />
+            <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="257" y="1790" />
+              <mxPoint x="623" y="908" />
+              <mxPoint x="623" y="658" />
             </Array>
-            <mxPoint x="344.5" y="1790" as="sourcePoint" />
-            <mxPoint x="144.5" y="1790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
