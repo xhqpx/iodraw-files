@@ -17,7 +17,7 @@
           <mxGeometry x="302" y="25" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-5" value="路由管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="215" y="123" width="125" height="48" as="geometry" />
+          <mxGeometry x="197" y="100" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-6" value="状态管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="294" y="222" width="126" height="48" as="geometry" />
