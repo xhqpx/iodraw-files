@@ -8,7 +8,7 @@
           <mxGeometry x="197" y="710" width="180" height="118" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-2" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="310" y="230" width="318" height="220" as="geometry" />
+          <mxGeometry x="282" y="230" width="318" height="220" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-3" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="10" width="400" height="200" as="geometry" />
@@ -47,16 +47,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-9" value="控制器层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="477.25" y="250" width="116.5" height="40" as="geometry" />
+          <mxGeometry x="449.25" y="250" width="116.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-10" value="服务层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="330" y="310" width="116.5" height="40" as="geometry" />
+          <mxGeometry x="302" y="310" width="116.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-11" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="323.5" y="390" width="129.5" height="40" as="geometry" />
+          <mxGeometry x="295.5" y="390" width="129.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-12" value="安全认证" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="477.25" y="310" width="116.5" height="40" as="geometry" />
+          <mxGeometry x="449.25" y="310" width="116.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-13" value="MySQL数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="232" y="735" width="110" height="68" as="geometry" />
