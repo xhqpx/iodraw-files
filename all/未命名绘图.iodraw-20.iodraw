@@ -47,7 +47,7 @@
           <mxGeometry x="477.25" y="330" width="116.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-10" value="服务层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="233" y="489" width="108" height="48" as="geometry" />
+          <mxGeometry x="312" y="396" width="104" height="34" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-11" value="数据访问层" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="217" y="587" width="141" height="48" as="geometry" />
