@@ -65,7 +65,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-23" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;前端vue&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="501" y="10" width="180" height="120" as="geometry" />
+          <mxGeometry x="501" y="10" width="69" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
