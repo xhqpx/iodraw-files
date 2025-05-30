@@ -70,11 +70,11 @@
         <mxCell id="h0o99QJ4nR0760vtKRTT-22" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontSize=16;" edge="1" parent="1" source="h0o99QJ4nR0760vtKRTT-11" target="h0o99QJ4nR0760vtKRTT-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h0o99QJ4nR0760vtKRTT-23" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;前端vue&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="h0o99QJ4nR0760vtKRTT-23" value="&lt;h1 style=&quot;margin-top: 0px; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;前端vue&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="501" y="10" width="69" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-30" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;font-size: 16px; font-weight: 400; text-align: center;&quot;&gt;后端&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="50" height="40" as="geometry" />
+          <mxGeometry x="295.5" y="240" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
