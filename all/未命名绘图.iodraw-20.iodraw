@@ -26,10 +26,16 @@
           <mxGeometry x="210" y="90" width="123" height="40" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-6" value="状态管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="294" y="222" width="126" height="48" as="geometry" />
+          <mxGeometry x="332" y="160" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-7" value="API 调用" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="470" y="222" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="h0o99QJ4nR0760vtKRTT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0o99QJ4nR0760vtKRTT-8" target="h0o99QJ4nR0760vtKRTT-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h0o99QJ4nR0760vtKRTT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="h0o99QJ4nR0760vtKRTT-8" target="h0o99QJ4nR0760vtKRTT-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h0o99QJ4nR0760vtKRTT-8" value="组件" style="whiteSpace=wrap;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="414" y="90" width="88" height="40" as="geometry" />
