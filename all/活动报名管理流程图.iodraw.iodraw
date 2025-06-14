@@ -11,7 +11,7 @@
           <mxGeometry x="532" y="861" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-354" value="选择要编辑的活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="830" y="861" width="190" height="40" as="geometry" />
+          <mxGeometry x="840" y="861" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-355" value="选择要删除的活动" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1116" y="861" width="190" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="874.5" y="930" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-364" value="内容验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="886" y="1010" width="134" height="55" as="geometry" />
+          <mxGeometry x="877" y="1010" width="134" height="55" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-365" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="760" y="1110" width="157" height="48" as="geometry" />
