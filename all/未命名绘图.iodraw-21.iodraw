@@ -50,7 +50,7 @@
           <mxGeometry x="732.37" y="702" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-19" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="896.87" y="542" width="136" height="50" as="geometry" />
+          <mxGeometry x="935" y="542" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-20" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="912.87" y="632" width="104" height="36" as="geometry" />
@@ -183,6 +183,9 @@
             <mxPoint x="952.0265656565658" y="530.6837373737374" as="sourcePoint" />
             <mxPoint x="903.37" y="892" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="950" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-45" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-20">
