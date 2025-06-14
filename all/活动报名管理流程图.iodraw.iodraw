@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-350" value="开始" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="904" y="600" width="93" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-351" value="进入活动管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="872" y="680" width="158" height="42" as="geometry" />
         </mxCell>
@@ -76,8 +73,10 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-373" value="查看活动详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1220" y="1620" width="157" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-374" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-350" target="GW4NvebeDXwk_0ffGWO4-351">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-374" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-351">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="950.5" y="648" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-375" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-351" target="GW4NvebeDXwk_0ffGWO4-352">
           <mxGeometry relative="1" as="geometry" />
@@ -221,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-401" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 15px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="610" width="100" height="46" as="geometry" />
+          <mxGeometry x="906" y="600" width="100" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
