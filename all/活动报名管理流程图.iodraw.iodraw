@@ -50,7 +50,7 @@
           <mxGeometry x="975" y="1100" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-367" value="更新活动列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="945" y="1189" width="156" height="48" as="geometry" />
+          <mxGeometry x="960" y="1189" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-368" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1131" y="930" width="160" height="50" as="geometry" />
