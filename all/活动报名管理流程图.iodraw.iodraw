@@ -80,7 +80,7 @@
             <mxPoint x="950.5" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-376" value="发布" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-353">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-376" value="发布" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-403" target="GW4NvebeDXwk_0ffGWO4-353">
           <mxGeometry x="-0.009" y="-14" relative="1" as="geometry">
             <mxPoint x="869.5" y="781.5" as="sourcePoint" />
             <mxPoint x="30.000000000000227" y="999.12" as="targetPoint" />
@@ -95,9 +95,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-378" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-403" target="GW4NvebeDXwk_0ffGWO4-355">
-          <mxGeometry x="0.0307" y="14" relative="1" as="geometry">
+          <mxGeometry x="0.8693" y="29" relative="1" as="geometry">
             <mxPoint x="1031.5" y="781.5" as="sourcePoint" />
             <mxPoint x="1011" y="1135" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-405" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GW4NvebeDXwk_0ffGWO4-378">
+          <mxGeometry x="-0.6485" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
