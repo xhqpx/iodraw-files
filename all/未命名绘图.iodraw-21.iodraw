@@ -14,7 +14,7 @@
           <mxGeometry x="678.75" y="382" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-6" value="选择要删除的博客" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="901.37" y="382" width="126" height="48" as="geometry" />
+          <mxGeometry x="940" y="380" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-7" value="显示博客列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1202.87" y="380" width="118" height="48" as="geometry" />
