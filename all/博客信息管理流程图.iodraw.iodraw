@@ -73,10 +73,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-281" value="报名" style="startArrow=none;endArrow=block;entryX=0.432;entryY=0.049;rounded=0;fontFamily=SIMSUN;fontSize=17;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-303" target="GW4NvebeDXwk_0ffGWO4-261">
-          <mxGeometry x="0.7284" y="-16" relative="1" as="geometry">
+          <mxGeometry x="0.7964" y="-16" relative="1" as="geometry">
             <mxPoint x="369" y="1181.5" as="sourcePoint" />
             <mxPoint x="49" y="1291.61" as="targetPoint" />
-            <mxPoint y="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-282" value="查看" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=17;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-303" target="GW4NvebeDXwk_0ffGWO4-262">
