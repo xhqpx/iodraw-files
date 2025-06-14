@@ -66,8 +66,8 @@
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-428" value="回复" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-411">
-          <mxGeometry x="-0.0077" y="-25" relative="1" as="geometry">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-428" value="回复" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;spacingLeft=-3;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-411">
+          <mxGeometry x="0.1584" y="-18" relative="1" as="geometry">
             <mxPoint x="427.5" y="862.2500152587891" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
