@@ -1,99 +1,99 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="K9WO3jjqTZrMCAODOBSt">
-    <mxGraphModel dx="1002" dy="186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1454" dy="220" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GW4NvebeDXwk_0ffGWO4-449" value="进入敏感词管理" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="528" y="770" width="151" height="42" as="geometry" />
+          <mxGeometry x="528" y="746" width="151" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-451" value="输入敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="298" y="950" width="110" height="40" as="geometry" />
+          <mxGeometry x="298" y="926" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-452" value="选择要删除的敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="768.0000000000001" y="950" width="160" height="38" as="geometry" />
+          <mxGeometry x="768.0000000000001" y="926" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-453" value="显示敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="530" y="950" width="148" height="40" as="geometry" />
+          <mxGeometry x="530" y="926" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-454" value="验证敏感词" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="278" y="1028" width="150" height="50" as="geometry" />
+          <mxGeometry x="278" y="1004" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-455" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="213" y="1110" width="130" height="40" as="geometry" />
+          <mxGeometry x="213" y="1086" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-456" value="添加敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="368" y="1110" width="120" height="40" as="geometry" />
+          <mxGeometry x="368" y="1086" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-457" value="更新敏感词库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="364" y="1190" width="128" height="40" as="geometry" />
+          <mxGeometry x="364" y="1166" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-459" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="773.0000000000001" y="1028" width="150" height="50" as="geometry" />
+          <mxGeometry x="773.0000000000001" y="1004" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-460" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="724.0000000000001" y="1110" width="100" height="40" as="geometry" />
+          <mxGeometry x="724.0000000000001" y="1086" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-461" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="874.0000000000001" y="1108" width="100" height="44" as="geometry" />
+          <mxGeometry x="874.0000000000001" y="1084" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-462" value="更新敏感词库" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="860.0000000000001" y="1190" width="128" height="40" as="geometry" />
+          <mxGeometry x="860.0000000000001" y="1166" width="128" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-463" value="浏览敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1028" width="168" height="42" as="geometry" />
+          <mxGeometry x="520" y="1004" width="168" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-464" value="查看敏感词详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="528" y="1110" width="154" height="40" as="geometry" />
+          <mxGeometry x="528" y="1086" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-465" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=16;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-449">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="603.5" y="737.9999999999998" as="sourcePoint" />
+            <mxPoint x="603.5" y="713.9999999999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-466" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-449">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="603.5" y="839.9999999999998" as="targetPoint" />
+            <mxPoint x="603.5" y="815.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-467" value="添加" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;spacingLeft=-16;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-484" target="GW4NvebeDXwk_0ffGWO4-451">
           <mxGeometry x="0.8746" y="-13" relative="1" as="geometry">
-            <mxPoint x="520" y="871.5" as="sourcePoint" />
-            <mxPoint x="281" y="934.69" as="targetPoint" />
+            <mxPoint x="520" y="847.5" as="sourcePoint" />
+            <mxPoint x="281" y="910.69" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-468" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-484" target="GW4NvebeDXwk_0ffGWO4-452">
           <mxGeometry x="0.8716" y="22" relative="1" as="geometry">
-            <mxPoint x="687" y="871.5" as="sourcePoint" />
-            <mxPoint x="1121.33" y="992.5899999999999" as="targetPoint" />
+            <mxPoint x="687" y="847.5" as="sourcePoint" />
+            <mxPoint x="1121.33" y="968.5899999999999" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-469" value="查看" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-484" target="GW4NvebeDXwk_0ffGWO4-453">
           <mxGeometry x="0.4118" y="-24" relative="1" as="geometry">
-            <mxPoint x="603.5" y="902.9999999999998" as="sourcePoint" />
-            <mxPoint x="766.0000000000006" y="1432.4499999999998" as="targetPoint" />
+            <mxPoint x="603.5" y="878.9999999999998" as="sourcePoint" />
+            <mxPoint x="766.0000000000006" y="1408.4499999999998" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-470" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-451" target="GW4NvebeDXwk_0ffGWO4-454">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="49.666666666666515" y="930" as="sourcePoint" />
-            <mxPoint x="47.99999999999977" y="1099.9999999999998" as="targetPoint" />
+            <mxPoint x="49.666666666666515" y="906" as="sourcePoint" />
+            <mxPoint x="47.99999999999977" y="1075.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-471" value="验证失败" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-454" target="GW4NvebeDXwk_0ffGWO4-455">
           <mxGeometry x="0.4105" y="-37" relative="1" as="geometry">
-            <mxPoint x="208.90999999999974" y="1060" as="sourcePoint" />
-            <mxPoint x="-152.00000000000009" y="1529" as="targetPoint" />
+            <mxPoint x="208.90999999999974" y="1036" as="sourcePoint" />
+            <mxPoint x="-152.00000000000009" y="1505" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-472" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-454" target="GW4NvebeDXwk_0ffGWO4-456">
           <mxGeometry x="-0.0526" y="40" relative="1" as="geometry">
-            <mxPoint x="421.3698630136987" y="1139.9967123287668" as="sourcePoint" />
-            <mxPoint x="228" y="1626.12" as="targetPoint" />
+            <mxPoint x="421.3698630136987" y="1115.9967123287668" as="sourcePoint" />
+            <mxPoint x="228" y="1602.12" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-474" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;fontFamily=SIMSUN;fontSize=16;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-457" target="GW4NvebeDXwk_0ffGWO4-486">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="556" y="1279.68" as="targetPoint" />
+            <mxPoint x="556" y="1255.68" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-475" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-452" target="GW4NvebeDXwk_0ffGWO4-459">
@@ -110,21 +110,21 @@
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-476" value="否" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-459" target="GW4NvebeDXwk_0ffGWO4-460">
           <mxGeometry x="-0.1057" y="-17" relative="1" as="geometry">
-            <mxPoint x="787.998791208791" y="1085.9962637362635" as="sourcePoint" />
-            <mxPoint x="1114.29" y="1519.26" as="targetPoint" />
+            <mxPoint x="787.998791208791" y="1061.9962637362635" as="sourcePoint" />
+            <mxPoint x="1114.29" y="1495.26" as="targetPoint" />
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-477" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-460" target="GW4NvebeDXwk_0ffGWO4-486">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="850.0000000000001" y="1409.9999999999998" as="sourcePoint" />
-            <mxPoint x="650" y="1260" as="targetPoint" />
+            <mxPoint x="850.0000000000001" y="1385.9999999999998" as="sourcePoint" />
+            <mxPoint x="650" y="1236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-478" value="是" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-459" target="GW4NvebeDXwk_0ffGWO4-461">
           <mxGeometry x="0.0557" y="22" relative="1" as="geometry">
-            <mxPoint x="68" y="1230" as="sourcePoint" />
-            <mxPoint x="572.1700000000001" y="1621.11" as="targetPoint" />
+            <mxPoint x="68" y="1206" as="sourcePoint" />
+            <mxPoint x="572.1700000000001" y="1597.11" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -133,8 +133,8 @@
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-480" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-462" target="GW4NvebeDXwk_0ffGWO4-486">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="964.0000000000001" y="1379.9999999999998" as="sourcePoint" />
-            <mxPoint x="710" y="1300" as="targetPoint" />
+            <mxPoint x="964.0000000000001" y="1355.9999999999998" as="sourcePoint" />
+            <mxPoint x="710" y="1276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-481" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-453" target="GW4NvebeDXwk_0ffGWO4-463">
@@ -145,18 +145,18 @@
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-483" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=16;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-464" target="GW4NvebeDXwk_0ffGWO4-486">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="758.0000000000001" y="1169.9999999999998" as="sourcePoint" />
-            <mxPoint x="603" y="1260" as="targetPoint" />
+            <mxPoint x="758.0000000000001" y="1145.9999999999998" as="sourcePoint" />
+            <mxPoint x="603" y="1236" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-484" value="选择操作类型" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="528.5" y="840" width="151" height="42" as="geometry" />
+          <mxGeometry x="528.5" y="816" width="151" height="42" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-485" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 16px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="560" y="700" width="87" height="40" as="geometry" />
+          <mxGeometry x="560" y="676" width="87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-486" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 16px;&quot;&gt;结束&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="563" y="1260" width="87" height="40" as="geometry" />
+          <mxGeometry x="563" y="1236" width="87" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
