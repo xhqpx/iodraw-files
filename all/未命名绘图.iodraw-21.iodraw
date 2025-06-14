@@ -87,10 +87,10 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-28" value="编辑" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-5">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-28" value="编辑" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-53">
           <mxGeometry x="0.0972" y="-19" relative="1" as="geometry">
-            <mxPoint x="833.8699999999997" y="302" as="sourcePoint" />
-            <mxPoint x="723.37" y="403.74" as="targetPoint" />
+            <mxPoint x="706.3699999999997" y="320" as="sourcePoint" />
+            <mxPoint x="619.3699999999997" y="400" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -212,7 +212,7 @@
           <mxGeometry x="788.87" y="90" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-53" value="选择操作类型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="776.87" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="773.87" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
