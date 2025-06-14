@@ -13,7 +13,7 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-692" value="选择操作类型" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="353.5" y="790" width="146" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-693" value="显示用户信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-693" value="显示用户信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="140" y="820" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-694" value="进入修改界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-696" value="结束" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="453.5" y="1210" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-697" value="验证修改信息" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-697" value="验证修改信息" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="353.5" y="950" width="147" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-698" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
@@ -40,10 +40,10 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-701" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="620" y="910" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-702" value="取消删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-702" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="579" y="1040" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-703" value="执行删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-703" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="720" y="1040" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-704" value="更新用户列表" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
