@@ -61,10 +61,10 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2052" value="验证成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=SIMSUN;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="545" y="758" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-2053" value="验证失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="190" y="630" width="70" height="30" as="geometry" />
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-2053" value="验证失败" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=SIMSUN;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="185" y="630" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-2054" value="验证成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-2054" value="验证成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=SIMSUN;" vertex="1" parent="1">
           <mxGeometry x="445" y="630" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
