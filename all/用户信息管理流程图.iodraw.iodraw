@@ -29,7 +29,7 @@
           <mxGeometry x="90" y="700" width="152" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2041" value="发送登录请求" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="338" y="700" width="152" height="40" as="geometry" />
+          <mxGeometry x="400" y="670" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
