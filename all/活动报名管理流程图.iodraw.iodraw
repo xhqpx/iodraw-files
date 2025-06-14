@@ -94,7 +94,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-378" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-355">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-378" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-403" target="GW4NvebeDXwk_0ffGWO4-355">
           <mxGeometry x="0.0307" y="14" relative="1" as="geometry">
             <mxPoint x="1031.5" y="781.5" as="sourcePoint" />
             <mxPoint x="1011" y="1135" as="targetPoint" />
@@ -222,7 +222,7 @@
           <mxGeometry x="900" y="600" width="100" height="46" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-403" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 15px;&quot;&gt;用户操作选择&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="891" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="891" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
