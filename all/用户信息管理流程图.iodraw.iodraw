@@ -53,7 +53,10 @@
           <mxGeometry x="294" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2049" value="生成&lt;font face=&quot;Times New Roman&quot;&gt;Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="470" y="800" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-2051" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="758" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
