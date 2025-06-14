@@ -63,8 +63,8 @@
             <mxPoint x="426.5" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-709" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.384;entryY=0.067;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-723" target="GW4NvebeDXwk_0ffGWO4-695">
-          <mxGeometry x="0.8636" y="22" relative="1" as="geometry">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-709" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.384;entryY=0.067;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;spacingRight=-1;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-723" target="GW4NvebeDXwk_0ffGWO4-695">
+          <mxGeometry x="0.9229" y="15" relative="1" as="geometry">
             <mxPoint x="471.25" y="790" as="sourcePoint" />
             <mxPoint x="671.7500000000002" y="841" as="targetPoint" />
             <mxPoint y="1" as="offset" />
