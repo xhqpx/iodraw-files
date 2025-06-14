@@ -55,6 +55,9 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2047" value="显示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294" y="800" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-2057" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-2049" target="GW4NvebeDXwk_0ffGWO4-2056">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2049" value="生成&lt;font face=&quot;Times New Roman&quot;&gt;Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="490" y="800" width="120" height="40" as="geometry" />
         </mxCell>
@@ -71,7 +74,10 @@
           <mxGeometry x="445" y="630" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2056" value="保存登录状态" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="500" y="810" width="120" height="40" as="geometry" />
+          <mxGeometry x="490" y="860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-2058" value="生成&lt;font face=&quot;Times New Roman&quot;&gt;Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="510" y="820" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
