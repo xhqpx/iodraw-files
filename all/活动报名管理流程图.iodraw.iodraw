@@ -38,10 +38,10 @@
           <mxGeometry x="906" y="1310" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-363" value="修改活动内容" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="865.5" y="932" width="157" height="48" as="geometry" />
+          <mxGeometry x="861.5" y="932" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-364" value="内容验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="877" y="1010" width="134" height="55" as="geometry" />
+          <mxGeometry x="873" y="1006.5" width="134" height="55" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-365" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="760" y="1110" width="157" height="48" as="geometry" />
