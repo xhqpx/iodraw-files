@@ -35,7 +35,7 @@
           <mxGeometry x="527" y="802" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-13" value="结束" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="878.87" y="850" width="94" height="48" as="geometry" />
+          <mxGeometry x="825.37" y="840" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-14" value="修改博客内容" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="668.37" y="460" width="157" height="48" as="geometry" />
@@ -217,7 +217,7 @@
             <mxPoint x="1128" y="564" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-51" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0.39;rounded=0;edgeStyle=orthogonalEdgeStyle;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-24">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-51" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-24" target="GW4NvebeDXwk_0ffGWO4-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1289" y="602" as="sourcePoint" />
             <mxPoint x="999.9999999999999" y="878.612244897959" as="targetPoint" />
