@@ -49,6 +49,9 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2047" value="显示错误信息" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="294" y="800" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-2049" value="生成&lt;font face=&quot;Times New Roman&quot;&gt;Token&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="220" y="690" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
