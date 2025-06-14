@@ -158,7 +158,7 @@
             <mxPoint x="553.0000000000002" y="1370.413280564911" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-445" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-445" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 17px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
