@@ -50,7 +50,7 @@
             <mxPoint x="426.5" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-707" value="查看" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-693">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-707" value="查看" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-723" target="GW4NvebeDXwk_0ffGWO4-693">
           <mxGeometry x="0.1858" y="10" relative="1" as="geometry">
             <mxPoint x="393.5" y="810" as="sourcePoint" />
             <mxPoint x="240" y="861" as="targetPoint" />
@@ -63,10 +63,10 @@
             <mxPoint x="426.5" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-709" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-723" target="GW4NvebeDXwk_0ffGWO4-695">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-709" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry x="-0.0414" y="-10" relative="1" as="geometry">
-            <mxPoint x="499.5" y="820" as="sourcePoint" />
-            <mxPoint x="727.33" y="784.59" as="targetPoint" />
+            <mxPoint x="471.25" y="790" as="sourcePoint" />
+            <mxPoint x="671.7500000000002" y="841" as="targetPoint" />
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
