@@ -14,7 +14,7 @@
           <mxGeometry x="678.75" y="382" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-6" value="选择要删除的博客" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="940" y="380" width="126" height="48" as="geometry" />
+          <mxGeometry x="960" y="380" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-7" value="显示博客列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1202.87" y="380" width="118" height="48" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="732.37" y="702" width="156" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-19" value="确认删除?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="935" y="542" width="136" height="50" as="geometry" />
+          <mxGeometry x="955" y="542" width="136" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-20" value="取消删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="888.37" y="632" width="104" height="36" as="geometry" />
@@ -185,7 +185,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-45" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-20">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-45" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-20" target="GW4NvebeDXwk_0ffGWO4-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="963.4108163265305" y="839.9999999999998" as="targetPoint" />
           </mxGeometry>
