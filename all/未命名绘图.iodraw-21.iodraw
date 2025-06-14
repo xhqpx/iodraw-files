@@ -94,24 +94,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-29" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-6">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-29" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
           <mxGeometry x="0.062" y="17" relative="1" as="geometry">
-            <mxPoint x="833.8699999999997" y="302" as="sourcePoint" />
-            <mxPoint x="919.86" y="411.23" as="targetPoint" />
+            <mxPoint x="972.3699999999997" y="270" as="sourcePoint" />
+            <mxPoint x="1102.87" y="350" as="targetPoint" />
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-30" value="查看" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-53">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-30" value="查看" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-53" target="GW4NvebeDXwk_0ffGWO4-7">
           <mxGeometry x="-0.056" y="10" relative="1" as="geometry">
             <mxPoint x="912.8699999999999" y="272" as="sourcePoint" />
             <mxPoint x="1060.37" y="312" as="targetPoint" />
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="834" y="310" />
-              <mxPoint x="977" y="310" />
-              <mxPoint x="977" y="302" />
-              <mxPoint x="1060" y="302" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-4" target="GW4NvebeDXwk_0ffGWO4-8">
