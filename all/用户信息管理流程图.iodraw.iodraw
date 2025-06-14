@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2033" value="开始" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="293" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="313" y="420" width="87" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-2034" value="进入登录页面" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="293" y="480" width="127" height="40" as="geometry" />
