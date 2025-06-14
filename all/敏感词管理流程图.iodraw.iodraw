@@ -1,9 +1,133 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="K9WO3jjqTZrMCAODOBSt">
-    <mxGraphModel dx="473" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-690" value="开始" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="640" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-691" value="进入用户信息管理" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="331.5" y="720" width="190" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-692" value="选择操作类型" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="790" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-693" value="显示用户信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="820" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-694" value="进入修改界面" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="350.5" y="890" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-695" value="确认删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="584" y="820" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-696" value="结束" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="453.5" y="1210" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-697" value="验证修改信息" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="353.5" y="950" width="147" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-698" value="提示错误信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="290" y="1040" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-699" value="保存修改" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1040" width="101" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-700" value="更新用户信息" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="422" y="1120" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-701" value="确认删除?" style="rhombus;strokeWidth=1;whiteSpace=wrap;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="910" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-702" value="取消删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="579" y="1040" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-703" value="执行删除" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1040" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-704" value="更新用户列表" style="whiteSpace=wrap;strokeWidth=1;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="704" y="1120" width="156" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-705" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-690" target="GW4NvebeDXwk_0ffGWO4-691">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-706" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-691" target="GW4NvebeDXwk_0ffGWO4-692">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-707" value="查看" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-692" target="GW4NvebeDXwk_0ffGWO4-693">
+          <mxGeometry x="0.1858" y="10" relative="1" as="geometry">
+            <mxPoint x="273.7526881720428" y="781.8709677419355" as="sourcePoint" />
+            <mxPoint x="105.00000000000023" y="768" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-708" value="修改" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-692" target="GW4NvebeDXwk_0ffGWO4-694">
+          <mxGeometry y="-16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-709" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-692" target="GW4NvebeDXwk_0ffGWO4-695">
+          <mxGeometry x="-0.0414" y="-10" relative="1" as="geometry">
+            <mxPoint x="566.6660655737707" y="789.9998360655737" as="sourcePoint" />
+            <mxPoint x="727.33" y="784.59" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-710" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.39;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;edgeStyle=orthogonalEdgeStyle;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-693" target="GW4NvebeDXwk_0ffGWO4-696">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-711" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-694" target="GW4NvebeDXwk_0ffGWO4-697">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-712" value="验证失败" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-697" target="GW4NvebeDXwk_0ffGWO4-698">
+          <mxGeometry x="-0.1361" y="-33" relative="1" as="geometry">
+            <mxPoint x="331.5" y="1070" as="sourcePoint" />
+            <mxPoint x="243.50000000000023" y="1120" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-713" value="验证成功" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-697" target="GW4NvebeDXwk_0ffGWO4-699">
+          <mxGeometry y="40" relative="1" as="geometry">
+            <mxPoint x="552.6153846153848" y="1039.999230769231" as="sourcePoint" />
+            <mxPoint x="595" y="1089.23" as="targetPoint" />
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-714" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-699" target="GW4NvebeDXwk_0ffGWO4-700">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-715" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-700" target="GW4NvebeDXwk_0ffGWO4-696">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="358.5" y="1249.9999999999998" as="sourcePoint" />
+            <mxPoint x="280" y="1372" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-716" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-695" target="GW4NvebeDXwk_0ffGWO4-701">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-717" value="否" style="startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-701" target="GW4NvebeDXwk_0ffGWO4-702">
+          <mxGeometry x="-0.0537" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-718" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.99;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;edgeStyle=elbowEdgeStyle;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-702" target="GW4NvebeDXwk_0ffGWO4-696">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-719" value="是" style="startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-701" target="GW4NvebeDXwk_0ffGWO4-703">
+          <mxGeometry x="0.1117" y="17" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-720" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-703" target="GW4NvebeDXwk_0ffGWO4-704">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-721" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=1;entryY=0.5;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;edgeStyle=elbowEdgeStyle;fontSize=14;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-704" target="GW4NvebeDXwk_0ffGWO4-696">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="775.9999999999998" y="1279.9999999999998" as="sourcePoint" />
+            <mxPoint x="550.9999999999998" y="1338.1632653061224" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
