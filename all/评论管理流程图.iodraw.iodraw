@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 SLBrowser/9.0.6.5061 SLBChan/103 SLBVPV/64-bit" version="24.7.17">
   <diagram name="第 1 页" id="K9WO3jjqTZrMCAODOBSt">
-    <mxGraphModel dx="1461" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,8 +157,11 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-484" value="选择操作类型" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="528.5" y="840" width="151" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-485" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="700" width="120" height="60" as="geometry" />
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-485" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 16px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="353" y="700" width="87" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-486" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 16px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="363" y="710" width="87" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
