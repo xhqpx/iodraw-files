@@ -23,7 +23,7 @@
           <mxGeometry x="290" y="1040" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-699" value="保存修改" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1040" width="101" height="48" as="geometry" />
+          <mxGeometry x="479" y="1040" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-700" value="更新用户信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="422" y="1120" width="157" height="48" as="geometry" />
