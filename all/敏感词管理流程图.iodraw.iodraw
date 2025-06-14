@@ -129,7 +129,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-722" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 14px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="230.5" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="230.5" y="640" width="89.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
