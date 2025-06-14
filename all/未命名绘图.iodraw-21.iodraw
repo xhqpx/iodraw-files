@@ -14,7 +14,7 @@
           <mxGeometry x="678.75" y="382" width="132" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-6" value="选择要删除的博客" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="878.87" y="382" width="126" height="48" as="geometry" />
+          <mxGeometry x="901.37" y="382" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-7" value="显示博客列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1170" y="290" width="118" height="48" as="geometry" />
@@ -173,7 +173,7 @@
             <mxPoint x="844.37" y="874.4799999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-43" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-19">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-43" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-6" target="GW4NvebeDXwk_0ffGWO4-19">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="925.3699999999999" y="430" as="sourcePoint" />
           </mxGeometry>
