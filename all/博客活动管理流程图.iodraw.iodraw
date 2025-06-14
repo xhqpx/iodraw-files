@@ -55,7 +55,7 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-424" value="更新评论列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="787.5" y="1192.250015258789" width="156" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-425" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=17;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-408">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-425" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=17;exitDx=0;exitDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-445" target="GW4NvebeDXwk_0ffGWO4-408">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="427.5" y="700.2500152587891" as="sourcePoint" />
           </mxGeometry>
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-445" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 17px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="221.5" y="652.25" width="98.5" height="47.75" as="geometry" />
+          <mxGeometry x="377.75" y="652.25" width="98.5" height="47.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
