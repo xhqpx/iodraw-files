@@ -190,11 +190,11 @@
             <mxPoint x="450.5" y="1150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-303" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 17px;&quot;&gt;选择操作类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-303" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 17px;&quot;&gt;选择操作类型&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="389.75" y="1120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-305" value="&lt;span style=&quot;font-family: SIMSUN; font-size: 17px;&quot;&gt;开始&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="416.25" y="984" width="87" height="44" as="geometry" />
+          <mxGeometry x="389.75" y="1930" width="87" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
