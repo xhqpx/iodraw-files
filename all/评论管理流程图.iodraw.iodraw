@@ -157,6 +157,9 @@
         <mxCell id="GW4NvebeDXwk_0ffGWO4-484" value="选择操作类型" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="528.5" y="840" width="151" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-485" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
