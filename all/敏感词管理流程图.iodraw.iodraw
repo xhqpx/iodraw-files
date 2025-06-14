@@ -8,7 +8,7 @@
           <mxGeometry x="331.5" y="720" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-693" value="显示用户信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="140" y="881" width="150" height="29" as="geometry" />
+          <mxGeometry x="160" y="881" width="150" height="29" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-694" value="进入修改界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="357.5" y="881" width="152" height="30" as="geometry" />
@@ -58,8 +58,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-708" value="修改" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;exitDx=0;exitDy=0;spacingLeft=-8;spacingBottom=3;labelBorderColor=default;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-723" target="GW4NvebeDXwk_0ffGWO4-694">
-          <mxGeometry x="0.5686" y="-13" relative="1" as="geometry">
-            <mxPoint as="offset" />
+          <mxGeometry x="-1" y="-114" relative="1" as="geometry">
+            <mxPoint x="1" y="-10" as="offset" />
             <mxPoint x="426.5" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
