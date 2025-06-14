@@ -35,7 +35,7 @@
           <mxGeometry x="590" y="1030" width="121" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-703" value="执行删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1040" width="120" height="40" as="geometry" />
+          <mxGeometry x="752.5" y="1030" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-704" value="更新用户列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="704" y="1120" width="156" height="48" as="geometry" />
@@ -114,9 +114,11 @@
             <mxPoint x="546.56" y="1210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-719" value="是" style="startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-701" target="GW4NvebeDXwk_0ffGWO4-703">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-719" value="是" style="startArrow=none;endArrow=block;exitX=0.93;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1">
           <mxGeometry x="0.1117" y="17" relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="809.9955913978496" y="910.0008602150538" as="sourcePoint" />
+            <mxPoint x="892.63" y="961.56" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-720" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-703" target="GW4NvebeDXwk_0ffGWO4-704">
