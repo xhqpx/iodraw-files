@@ -156,7 +156,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-389" value="验证成功" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-366" source="GW4NvebeDXwk_0ffGWO4-364">
-          <mxGeometry x="0.1231" y="34" relative="1" as="geometry">
+          <mxGeometry x="0.5875" y="32" relative="1" as="geometry">
             <mxPoint x="1020" y="1038" as="sourcePoint" />
             <mxPoint x="962.1399999999996" y="1268" as="targetPoint" />
             <mxPoint as="offset" />
