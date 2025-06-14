@@ -17,7 +17,7 @@
           <mxGeometry x="901.37" y="382" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-7" value="显示博客列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="290" width="118" height="48" as="geometry" />
+          <mxGeometry x="1202.87" y="380" width="118" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-8" value="填写博客信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="461.37" y="460" width="158" height="48" as="geometry" />
@@ -106,6 +106,12 @@
             <mxPoint x="912.8699999999999" y="272" as="sourcePoint" />
             <mxPoint x="1060.37" y="312" as="targetPoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="834" y="310" />
+              <mxPoint x="977" y="310" />
+              <mxPoint x="977" y="302" />
+              <mxPoint x="1060" y="302" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-31" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;exitDx=0;exitDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-4" target="GW4NvebeDXwk_0ffGWO4-8">
@@ -202,7 +208,7 @@
             <mxPoint x="1013.37" y="874.2448979591836" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-49" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-7">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-49" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-7" target="GW4NvebeDXwk_0ffGWO4-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1314.13" y="300" as="sourcePoint" />
             <mxPoint x="1288" y="446" as="targetPoint" />
