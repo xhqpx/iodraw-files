@@ -61,13 +61,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-708" value="修改" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-694">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-708" value="修改" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;fontSize=14;exitDx=0;exitDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-723" target="GW4NvebeDXwk_0ffGWO4-694">
           <mxGeometry y="-16" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="426.5" y="850" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-709" value="删除" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="GW4NvebeDXwk_0ffGWO4-695">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-709" value="删除" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0;rounded=0;fontFamily=SIMSUN;fontStyle=0;strokeWidth=1;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-723" target="GW4NvebeDXwk_0ffGWO4-695">
           <mxGeometry x="-0.0414" y="-10" relative="1" as="geometry">
             <mxPoint x="499.5" y="820" as="sourcePoint" />
             <mxPoint x="727.33" y="784.59" as="targetPoint" />
@@ -132,7 +132,7 @@
           <mxGeometry x="230.5" y="640" width="89.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-723" value="选择操作类型" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="332" y="760" width="190" height="48" as="geometry" />
+          <mxGeometry x="364.5" y="790" width="138" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
