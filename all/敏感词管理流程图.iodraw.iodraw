@@ -8,10 +8,10 @@
           <mxGeometry x="331.5" y="720" width="190" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-693" value="显示用户信息" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="140" y="820" width="157" height="48" as="geometry" />
+          <mxGeometry x="140" y="881" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-694" value="进入修改界面" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="890" width="152" height="30" as="geometry" />
+          <mxGeometry x="357.5" y="881" width="152" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-695" value="确认删除" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontStyle=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="634" y="881" width="126" height="48" as="geometry" />
