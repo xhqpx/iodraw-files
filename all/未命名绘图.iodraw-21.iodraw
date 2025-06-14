@@ -117,7 +117,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-33" value="验证失败" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-9" target="GW4NvebeDXwk_0ffGWO4-10">
-          <mxGeometry x="0.0587" y="-31" relative="1" as="geometry">
+          <mxGeometry x="-0.001" y="-38" relative="1" as="geometry">
             <mxPoint x="435.37" y="592" as="sourcePoint" />
             <mxPoint x="42.39941176470631" y="978" as="targetPoint" />
             <mxPoint as="offset" />
@@ -178,14 +178,11 @@
             <mxPoint x="925.3699999999999" y="430" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-44" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-19" target="GW4NvebeDXwk_0ffGWO4-20">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-44" value="否" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=SIMSUN;fontSize=15;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-19" target="GW4NvebeDXwk_0ffGWO4-20">
           <mxGeometry y="-11" relative="1" as="geometry">
             <mxPoint x="952.0265656565658" y="530.6837373737374" as="sourcePoint" />
             <mxPoint x="903.37" y="892" as="targetPoint" />
             <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="950" y="600" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-45" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.49;entryY=0.01;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-20">
