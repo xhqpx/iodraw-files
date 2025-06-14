@@ -20,7 +20,7 @@
           <mxGeometry x="61.5" y="1142.250015258789" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-414" value="查看评论详情" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="65.5" y="1237.250015258789" width="157.5" height="45" as="geometry" />
+          <mxGeometry x="62.75" y="1235.750015258789" width="157.5" height="45" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-416" value="输入回复内容" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="349.5" y="980.0000152587891" width="156" height="48" as="geometry" />
