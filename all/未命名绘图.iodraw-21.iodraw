@@ -75,7 +75,7 @@
             <mxPoint x="833.8699999999999" y="140" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GW4NvebeDXwk_0ffGWO4-26" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-2">
+        <mxCell id="GW4NvebeDXwk_0ffGWO4-26" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;fontFamily=SIMSUN;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW4NvebeDXwk_0ffGWO4-2" target="GW4NvebeDXwk_0ffGWO4-53">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="833.8699999999997" y="242" as="targetPoint" />
           </mxGeometry>
@@ -212,7 +212,7 @@
           <mxGeometry x="788.87" y="90" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-53" value="选择操作类型" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=SIMSUN;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="513.37" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="776.87" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
