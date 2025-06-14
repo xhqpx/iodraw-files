@@ -11,10 +11,10 @@
           <mxGeometry x="298" y="950" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-452" value="选择要删除的敏感词" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="768.0000000000001" y="952" width="160" height="38" as="geometry" />
+          <mxGeometry x="768.0000000000001" y="950" width="160" height="38" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-453" value="显示敏感词列表" style="whiteSpace=wrap;strokeWidth=2;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="531" y="950" width="148" height="40" as="geometry" />
+          <mxGeometry x="530" y="950" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GW4NvebeDXwk_0ffGWO4-454" value="验证敏感词" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontFamily=SIMSUN;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="278" y="1028" width="150" height="50" as="geometry" />
